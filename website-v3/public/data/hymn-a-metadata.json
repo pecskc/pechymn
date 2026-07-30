@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 59,
+  "totalSongs": 73,
   "items": [
     {
       "id": "hymn_a_1",
@@ -2703,8 +2703,8 @@
           "key": "lyricist",
           "label": "作詞",
           "value": "Lewis E. Jones",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/there-is-power-in-the-blood/",
-          "sourceLabel": "hymnallibrary.org"
+          "sourceUrl": "https://hymnary.org/text/would_you_be_free_from_the_burden_jones",
+          "sourceLabel": "hymnary.org"
         },
         {
           "key": "composer",
@@ -2736,7 +2736,8 @@
         }
       ],
       "allSources": [
-        "https://www.hymnallibrary.org/hymns/there-is-power-in-the-blood/"
+        "https://www.hymnallibrary.org/hymns/there-is-power-in-the-blood/",
+        "https://hymnary.org/text/would_you_be_free_from_the_burden_jones"
       ]
     },
     {
@@ -3082,6 +3083,672 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/since-jesus-came-into-my-heart/"
+      ]
+    },
+    {
+      "id": "hymn_a_155",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "155",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Not I, But Christ",
+          "sourceUrl": "https://hymnary.org/text/not_i_but_christ_be_honored_loved_exalte",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Ada A. Whiddington",
+          "sourceUrl": "https://hymnary.org/text/not_i_but_christ_be_honored_loved_exalte",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1890",
+          "sourceUrl": "https://hymnary.org/text/not_i_but_christ_be_honored_loved_exalte",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "捨己、基督為中心、成聖生活",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/not-i-but-christ/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "《Not I, But Christ》是一首強調奉獻與成聖生活的靈修詩歌。詩歌靈感主要來自《加拉太書》2:20「現在活著的不再是我，乃是基督在我裡面活著」，旨在鼓勵信徒放下自我，以基督為生命中心。歌詞反覆強調「不是我，乃是基督」，表達信徒不依靠自身能力，而是完全倚靠主的心志。同時呼應《約翰福音》3:30「祂必興旺，我必衰微」的精神，指出真正的喜樂、聖潔與屬靈果效都源於基督在生命中的掌權。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/not-i-but-christ/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/not_i_but_christ_be_honored_loved_exalte",
+        "https://www.hymnallibrary.org/hymns/not-i-but-christ/"
+      ]
+    },
+    {
+      "id": "hymn_a_158",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "158",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Is Your All on the Altar?",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/is-your-all-on-the-altar/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "E. A. Hoffman",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/is-your-all-on-the-altar/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1900",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/is-your-all-on-the-altar/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "全然奉獻、祭壇、順服",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/is-your-all-on-the-altar/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由著名聖詩作家 Fanny J. Crosby 於1874年創作。此詩的創作目的是勉勵信徒省察自己是否已將生命完全奉獻給神。詩歌以祭壇作為象徵，呼應《羅馬書》12:1「將身體獻上，當作活祭」的教導，鼓勵信徒將心思、意念和意志毫無保留地交託給主。歌詞透過一連串反思性的提問，挑戰信徒是否仍有保留或不願交出的部分，同時指出完全順服與奉獻將帶來屬天的平安與祝福。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/is-your-all-on-the-altar/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/is-your-all-on-the-altar/"
+      ]
+    },
+    {
+      "id": "hymn_a_165",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "165",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "What Shall I Give Thee, Master?",
+          "sourceUrl": "https://hymnary.org/text/what_shall_i_give_thee_master",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Homer W. Grimes",
+          "sourceUrl": "https://hymnary.org/text/what_shall_i_give_thee_master",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1937",
+          "sourceUrl": "https://hymnary.org/text/what_shall_i_give_thee_master",
+          "sourceLabel": "hymnary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/what_shall_i_give_thee_master"
+      ]
+    },
+    {
+      "id": "hymn_a_170",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "170",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Have I Done My Best for Jesus?",
+          "sourceUrl": "https://hymnary.org/text/i_wonder_have_i_given_my_best_to_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "E. Edwin Young",
+          "sourceUrl": "https://hymnary.org/text/i_wonder_have_i_given_my_best_to_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1940",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/have-i-done-my-best-for-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "事奉省察、十架回應、忠心委身",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/have-i-done-my-best-for-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由救世軍軍官 Ensign Edwin Young 於1940年創作。創作背景源於他參加一場宣教會議前的聚會，當聽見講員提到許多未得之民從未聽聞耶穌時，內心深受觸動，開始反思自己是否已為主盡上最大的努力。這份感動促使他寫下詞曲。歌詞根據《路加福音》12:48及《哥林多後書》5:15等經文，透過一連串自我省察的問題，挑戰信徒是否關心失喪靈魂、願意犧牲奉獻並忠心事奉基督。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/have-i-done-my-best-for-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_wonder_have_i_given_my_best_to_jesus",
+        "https://www.hymnallibrary.org/hymns/have-i-done-my-best-for-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_176",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "176",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Let the Lower Lights Be Burning",
+          "sourceUrl": "https://hymnary.org/text/brightly_beams_our_fathers_mercy",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Philip P. Bliss",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/let-the-lower-lights-be-burning/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1871",
+          "sourceUrl": "https://hymnary.org/text/brightly_beams_our_fathers_mercy",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "福音見證、守望、引人歸主",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/let-the-lower-lights-be-burning/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由福音音樂家 Philip Paul Bliss 於1871年創作，創作源於佈道家 Dwight L. Moody 在講道中分享的一則故事：一艘船在暴風雨中駛近港口時，雖能看見燈塔的光，但引導航道的岸邊燈火熄滅，導致船隻觸礁沉沒。Moody 藉此提醒信徒：「主會看顧大燈塔，而我們應當保持小燈火常亮。」這番話深深感動 Bliss，促使他譜寫此詩。詩歌以燈塔象徵神永不熄滅的救恩之光，而信徒則被比喻為「下層燈火（lower lights）」，肩負引導迷失靈魂歸向基督的責任。歌詞強調基督徒應忠心見證、持續發光，在人生風浪中幫助他人找到恩典的港口。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/let-the-lower-lights-be-burning/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/brightly_beams_our_fathers_mercy",
+        "https://www.hymnallibrary.org/hymns/let-the-lower-lights-be-burning/"
+      ]
+    },
+    {
+      "id": "hymn_a_178",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "178",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Jesus Calls Us; O'er the Tumult",
+          "sourceUrl": "https://hymnary.org/text/jesus_calls_us_oer_the_tumult",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Cecil Frances Alexander",
+          "sourceUrl": "https://hymnary.org/text/jesus_calls_us_oer_the_tumult",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1852",
+          "sourceUrl": "https://hymnary.org/text/jesus_calls_us_oer_the_tumult/",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主的呼召、離棄纏累、忠心跟隨",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-calls-us-oer-the-tumult/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由愛爾蘭著名聖詩作家 Cecil Frances Alexander 於1852年創作，靈感來自耶穌呼召門徒「跟從我」的經歷（馬太福音4:19）。目的是提醒信徒，即使身處日常生活的忙碌與紛擾之中，基督仍不斷呼喚人離開世俗牽掛，全心跟隨祂。歌詞以沉思和禱告的語氣，描繪門徒回應主呼召的榜樣，鼓勵信徒在每個世代都以順服和委身回應基督。此詩多年來廣泛用於奉獻、按立及差傳聚會，持續激勵信徒忠心跟從主。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-calls-us-oer-the-tumult/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/jesus_calls_us_oer_the_tumult",
+        "https://www.hymnallibrary.org/hymns/jesus-calls-us-oer-the-tumult/"
+      ]
+    },
+    {
+      "id": "hymn_a_180",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "180",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Give of Your Best to the Master",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-of-your-best-to-the-master/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Howard B. Grose",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-of-your-best-to-the-master/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1902",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-of-your-best-to-the-master/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "青春奉獻、全心事主、忠心爭戰",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-of-your-best-to-the-master/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國浸信會牧師、教育家及編輯 Howard B. Grose 於1902年創作。呼籲信徒將自己最好的時間、精力和才能奉獻給基督，全心全意為祂而活，而不是把剩餘的部分獻給祂。歌詞引用《歌羅西書》3:23的精神，強調無論做任何事，都應當為主而做。Grose 長期投身宣教與福音事工，並以此詩鼓勵信徒以熱誠和委身回應神的呼召，視事奉為榮耀而非重擔。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-of-your-best-to-the-master/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/give-of-your-best-to-the-master/"
+      ]
+    },
+    {
+      "id": "hymn_a_184",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "184",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Bring Them In",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/bring-them-in/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Alexcenah Thomas",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/bring-them-in/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William A. Ogden",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/bring-them-in/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1885（首次出版）",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/bring-them-in/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "尋回迷羊、福音呼召、宣教使命",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/bring-them-in/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 19 世紀聖詩作者 Alexcenah Thomas 作詞、教會音樂家 William A. Ogden 譜曲，於1885年出版。創作意象取自牧人尋羊，呼應路加福音 15 章與約翰福音 10 章，鼓勵信徒效法基督，主動尋找並帶領迷失的靈魂歸向主。歌詞呼籲基督徒走出安逸的「羊圈」，關心在屬靈黑暗中徘徊的人，將他們帶入救恩之中。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/bring-them-in/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/bring-them-in/"
+      ]
+    },
+    {
+      "id": "hymn_a_185",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "185",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Give Me Thy Heart",
+          "sourceUrl": "https://hymnary.org/text/give_me_thy_heart_says_the_father_above",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "E. E. Hewitt",
+          "sourceUrl": "https://hymnary.org/text/give_me_thy_heart_says_the_father_above",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1898",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-me-thy-heart/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "心歸主、悔改、順服交託",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-me-thy-heart/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國聖詩作家 Eliza E. Hewitt 於1898年創作，靈感取自箴言 23:26「我兒，要將你的心歸我」。Hewitt 一生長期受脊椎傷患與慢性疼痛所苦，卻透過詩歌見證她對神堅定的信靠。此詩以天父、救主與聖靈連續呼喚「將心給我」的結構，勸勉人將生命完全獻給主。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-me-thy-heart/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/give_me_thy_heart_says_the_father_above",
+        "https://www.hymnallibrary.org/hymns/give-me-thy-heart/"
+      ]
+    },
+    {
+      "id": "hymn_a_188",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "188",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Living for Jesus (a life that is true)",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/living-for-jesus-a-life-that-is-true/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Thomas O. Chisholm",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/living-for-jesus-a-life-that-is-true/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "C. Harold Lowden",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/living-for-jesus-a-life-that-is-true/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1917",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/living-for-jesus-a-life-that-is-true/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "為主而活、奉獻、十架道路",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/living-for-jesus-a-life-that-is-true/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由循道宗牧者兼聖詩作家 Thomas O. Chisholm 於1917年作詞，C. Harold Lowden 譜曲。據記載，Lowden 先完成旋律並邀 Chisholm 填詞，後者在短期內完成歌詞，主題聚焦羅馬書 12:1 式的全人奉獻。詩歌從十架救恩出發，逐節推進到順服、事奉與忍耐，後來成為英語教會「委身生活」主題最常用詩歌之一。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/living-for-jesus-a-life-that-is-true/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/living-for-jesus-a-life-that-is-true/"
+      ]
+    },
+    {
+      "id": "hymn_a_191",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "191",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I Gave My Life for Thee",
+          "sourceUrl": "https://hymnary.org/text/i_gave_my_life_for_thee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Frances R. Havergal",
+          "sourceUrl": "https://hymnary.org/text/i_gave_my_life_for_thee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1859",
+          "sourceUrl": "https://hymnary.org/text/i_gave_my_life_for_thee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "十架回應、奉獻、委身",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-gave-my-life-for-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "作者 Frances Ridley Havergal 是19世紀英國著名聖詩作家，她在德國杜塞道夫觀看 Sternberg 的名畫《Ecce Homo》時，被畫下「我為你做了這些，你又為我做了什麼？」這句話深深觸動，寫下此詩。雖然她曾想棄掉草稿，但被父親 William Henry Havergal 保存下來並譜曲。後來 Philip P. Bliss 為詩歌創作了廣為流傳的旋律《Kenosis》。詩歌以基督為人捨命為主題，呼籲信徒不再為自己而活，而是將生命奉獻給為他們死而復活的主。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-gave-my-life-for-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "哥林多後書 5:15",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-gave-my-life-for-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_gave_my_life_for_thee",
+        "https://www.hymnallibrary.org/hymns/i-gave-my-life-for-thee/"
+      ]
+    },
+    {
+      "id": "hymn_a_193",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "193",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I'd Rather Have Jesus Than Silver or Gold",
+          "sourceUrl": "https://hymnary.org/text/id_rather_have_jesus_than_silver_or_gold",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Rhea F. Miller",
+          "sourceUrl": "https://hymnary.org/text/id_rather_have_jesus_than_silver_or_gold",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1922",
+          "sourceUrl": "https://hymnary.org/text/id_rather_have_jesus_than_silver_or_gold",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "基督至寶、價值抉擇、捨棄世界",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/id-rather-have-jesus-than-silver-or-gold/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Rhea F. Miller 於1922年填詞，George Beverly Shea 譜曲。當年 Shea 面臨投身世俗音樂事業的誘惑，但在讀到母親留下的詩詞後深受感動，決定獻身事奉，這首詩歌後來也成為他與 Billy Graham 佈道事工中的代表作。歌詞以「寧願得著耶穌，也不要金銀財富、名聲與掌聲」為主題，強調基督的價值遠勝世上一切成就與享樂。詩歌呼應保羅在《腓立比書》3:8的教導，鼓勵信徒以基督為至寶，忠心跟隨主，並在祂裡面找到真正的滿足與永恆意義。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/id-rather-have-jesus-than-silver-or-gold/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/id_rather_have_jesus_than_silver_or_gold",
+        "https://www.hymnallibrary.org/hymns/id-rather-have-jesus-than-silver-or-gold/"
+      ]
+    },
+    {
+      "id": "hymn_a_199",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "199",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "His Eye Is on the Sparrow",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/his-eye-is-on-the-sparrow/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Civilla D. Martin",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/his-eye-is-on-the-sparrow/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Charles H. Gabriel",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/his-eye-is-on-the-sparrow/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1905",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/his-eye-is-on-the-sparrow/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主看顧、安慰、信心堅定",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/his-eye-is-on-the-sparrow/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Civilla Durfee Martin 於1905年填詞，Charles H. Gabriel 譜曲，靈感源自《馬太福音》中神眷顧麻雀的教導。據說 Martin 探訪臥病二十年的 Mrs. Doolittle 時，對方以「神看顧麻雀，也必看顧我」表達內心平安，深深感動了她。詩歌以信徒面對憂慮與困境時的掙扎開始，並以神時刻看顧祂兒女的信心作回應。其溫暖動人的旋律與歌詞，多年來持續安慰在苦難、孤單與憂傷中的信徒，提醒人們自己從未被神遺忘。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/his-eye-is-on-the-sparrow/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/his-eye-is-on-the-sparrow/"
+      ]
+    },
+    {
+      "id": "hymn_a_200",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "200",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "My Faith Looks Up to Thee",
+          "sourceUrl": "https://hymnary.org/text/my_faith_looks_up_to_thee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Ray Palmer",
+          "sourceUrl": "https://hymnary.org/text/my_faith_looks_up_to_thee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1830",
+          "sourceUrl": "https://hymnary.org/text/my_faith_looks_up_to_thee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "信心仰望、十架羔羊、委身祈禱",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/my-faith-looks-up-to-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Ray Palmer 於1830年創作，原是他靈命復興後寫下的一首私人默想詩，後來由著名教會音樂家 Lowell Mason 譜上旋律《Olivet》，並於1832年出版。詩歌以向基督獻上的禱告為主題，表達信徒對主的信靠、赦免與屬靈力量的渴求。開首「My faith looks up to Thee」宣告信心單單仰望為世人犧牲的救主。常用於聖餐、奉獻及委身聚會，鼓勵信徒在各樣處境中堅定仰望基督。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/my-faith-looks-up-to-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/my_faith_looks_up_to_thee",
+        "https://www.hymnallibrary.org/hymns/my-faith-looks-up-to-thee/"
       ]
     }
   ]
