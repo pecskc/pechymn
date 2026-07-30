@@ -7,11 +7,11 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 ---
 
 <BaseLayout title="平安詩集" description="包含平安詩集、敬拜頌歌、詩歌集(葵平/涌平)、沙平匯曲(沙平)、彩虹詩集(海平)，及收錄在敬拜頌歌的英文歌詞，以曲目/歌名/歌詞搜索詩歌快捷方便。">
-	<div id="top-controls-overlay" class="top-controls-overlay" aria-label="搜尋與分類控制">
+	<div id="top-controls-overlay" class="top-controls-overlay" aria-label="搜索與分類控制">
 		<div class="top-controls-overlay-card card panel">
 			<div class="search-row">
-				<input id="search-input" class="search-input" type="search" placeholder="歌曲編號 / 歌詞內容" autocomplete="off" />
-				<button id="search-btn" type="button" class="search-btn" aria-label="搜尋" title="搜尋">🔍</button>
+				<input id="search-input" class="search-input" type="search" placeholder="歌曲編號 / 歌詞內容" autocomplete="off" enterkeyhint="search" />
+				<button id="search-btn" type="button" class="search-btn" aria-label="搜索" title="搜索">🔍</button>
 				<button id="toggle-settings" type="button" class="search-btn subtle" aria-label="設定" title="設定">
 					<svg class="settings-btn-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
 						<path d="M19.14 12.94a7.96 7.96 0 0 0 .06-.94 7.96 7.96 0 0 0-.06-.94l2.03-1.58a.5.5 0 0 0 .12-.64l-1.92-3.32a.5.5 0 0 0-.6-.22l-2.39.96a7.46 7.46 0 0 0-1.63-.94l-.36-2.54A.5.5 0 0 0 13.9 2h-3.8a.5.5 0 0 0-.49.42l-.36 2.54a7.46 7.46 0 0 0-1.63.94l-2.39-.96a.5.5 0 0 0-.6.22L2.71 8.48a.5.5 0 0 0 .12.64l2.03 1.58a7.96 7.96 0 0 0-.06.94c0 .32.02.63.06.94l-2.03 1.58a.5.5 0 0 0-.12.64l1.92 3.32a.5.5 0 0 0 .6.22l2.39-.96c.5.38 1.05.7 1.63.94l.36 2.54a.5.5 0 0 0 .49.42h3.8a.5.5 0 0 0 .49-.42l.36-2.54c.58-.24 1.13-.56 1.63-.94l2.39.96a.5.5 0 0 0 .6-.22l1.92-3.32a.5.5 0 0 0-.12-.64l-2.03-1.58zM12 15.2A3.2 3.2 0 1 1 12 8.8a3.2 3.2 0 0 1 0 6.4z"></path>
@@ -125,7 +125,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 				</svg>
 			</button>
 			<div id="lyric-viewer" class="lyric-viewer" data-current-id="">
-				<div class="empty-state">請先在左側搜尋並點選一首詩歌。</div>
+				<div class="empty-state">請先在左側搜索並點選一首詩歌。</div>
 			</div>
 			<div id="song-info-dialog" class="song-info-dialog hidden-panel" aria-hidden="true">
 				<div class="song-info-card" role="dialog" aria-modal="true" aria-label="歌曲資料">
@@ -387,6 +387,9 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			offsetX: 0,
 			horizontal: false,
 		};
+		let isSearchInputComposing = false;
+		let lastExecutedSearchKey = '';
+		let lastExecutedSearchAt = 0;
 		const lyricCacheRaw = new Map();
 		const hymnMetadataById = new Map();
 		let hymnMetadataLoadPromise = null;
@@ -704,7 +707,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 								class="search-history-remove"
 								data-action="remove-search-history"
 								data-query="${escapeHtml(entry)}"
-								aria-label="${escapeHtml(convertByLang('移除搜尋記錄', state.languageMode))}: ${escapeHtml(entry)}"
+								aria-label="${escapeHtml(convertByLang('移除搜索記錄', state.languageMode))}: ${escapeHtml(entry)}"
 							>
 								x
 							</button>
@@ -729,11 +732,29 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 
 		function executeSearchWithCurrentInput() {
 			const query = input.value.trim();
+			if (!query) {
+				hideSearchHistoryOverlay();
+				return;
+			}
+
+			const dedupeKey = [
+				state.languageMode,
+				state.filters?.collection || '',
+				query.toLowerCase(),
+			].join('|');
+			const now = Date.now();
+			if (dedupeKey === lastExecutedSearchKey && now - lastExecutedSearchAt < 900) {
+				hideSearchHistoryOverlay();
+				return;
+			}
+
 			if (query) {
 				recordSearchHistory(query);
 			}
 			hideSearchHistoryOverlay();
 			doSearch(true, true, true);
+			lastExecutedSearchKey = dedupeKey;
+			lastExecutedSearchAt = now;
 		}
 
 		function saveState() {
@@ -829,8 +850,8 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			const convert = (text) => convertByLang(text, state.languageMode);
 
 			input.setAttribute('placeholder', convert('歌曲編號 / 歌詞內容'));
-			searchBtn.setAttribute('aria-label', convert('搜尋'));
-			searchBtn.setAttribute('title', convert('搜尋'));
+			searchBtn.setAttribute('aria-label', convert('搜索'));
+			searchBtn.setAttribute('title', convert('搜索'));
 			toggleSettingsBtn.setAttribute('aria-label', convert('設定'));
 			toggleSettingsBtn.setAttribute('title', convert('設定'));
 
@@ -2384,7 +2405,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 
 			if (!getActiveGroup()) {
 				currentResults = [];
-				resultList.innerHTML = '<div class="empty-state">請先選擇分類，再顯示搜尋結果。</div>';
+				resultList.innerHTML = '<div class="empty-state">請先選擇分類，再顯示搜索結果。</div>';
 				return;
 			}
 
@@ -2620,12 +2641,34 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 		});
 
 		input.addEventListener('keydown', (event) => {
-			if (event.key === 'Enter') {
+			if (event.isComposing || isSearchInputComposing || event.key === 'Process') {
+				return;
+			}
+
+			const key = event.key;
+			const isActionKey =
+				key === 'Enter' || key === 'NumpadEnter' || key === 'Search' || key === 'Go' || key === 'Done';
+			if (isActionKey) {
 				event.preventDefault();
 				executeSearchWithCurrentInput();
 				if (window.matchMedia('(pointer: coarse)').matches) {
 					input.blur();
 				}
+			}
+		});
+
+		input.addEventListener('compositionstart', () => {
+			isSearchInputComposing = true;
+		});
+
+		input.addEventListener('compositionend', () => {
+			isSearchInputComposing = false;
+		});
+
+		input.addEventListener('search', () => {
+			executeSearchWithCurrentInput();
+			if (window.matchMedia('(pointer: coarse)').matches) {
+				input.blur();
 			}
 		});
 
