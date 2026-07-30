@@ -41,9 +41,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "敬拜讚美、三一頌讚",
-          "sourceUrl": "https://hymnary.org/text/rongyao_gui_yu_zhigao_shen",
-          "sourceLabel": "hymnary.org"
+          "value": "敬拜讚美、三一頌讚"
         }
       ],
       "allSources": [
@@ -91,9 +89,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "尊主為王、敬拜讚美",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/all-hail-the-power-of-jesus-name/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "尊主為王、敬拜讚美"
         },
         {
           "key": "background",
@@ -150,9 +146,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "三一敬拜、聖哉頌讚",
-          "sourceUrl": "https://hymnary.org/text/holy_holy_holy_lord_god_almighty",
-          "sourceLabel": "hymnary.org"
+          "value": "三一敬拜、聖哉頌讚"
         },
         {
           "key": "background",
@@ -214,9 +208,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "敬拜讚美、救恩",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/to-god-be-the-glory/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "敬拜讚美、救恩"
         },
         {
           "key": "background",
@@ -323,9 +315,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "信實、安慰與盼望",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/great-is-thy-faithfulness/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "信實、安慰與盼望"
         },
         {
           "key": "background",
@@ -384,9 +374,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "頌讚救主、恩典釋放、更新見證",
-          "sourceUrl": "https://en.wikipedia.org/wiki/O_for_a_Thousand_Tongues_to_Sing",
-          "sourceLabel": "en.wikipedia.org"
+          "value": "頌讚救主、恩典釋放、更新見證"
         },
         {
           "key": "background",
@@ -444,9 +432,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "感恩、神的供應、苦樂中的信靠",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/thanks-to-god-for-my-redeemer/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "感恩、神的供應、苦樂中的信靠"
         },
         {
           "key": "background",
@@ -497,9 +483,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "創造頌讚、十架救恩、再臨盼望",
-          "sourceUrl": "https://en.wikipedia.org/wiki/How_Great_Thou_Art",
-          "sourceLabel": "en.wikipedia.org"
+          "value": "創造頌讚、十架救恩、再臨盼望"
         },
         {
           "key": "background",
@@ -550,9 +534,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "神愛浩大、永恆不變、頌讚敬拜",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-love-of-god/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "神愛浩大、永恆不變、頌讚敬拜"
         },
         {
           "key": "background",
@@ -603,9 +585,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "創造主權、自然見證、信心安息",
-          "sourceUrl": "https://en.wikipedia.org/wiki/This_Is_My_Father%27s_World",
-          "sourceLabel": "en.wikipedia.org"
+          "value": "創造主權、自然見證、信心安息"
         },
         {
           "key": "background",
@@ -663,9 +643,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "讚美敬拜、神的護理、全地同頌",
-          "sourceUrl": "https://en.wikipedia.org/wiki/Praise_to_the_Lord,_the_Almighty",
-          "sourceLabel": "en.wikipedia.org"
+          "value": "讚美敬拜、神的護理、全地同頌"
         },
         {
           "key": "background",
@@ -717,9 +695,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "基督同在、安慰扶持、屬靈倚靠",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-lily-of-the-valley/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "基督同在、安慰扶持、屬靈倚靠"
         },
         {
           "key": "background",
@@ -777,9 +753,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "感恩、救恩確據、見證讚美",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/thank-you-lord-for-saving-my-soul/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "感恩、救恩確據、見證讚美"
         },
         {
           "key": "background",
@@ -865,9 +839,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "讚美敬拜、救主救恩、再臨盼望",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/praise-him-praise-him-jesus-our-blessed-redeemer/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "讚美敬拜、救主救恩、再臨盼望"
         },
         {
           "key": "background",
@@ -905,9 +877,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "羔羊頌讚、天上敬拜、基督榮耀",
-          "sourceUrl": "https://hymnary.org/text/hark_ten_thousand_voices_sounding",
-          "sourceLabel": "hymnary.org"
+          "value": "羔羊頌讚、天上敬拜、基督榮耀"
         },
         {
           "key": "background",
@@ -958,9 +928,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "基督為王、復活得勝、天上敬拜",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/crown-him-with-many-crowns/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "基督為王、復活得勝、天上敬拜"
         },
         {
           "key": "background",
@@ -1011,9 +979,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "基督升高、萬膝跪拜、主權宣認",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/at-the-name-of-jesus/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "基督升高、萬膝跪拜、主權宣認"
         },
         {
           "key": "background",
@@ -1064,9 +1030,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "基督充足、信靠倚靠、永生盼望",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-is-all-the-world-to-me/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "基督充足、信靠倚靠、永生盼望"
         },
         {
           "key": "background",
@@ -1117,9 +1081,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "主愛、讚美、救贖感恩",
-          "sourceUrl": "https://hymnary.org/text/of_jesus_love_that_sought_me",
-          "sourceLabel": "hymnary.org"
+          "value": "主愛、讚美、救贖感恩"
         }
       ],
       "allSources": [
@@ -1189,9 +1151,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "寶血潔淨、救恩見證、讚美感恩",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-will-praise-him/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "寶血潔淨、救恩見證、讚美感恩"
         },
         {
           "key": "background",
@@ -1250,9 +1210,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "基督大愛、恩典、安息盼望",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/o-the-deep-deep-love-of-jesus/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "基督大愛、恩典、安息盼望"
         },
         {
           "key": "background",
@@ -1305,9 +1263,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "頌讚、救恩、寶血功效",
-          "sourceUrl": "https://hymnary.org/text/song_zan_shengyin_hedeng_nande",
-          "sourceLabel": "hymnary.org"
+          "value": "頌讚、救恩、寶血功效"
         }
       ],
       "allSources": [
@@ -1339,9 +1295,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "耶穌聖名、敬拜、救贖感恩",
-          "sourceUrl": "https://hymnary.org/text/zhu_yesu_wo_ai_ni_ming",
-          "sourceLabel": "hymnary.org"
+          "value": "耶穌聖名、敬拜、救贖感恩"
         }
       ],
       "allSources": [
@@ -1379,9 +1333,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "敬拜、基督配得、十架得勝",
-          "sourceUrl": "https://hymnary.org/text/o_zhu_yesu_wo_de_xin_xiangzhe",
-          "sourceLabel": "hymnary.org"
+          "value": "敬拜、基督配得、十架得勝"
         }
       ],
       "allSources": [
@@ -1413,9 +1365,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "思想主愛、十架救恩、天家盼望",
-          "sourceUrl": "https://hymnary.org/text/thy_name_we_love_lord_jesus",
-          "sourceLabel": "hymnary.org"
+          "value": "思想主愛、十架救恩、天家盼望"
         }
       ],
       "allSources": [
@@ -1459,9 +1409,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "基督永不改變、信心安慰、救恩能力",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/yesterday-today-forever/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "基督永不改變、信心安慰、救恩能力"
         },
         {
           "key": "background",
@@ -1519,9 +1467,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "主愛不變、傷痛中的安慰、生命更新",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/no-one-ever-cared-for-me-like-jesus/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "主愛不變、傷痛中的安慰、生命更新"
         },
         {
           "key": "background",
@@ -1572,9 +1518,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "十字架、信心、主愛蔭庇",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/beneath-the-cross-of-jesus/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "十字架、信心、主愛蔭庇"
         },
         {
           "key": "background",
@@ -1633,9 +1577,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "背十字架、門徒訓練、永恆盼望",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/must-jesus-bear-the-cross-alone/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "背十字架、門徒訓練、永恆盼望"
         },
         {
           "key": "background",
@@ -1694,9 +1636,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "記念十架、謙卑事奉、主愛",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/lead-me-to-calvary/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "記念十架、謙卑事奉、主愛"
         },
         {
           "key": "background",
@@ -1748,9 +1688,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "十架榮耀、救贖、愛主至終",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-old-rugged-cross/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "十架榮耀、救贖、愛主至終"
         },
         {
           "key": "background",
@@ -1810,9 +1748,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "十架救恩、敬拜、捨己",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/when-i-survey-the-wondrous-cross/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "十架救恩、敬拜、捨己"
         },
         {
           "key": "background",
@@ -1871,9 +1807,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "十架救恩、悔改、感恩回應",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/alas-and-did-my-savior-bleed/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "十架救恩、悔改、感恩回應"
         },
         {
           "key": "background",
@@ -1918,9 +1852,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "復活見證、同在安慰、信心盼望",
-          "sourceUrl": "https://en.wikipedia.org/wiki/He_Lives",
-          "sourceLabel": "en.wikipedia.org"
+          "value": "復活見證、同在安慰、信心盼望"
         },
         {
           "key": "background",
@@ -1972,9 +1904,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "復活得勝、死亡被勝、頌讚",
-          "sourceUrl": "https://hymnary.org/text/low_in_the_grave_he_lay_jesus_my_savior",
-          "sourceLabel": "hymnary.org"
+          "value": "復活得勝、死亡被勝、頌讚"
         },
         {
           "key": "background",
@@ -2018,9 +1948,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "客西馬尼、主的受苦、默想祈禱",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/tis-midnight-and-on-olives-brow/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "客西馬尼、主的受苦、默想祈禱"
         },
         {
           "key": "background",
@@ -2071,9 +1999,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "福音全貌、基督生平、再來盼望",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/one-day-when-heaven-was-filled-with-his-praises/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "福音全貌、基督生平、再來盼望"
         },
         {
           "key": "background",
@@ -2118,9 +2044,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "聖靈充滿、潔淨更新、委身祈求",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/fill-me-now/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "聖靈充滿、潔淨更新、委身祈求"
         },
         {
           "key": "background",
@@ -2172,9 +2096,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "聖靈更新、成聖、奉獻",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/breathe-on-me-breath-of-god/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "聖靈更新、成聖、奉獻"
         },
         {
           "key": "background",
@@ -2226,9 +2148,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "聖靈充滿、破碎更新、順服使用",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/spirit-of-the-living-god-fall-fresh-on-me/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "聖靈充滿、破碎更新、順服使用"
         },
         {
           "key": "background",
@@ -2279,9 +2199,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "復興、恩雨、禱告祈求",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/there-shall-be-showers-of-blessing/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "復興、恩雨、禱告祈求"
         },
         {
           "key": "background",
@@ -2326,9 +2244,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "奇妙恩典、赦罪釋放、得救喜樂",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/wonderful-grace-of-jesus/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "奇妙恩典、赦罪釋放、得救喜樂"
         },
         {
           "key": "background",
@@ -2380,9 +2296,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "主愛拯救、脫離沉淪、委身事奉",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/love-lifted-me/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "主愛拯救、脫離沉淪、委身事奉"
         },
         {
           "key": "background",
@@ -2434,9 +2348,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "呼召歸家、悔改、慈聲邀請",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/softly-and-tenderly-jesus-is-calling/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "呼召歸家、悔改、慈聲邀請"
         },
         {
           "key": "background",
@@ -2495,9 +2407,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "得救確據、喜樂見證、安息順服",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/blessed-assurance/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "得救確據、喜樂見證、安息順服"
         },
         {
           "key": "background",
@@ -2549,9 +2459,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "寶血潔淨、十架救恩、讚美主名",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/glory-to-his-name/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "寶血潔淨、十架救恩、讚美主名"
         },
         {
           "key": "background",
@@ -2610,9 +2518,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "呼召信靠、悔改歸主、福音邀請",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/only-trust-him/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "呼召信靠、悔改歸主、福音邀請"
         },
         {
           "key": "background",
@@ -2663,9 +2569,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "悔改、赦罪、潔淨更新",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/though-your-sins-be-as-scarlet/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "悔改、赦罪、潔淨更新"
         },
         {
           "key": "background",
@@ -2723,9 +2627,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "寶血能力、得勝罪惡、福音呼召",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/there-is-power-in-the-blood/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "寶血能力、得勝罪惡、福音呼召"
         },
         {
           "key": "background",
@@ -2777,9 +2679,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "罪得赦免、救恩見證、喜樂讚美",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/he-took-my-sins-away/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "罪得赦免、救恩見證、喜樂讚美"
         },
         {
           "key": "background",
@@ -2830,9 +2730,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "寶血潔淨、悔改省察、福音呼召",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/are-you-washed-in-the-blood/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "寶血潔淨、悔改省察、福音呼召"
         },
         {
           "key": "background",
@@ -2884,9 +2782,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "心門敞開、決志邀請、基督內住",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/let-jesus-come-into-your-heart/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "心門敞開、決志邀請、基督內住"
         },
         {
           "key": "background",
@@ -2937,9 +2833,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "悔改歸主、完全接納、呼召",
-          "sourceUrl": "https://hymnary.org/text/just_as_i_am_without_one_plea",
-          "sourceLabel": "hymnary.org"
+          "value": "悔改歸主、完全接納、呼召"
         },
         {
           "key": "background",
@@ -2983,9 +2877,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "主的慈愛、悔改歸回",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/in-tenderness-he-sought-me/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "主的慈愛、悔改歸回"
         },
         {
           "key": "background",
@@ -3030,9 +2922,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "寶血潔淨、救贖泉源、十架功效",
-          "sourceUrl": "https://hymnary.org/text/there_was_one_who_was_willing_to_die_in",
-          "sourceLabel": "hymnary.org"
+          "value": "寶血潔淨、救贖泉源、十架功效"
         }
       ],
       "allSources": [
@@ -3069,9 +2959,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "內住喜樂、重生見證、屬靈更新",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/since-jesus-came-into-my-heart/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "內住喜樂、重生見證、屬靈更新"
         },
         {
           "key": "background",
@@ -3115,9 +3003,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "捨己、基督為中心、成聖生活",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/not-i-but-christ/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "捨己、基督為中心、成聖生活"
         },
         {
           "key": "background",
@@ -3162,9 +3048,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "全然奉獻、祭壇、順服",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/is-your-all-on-the-altar/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "全然奉獻、祭壇、順服"
         },
         {
           "key": "background",
@@ -3240,9 +3124,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "事奉省察、十架回應、忠心委身",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/have-i-done-my-best-for-jesus/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "事奉省察、十架回應、忠心委身"
         },
         {
           "key": "background",
@@ -3287,9 +3169,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "福音見證、守望、引人歸主",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/let-the-lower-lights-be-burning/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "福音見證、守望、引人歸主"
         },
         {
           "key": "background",
@@ -3334,9 +3214,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "主的呼召、離棄纏累、忠心跟隨",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-calls-us-oer-the-tumult/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "主的呼召、離棄纏累、忠心跟隨"
         },
         {
           "key": "background",
@@ -3381,9 +3259,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "青春奉獻、全心事主、忠心爭戰",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-of-your-best-to-the-master/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "青春奉獻、全心事主、忠心爭戰"
         },
         {
           "key": "background",
@@ -3434,9 +3310,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "尋回迷羊、福音呼召、宣教使命",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/bring-them-in/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "尋回迷羊、福音呼召、宣教使命"
         },
         {
           "key": "background",
@@ -3480,9 +3354,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "心歸主、悔改、順服交託",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/give-me-thy-heart/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "心歸主、悔改、順服交託"
         },
         {
           "key": "background",
@@ -3534,9 +3406,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "為主而活、奉獻、十架道路",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/living-for-jesus-a-life-that-is-true/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "為主而活、奉獻、十架道路"
         },
         {
           "key": "background",
@@ -3580,9 +3450,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "十架回應、奉獻、委身",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-gave-my-life-for-thee/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "十架回應、奉獻、委身"
         },
         {
           "key": "background",
@@ -3634,9 +3502,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "基督至寶、價值抉擇、捨棄世界",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/id-rather-have-jesus-than-silver-or-gold/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "基督至寶、價值抉擇、捨棄世界"
         },
         {
           "key": "background",
@@ -3688,9 +3554,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "主看顧、安慰、信心堅定",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/his-eye-is-on-the-sparrow/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "主看顧、安慰、信心堅定"
         },
         {
           "key": "background",
@@ -3734,9 +3598,7 @@
         {
           "key": "themes",
           "label": "主題標籤",
-          "value": "信心仰望、十架羔羊、委身祈禱",
-          "sourceUrl": "https://www.hymnallibrary.org/hymns/my-faith-looks-up-to-thee/",
-          "sourceLabel": "hymnallibrary.org"
+          "value": "信心仰望、十架羔羊、委身祈禱"
         },
         {
           "key": "background",

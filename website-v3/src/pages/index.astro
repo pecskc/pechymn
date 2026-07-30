@@ -1641,11 +1641,14 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 						.map((field) => {
 							if (!field || typeof field !== 'object') return null;
 							const label = String(field.label || '').trim();
+							const key = String(field.key || '').trim();
 							const value = String(field.value || '').trim();
 							const sourceUrl = normalizeSourceUrl(field.sourceUrl);
-							if (!label || !value || !isValidSourceUrl(sourceUrl)) return null;
+							const isThemeField = key === 'themes' || label === '主題標籤';
+							if (!label || !value) return null;
+							if (!isThemeField && !isValidSourceUrl(sourceUrl)) return null;
 							return {
-								key: String(field.key || '').trim(),
+								key,
 								label,
 								value,
 								sourceUrl,
