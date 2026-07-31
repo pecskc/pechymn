@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 73,
+  "totalSongs": 85,
   "items": [
     {
       "id": "hymn_a_1",
@@ -1049,6 +1049,59 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/jesus-is-all-the-world-to-me/"
+      ]
+    },
+    {
+      "id": "hymn_a_40",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "040",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Jesus, Thou alone art worthy",
+          "sourceUrl": "https://hymnary.org/text/wo_zhu_yesu_wei_ni_shi_pei",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "J. A. Trench",
+          "sourceUrl": "https://hymnary.org/text/wo_zhu_yesu_wei_ni_shi_pei",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William J. Kirkpatrick (非原曲，改用 平安詩集216 的曲調)",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/tis-so-sweet-to-trust-in-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1870",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-thou-alone-art-worth/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "基督尊榮、敬拜頌揚、獨一崇高"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 J. A. Trench 創作，是一首以基督為中心、充滿敬拜氣氛的聖詩。詩歌以《啟示錄》5:12「曾被殺的羔羊是配得」為核心，宣告唯有基督配得一切能力、尊貴、榮耀和讚美。全詩引導信徒將目光專注於主耶穌的十字架犧牲與得勝升高，強調人的成就不足誇耀，惟有基督配受敬拜。歌詞呼應天上眾聖徒和眾天使敬拜羔羊的異象，讓信徒在地上已能預嘗永恆敬拜的榮耀。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-thou-alone-art-worth/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/wo_zhu_yesu_wei_ni_shi_pei",
+        "https://www.hymnallibrary.org/hymns/jesus-thou-alone-art-worth/",
+        "https://www.hymnallibrary.org/hymns/tis-so-sweet-to-trust-in-jesus/"
       ]
     },
     {
@@ -3611,6 +3664,553 @@
       "allSources": [
         "https://hymnary.org/text/my_faith_looks_up_to_thee",
         "https://www.hymnallibrary.org/hymns/my-faith-looks-up-to-thee/"
+      ]
+    },
+    {
+      "id": "hymn_a_210",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "210",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I Know Who Holds Tomorrow",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-know-who-holds-tomorrow/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Ira F. Stanphill",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-know-who-holds-tomorrow/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1950",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-know-who-holds-tomorrow/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "明日前路、信靠應許、交託與盼望"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Ira F. Stanphill 於1950年創作。Stanphill 是美國著名福音詩歌作家、歌手及浸信會牧師。歌靈感來自《馬太福音》6:34，寫於他人生充滿試煉與不確定的時期。歌詞以真摯的信心表達信徒面對未知未來時的掙扎與盼望，核心信息濃縮於副歌：「雖然我不明白明天，但我知道誰掌管明天，也知道誰牽著我的手。」詩歌對比人生的變幻莫測與神永不改變的信實，鼓勵信徒將信靠建立在神的同在與帶領上，而非環境或結果。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-know-who-holds-tomorrow/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/i-know-who-holds-tomorrow/"
+      ]
+    },
+    {
+      "id": "hymn_a_212",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "212",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I Know Whom I Have Believed",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-know-whom-i-have-believed/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "D. W. Whittle",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-know-whom-i-have-believed/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "James McGranahan",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-know-whom-i-have-believed/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1883",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-know-whom-i-have-believed/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "得救確據、信心交託、主的保守"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Daniel Webster Whittle 於1883年創作。Whittle 原為美國南北戰爭退伍軍人，信主後成為著名佈道家及聖詩作家。本詩以《提摩太後書》1:12為基礎，承認人無法完全明白神的作為與救恩奧祕，但堅定宣告對基督的信心。副歌「I know whom I have believed」強調信徒得救與永恆盼望並非建立在知識或理解之上，而是建立在基督信實可靠的應許上。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-know-whom-i-have-believed/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/i-know-whom-i-have-believed/"
+      ]
+    },
+    {
+      "id": "hymn_a_213",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "213",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Trust and Obey",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/trust-and-obey/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "John H. Sammis",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/trust-and-obey/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Daniel B. Towner",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/trust-and-obey/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1887",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/trust-and-obey/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "信靠順服、門徒生活、與主同行"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "Sammis 是美國長老會牧師及聖詩作家，而 Towner 則是著名福音音樂家，長期協助佈道家 Dwight L. Moody 的佈道事工。這首詩歌的靈感來自馬薩諸塞州一場奮興會上，一位初信者見證時簡單地說出：「我要信靠，也要順服」，深深感動了 Towner，後來發展成這首廣為流傳的聖詩。詩歌以信靠與順服神作為基督徒生活的核心，強調真正的喜樂與平安不是來自環境順利，而是來自遵行神的旨意。副歌「Trust and obey, for there's no other way」濃縮了整首詩的信息，指出信徒即使面對試煉、犧牲和未知，也能因神的同在而得著力量。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/trust-and-obey/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/trust-and-obey/"
+      ]
+    },
+    {
+      "id": "hymn_a_216",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "216",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "'Tis So Sweet to Trust in Jesus",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/tis-so-sweet-to-trust-in-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Louisa M. R. Stead",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/tis-so-sweet-to-trust-in-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William J. Kirkpatrick",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/tis-so-sweet-to-trust-in-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1882",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/tis-so-sweet-to-trust-in-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "信靠應許、甜美經歷、見證"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Louisa M. R. Stead 於1882年創作歌詞，William J. Kirkpatrick 譜曲。Stead 是英國出生的福音作家及宣教士，後來移居美國。據傳，她與丈夫及女兒在海邊遊玩時，丈夫為拯救遇溺少年而不幸身亡，留下她與年幼女兒相依為命。這段沉重經歷使她更深體會在苦難中信靠基督的重要，並寫下這首影響深遠的聖詩。詩歌以「單單相信主的話語」為核心，表達對耶穌堅定不移的信靠。副歌「Jesus, Jesus, how I trust Him!」見證了作者在逆境中親身經歷主的信實與扶持。全詩強調真正的平安並非來自環境改善，而是來自對基督的信靠。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/tis-so-sweet-to-trust-in-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/tis-so-sweet-to-trust-in-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_218",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "218",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Turn Your Eyes upon Jesus",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/turn-your-eyes-upon-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Helen Howarth Lemmel",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/turn-your-eyes-upon-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1922",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/turn-your-eyes-upon-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "定睛耶穌、黑暗得光、生命更新"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由英國歌唱家 Helen Howarth Lemmel 創作。1918年，Lemmel 在西雅圖街頭收到宣教士 Lilias Trotter 所寫的小冊子《Focused》，其中一句「當你定睛仰望主時，世上的事物將變得黯然失色」深深觸動了她，於是寫成《Turn Your Eyes Upon Jesus》。詩歌鼓勵信徒在困難、憂慮或迷惘中將目光轉向耶穌，因當人專注於基督的榮美與恩典時，世上的重擔與誘惑便失去吸引力。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/turn-your-eyes-upon-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/turn-your-eyes-upon-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_223",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "223",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Guide Me, O Thou Great Jehovah",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/guide-me-o-thou-great-jehovah/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "William Williams",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/guide-me-o-thou-great-jehovah/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "John Hughes",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/guide-me-o-thou-great-jehovah/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1745",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/guide-me-o-thou-great-jehovah/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "曠野引導、天路供應、神聖保守"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由威爾斯最具影響力的聖詩作家和巡迴佈道家之一的 William Williams 創作。William  一生騎馬傳道逾四十年，估計行程超過十萬英里，並創作約800首威爾斯文聖詩，因此被譽為「威爾斯甜美的歌者」。這首詩歌於1745年首次發表，靈感源於以色列人出埃及進入迦南的旅程，將信徒在人生曠野中的屬靈歷程與神的帶領作對比。歌詞運用「天上嗎哪」、「雲柱火柱」、「約旦河」和「迦南美地」等聖經意象，表達信徒在試煉中倚靠神的供應與引導，直到進入永恆安息。現今最廣為人知的旋律 Cwm Rhondda 則由 John Hughes 於1907年創作，使這首詩歌成為全球教會廣泛傳唱的經典聖詩，並被譯成七十多種語言，激勵信徒憑信心跟隨神的帶領。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/guide-me-o-thou-great-jehovah/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "詩篇 31:3",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/guide-me-o-thou-great-jehovah/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/guide-me-o-thou-great-jehovah/"
+      ]
+    },
+    {
+      "id": "hymn_a_225",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "225",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Precious Lord, Take My Hand",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/precious-lord-take-my-hand/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Thomas Andrew Dorsey",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/precious-lord-take-my-hand/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1938",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/precious-lord-take-my-hand/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "患難扶持、黑夜引領、安慰盼望"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "Dorsey 被譽為「黑人福音音樂之父（Father of Black Gospel Music）」，原本活躍於藍調及爵士樂界，後來投身教會事奉，成為福音音樂的重要開創者。1932年，當他在外地帶領奮興聚會時，接獲妻子因難產離世的噩耗；不久後，初生兒子亦相繼夭折。面對接連打擊，他在極度悲痛中轉向神尋求力量，寫下這首感人至深的詩歌。詩歌以「Precious Lord, take my hand」為核心禱告，表達人在疲憊、軟弱與痛苦中對神引導和扶持的迫切依靠。歌詞坦誠承認人的有限，卻同時堅信神必陪伴信徒走過人生黑夜。其旋律取材自傳統聖詩曲調 “Maitland”，溫柔莊重，進一步襯托出歌詞中的哀傷與盼望。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/precious-lord-take-my-hand/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/precious-lord-take-my-hand/"
+      ]
+    },
+    {
+      "id": "hymn_a_231",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "231",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "All the Way My Savior Leads Me",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/all-the-way-my-savior-leads-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Fanny Crosby",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/all-the-way-my-savior-leads-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Robert Lowry",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/all-the-way-my-savior-leads-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1875",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/all-the-way-my-savior-leads-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "一路引導、主的供應、信心安穩"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "Crosby 是19世紀最著名的福音聖詩作家之一，1823年出生於美國，嬰兒時期因醫療事故失明，卻憑著堅定信仰創作了超過八千首聖詩，包括《Blessed Assurance》及《Rescue the Perishing》等經典作品。這首詩歌的寫作源於一次親身經歷。當 Crosby 急需5美元卻毫無著落時，她向神禱告，不久便有陌生人上門送來剛好5美元。她深信這是神奇妙的供應，因此寫下《All the Way My Savior Leads Me》，見證主在生命中的引導與看顧。歌詞以《詩篇》37:23為核心思想，表達信徒深信神會一步一步帶領前路，即使面對困難與未知，仍可安然倚靠主的供應與恩典。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/all-the-way-my-savior-leads-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "詩篇 37:23",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/all-the-way-my-savior-leads-me/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/all-the-way-my-savior-leads-me/"
+      ]
+    },
+    {
+      "id": "hymn_a_234",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "234",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Sun of My Soul",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/sun-of-my-soul/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "John Keble",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/sun-of-my-soul/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1820",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/sun-of-my-soul/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "夜間守望、主同在、安息祈禱"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由英國聖公會牧師及牛津大學詩學教授 John Keble 創作。他雖然學術成就卓著，卻選擇長期牧養 Hursley 一個只有約1,500人的小教區，以謙卑和敬虔著稱。1827年，他出版靈修詩集《The Christian Year》，《Sun of My Soul》便收錄其中。這首是一首晚禱詩，以日落比喻信徒在一天結束時投靠神的看顧與同在，充滿平安、信靠與安息的信息。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/sun-of-my-soul/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "路加福音 24:29",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/sun-of-my-soul/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/sun-of-my-soul/"
+      ]
+    },
+    {
+      "id": "hymn_a_236",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "236",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "He Leadeth Me",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/he-leadeth-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Joseph H. Gilmore",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/he-leadeth-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William B. Bradbury",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/he-leadeth-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1862",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/he-leadeth-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主手引導、平安順服、人生旅程"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國浸信會牧師 Joseph H. Gilmore 於1862年創作。當時 Gilmore 在費城 First Baptist Church 的禱告會中講解《詩篇》23篇「祂領我在可安歇的水邊」，深受神帶領的信息感動，當晚便寫下這首詩歌。他後來表示，自己並非刻意作詩，只是將當時內心對神引導的感受自然寫了出來。其妻子在未告知他的情況下將詩稿寄往基督教刊物發表，後來被著名福音音樂家 William B. Bradbury 發現並譜曲，更加入了廣為人知的副歌。詩歌以《詩篇》23篇為基礎，表達信徒對神慈愛帶領的完全信靠。歌詞強調無論人生順境或逆境、喜樂或憂傷，神都親手引領祂的兒女前行。副歌「He leadeth me」成為整首詩的核心宣告，提醒信徒即使前路未明，也能安然跟隨主的帶領。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/he-leadeth-me/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/he-leadeth-me/"
+      ]
+    },
+    {
+      "id": "hymn_a_239",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "239",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "The Way of the Cross Leads Home",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-way-of-the-cross-leads-home/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Jessie Brown Pounds",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-way-of-the-cross-leads-home/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1906",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-way-of-the-cross-leads-home/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "十架道路、窄路歸家、門徒代價"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "Pounds 於1861年出生於美國俄亥俄州，自幼體弱，在家接受教育，少年時期已開始發表詩作。她後來與福音音樂家 J. H. Fillmore 合作創作聖詩，並於 Standard Publishing Company 擔任編輯。1896年嫁給牧師 John E. Pounds，持續透過寫作參與事奉，成為19世紀末至20世紀初著名的聖詩作家。《The Way of the Cross Leads Home》以基督徒跟隨主的道路為主題，強調真正通往天家的路並非安逸舒適，而是效法基督、背起十字架、憑信心前行。詩歌指出，唯有藉著基督的救贖、捨己與順服，信徒才能得著永恆的安息與盼望。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-way-of-the-cross-leads-home/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/the-way-of-the-cross-leads-home/"
       ]
     }
   ]
