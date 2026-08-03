@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-12T10:09:44.948Z",
-  "targetUrl": "http://localhost:4324/",
+  "generatedAt": "2026-07-30T09:35:20.275Z",
+  "targetUrl": "http://localhost:4321/",
   "status": "ok",
-  "lighthouseVersion": "13.4.0",
-  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/149.0.0.0 Safari/537.36",
+  "lighthouseVersion": "13.4.1",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/150.0.0.0 Safari/537.36",
   "categories": {
-    "performance": 75,
+    "performance": 56,
     "accessibility": 100,
     "bestPractices": 100,
     "seo": 100
   },
   "metrics": {
-    "firstContentfulPaintMs": 1206.16,
-    "largestContentfulPaintMs": 9609.24,
+    "firstContentfulPaintMs": 3579.9237500000004,
+    "largestContentfulPaintMs": 9665.908500000001,
     "totalBlockingTimeMs": 0,
-    "cumulativeLayoutShift": 0.00009116266647145862,
-    "speedIndexMs": 1206.16
+    "cumulativeLayoutShift": 0.1907654921020656,
+    "speedIndexMs": 4459.925524000733
   }
 }
