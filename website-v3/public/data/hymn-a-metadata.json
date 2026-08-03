@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 85,
+  "totalSongs": 94,
   "items": [
     {
       "id": "hymn_a_1",
@@ -4211,6 +4211,450 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/the-way-of-the-cross-leads-home/"
+      ]
+    },
+    {
+      "id": "hymn_a_252",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "252",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Wherever He Leads I'll Go",
+          "sourceUrl": "https://hymnary.org/text/take_up_thy_cross_and_follow_me_i_heard",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "B. B. McKinney",
+          "sourceUrl": "https://hymnary.org/text/take_up_thy_cross_and_follow_me_i_heard",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1936",
+          "sourceUrl": "https://hymnary.org/text/take_up_thy_cross_and_follow_me_i_heard",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "背十字架、順服呼召、跟隨主"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國南浸信會著名的聖詩作家 Baylus Benjamin (B.B.) McKinney 於1936年創作。這首詩歌的靈感來自一位身體欠佳的宣教士。當被問及未來是否重返宣教工場時，他回答說：「我不知道，但無論主帶領我到哪裡，我都願意去。」這句簡單卻充滿信心的話深深感動了 McKinney，促使他寫下這首詩歌。詩歌以《馬太福音》16:24-25 為基礎，強調背起十字架跟隨基督的門徒生命，不論道路艱難或未知，都願意跟隨主的旨意。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/wherever-he-leads-ill-go/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/take_up_thy_cross_and_follow_me_i_heard",
+        "https://www.hymnallibrary.org/hymns/wherever-he-leads-ill-go/"
+      ]
+    },
+    {
+      "id": "hymn_a_272",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "272",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Jesus, Keep Me Near the Cross",
+          "sourceUrl": "https://hymnary.org/text/jesus_keep_me_near_the_cross",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Fanny Crosby",
+          "sourceUrl": "https://hymnary.org/text/jesus_keep_me_near_the_cross",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William H. Doane",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-keep-me-near-the-cross/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1869",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-keep-me-near-the-cross/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "十字架、寶血潔淨、與主聯合"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由19世紀其中一位最具影響力的福音聖詩作家 Fanny J. Crosby 於1869年填詞，William H. Doane 譜曲。Crosby 雖然自幼失明，卻憑著堅定信仰創作了數千首廣受歡迎的聖詩。這首詩歌以十字架為中心，表達信徒渴望常常親近並牢記基督在各各他的救贖工作。歌詞引用《加拉太書》6:14的思想，強調信徒一切盼望、赦免與屬靈力量都源於十字架。詩中將十字架描繪為恩典泉源、避難所和永生盼望，提醒信徒不僅因十字架得救，也要讓福音成為每日生活的根基。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-keep-me-near-the-cross/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/jesus_keep_me_near_the_cross",
+        "https://www.hymnallibrary.org/hymns/jesus-keep-me-near-the-cross/"
+      ]
+    },
+    {
+      "id": "hymn_a_273",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "273",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "God Will Take Care of You",
+          "sourceUrl": "https://hymnary.org/text/be_not_dismayed_whateer_betide",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Civilla D. Martin",
+          "sourceUrl": "https://hymnary.org/text/be_not_dismayed_whateer_betide",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1904",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/god-will-take-care-of-you/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "天父看顧、安慰、試煉中的信靠"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Civilla Durfee Martin 於1904年填詞，丈夫 Walter Stillman Martin 譜曲。Civilla Martin 是美國福音作家，而 Walter Martin 則是浸信會傳道人、作曲家及福音歌手。兩人長期合作創作聖詩，其中這首作品成為最廣為人知的經典之一。詩歌的誕生源於一次真實經歷。當 Civilla 因病在家休養，而 Walter 準備外出講道時，她對家中的情況感到憂慮。此時年幼的兒子一句「難道你不相信神會照顧我們嗎？」深深觸動了她。於是她寫下歌詞，而 Walter 當日回家後便完成旋律，這首詩歌就在一天之內誕生。全詩以「神必看顧你」為核心信息，鼓勵信徒在疾病、憂慮、失落或人生困境中仍然信靠神的供應與保守。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/god-will-take-care-of-you/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/be_not_dismayed_whateer_betide",
+        "https://www.hymnallibrary.org/hymns/god-will-take-care-of-you/"
+      ]
+    },
+    {
+      "id": "hymn_a_277",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "277",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Take the Name of Jesus with You",
+          "sourceUrl": "https://hymnary.org/text/take_the_name_of_jesus_with_you_child_of",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Lydia Baxter",
+          "sourceUrl": "https://hymnary.org/text/take_the_name_of_jesus_with_you_child_of",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1870",
+          "sourceUrl": "https://hymnary.org/text/take_the_name_of_jesus_with_you_child_of",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "耶穌聖名、安慰力量、天上盼望"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國著名聖詩作家 Lydia Baxter 於1870年創作。Baxter 長年受慢性疾病困擾，經常臥病在床，但她始終流露出喜樂與平安，並將這一切歸因於對耶穌基督的信靠。這首詩歌描繪耶穌的名是試探中的保護、憂傷中的安慰，以及通往永恆盼望的確據。副歌將主名稱為「地上的盼望，天上的喜樂」，呼應《腓立比書》2:9-11 所宣告耶穌超乎萬名之上的尊名。全詩提醒信徒，無論面對未知旅程、人生挑戰或生命終點，都可以因主名而得著平安與力量。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/take-the-name-of-jesus-with-you/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/take_the_name_of_jesus_with_you_child_of",
+        "https://www.hymnallibrary.org/hymns/take-the-name-of-jesus-with-you/"
+      ]
+    },
+    {
+      "id": "hymn_a_283",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "283",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Standing on the Promises",
+          "sourceUrl": "https://hymnary.org/text/standing_on_the_promises_of_christ_my_ki",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Russell Kelso Carter",
+          "sourceUrl": "https://hymnary.org/text/standing_on_the_promises_of_christ_my_ki",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1886",
+          "sourceUrl": "https://hymnary.org/text/standing_on_the_promises_of_christ_my_ki",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "應許堅立、信心確據、屬靈爭戰"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國聖詩作家、教師、醫生及作家 Russell Kelso Carter 於1886年創作。Carter 曾罹患嚴重心臟疾病，在病痛與生命威脅中轉而完全倚靠聖經中神的應許，並深信神話語的信實與能力，而這段親身經歷成為他創作本詩的重要背景。詩歌以「站立在神的應許上」為核心主題，宣告信徒的信心並非建立於感覺或環境，而是建立於永不改變的神話語。歌詞提到靠著神的應許勝過罪惡、獲得引導、經歷聖靈能力，以及擁有永恆盼望。副歌不斷重申信徒堅定站立在神應許上的信念，充滿力量與確據。其雄壯有力、近似進行曲風格的旋律，進一步突顯信心堅定不移的信息。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/standing-on-the-promises/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/standing_on_the_promises_of_christ_my_ki",
+        "https://www.hymnallibrary.org/hymns/standing-on-the-promises/"
+      ]
+    },
+    {
+      "id": "hymn_a_292",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "292",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "It Is Well with My Soul",
+          "sourceUrl": "https://en.wikipedia.org/wiki/It_Is_Well_with_My_Soul",
+          "sourceLabel": "wikipedia.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Horatio Gates Spafford",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/it-is-well-with-my-soul/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Philip P. Bliss",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/it-is-well-with-my-soul/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1873",
+          "sourceUrl": "https://en.wikipedia.org/wiki/It_Is_Well_with_My_Soul",
+          "sourceLabel": "wikipedia.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "平安安穩、苦難中的信心、靈魂得安樂"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國律師、長老會平信徒及聖詩作家 Horatio Gates Spafford 作詞，著名福音音樂家 Philip Paul Bliss 譜曲。Spafford 與 D. L. Moody 關係密切，熱心參與基督教事工。然而，他的人生接連遭遇重大打擊，先是1871年芝加哥大火令其投資損失殆盡，隨後於1873年，其妻子與四名女兒乘船前往歐洲時發生海難，四名女兒全部罹難，妻子僅以「Saved alone」的電報報平安。據傳當 Spafford 橫渡大西洋前往與妻子會合，途經女兒遇難海域時，寫下了《It Is Well with My Soul》的歌詞。詩歌以「When sorrows like sea billows roll」開篇，真實流露作者面對巨大悲痛的心境，但全詩並未停留在憂傷之中，而是將目光轉向基督的救贖與永恆盼望，宣告即使遭遇人生最沉重的打擊，仍能因信靠主而說出「It is well with my soul」。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/it-is-well-with-my-soul/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "詩篇 46:1",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/it-is-well-with-my-soul/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://en.wikipedia.org/wiki/It_Is_Well_with_My_Soul",
+        "https://www.hymnallibrary.org/hymns/it-is-well-with-my-soul/"
+      ]
+    },
+    {
+      "id": "hymn_a_297",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "297",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Safe in the Arms of Jesus",
+          "sourceUrl": "https://hymnary.org/text/safe_in_the_arms_of_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Fanny Crosby",
+          "sourceUrl": "https://hymnary.org/text/safe_in_the_arms_of_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William H. Doane",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/safe-in-the-arms-of-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1868",
+          "sourceUrl": "https://hymnary.org/text/safe_in_the_arms_of_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主懷安穩、慈愛遮蔽、安慰確據"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國著名聖詩作家 Fanny J. Crosby 於1868年填詞，William H. Doane 譜曲。據說當一名年幼孩子離世後，深受感動的 Doane 希望寫一首安慰哀傷者的詩歌，於是邀請 Crosby 創作歌詞，她很快便完成了《Safe in the Arms of Jesus》，其後由 Doane 譜上旋律，並首次於一場安息禮拜中獻唱。詩歌以「安穩在耶穌懷中」為核心主題，描繪信徒在基督溫柔慈愛的懷抱中得著平安、保護與安息。歌詞將耶穌描寫為疲憊心靈的避難所，使人能脫離憂慮、試探與恐懼，並在祂裡面找到真正的安全感。後段更將目光轉向永恆，宣告信徒因基督的救贖而無需懼怕死亡，終必進入榮耀的天家。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/safe-in-the-arms-of-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/safe_in_the_arms_of_jesus",
+        "https://www.hymnallibrary.org/hymns/safe-in-the-arms-of-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_299",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "299",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "My Hope is Built on Nothing Less",
+          "sourceUrl": "https://hymnary.org/text/my_hope_is_built_on_nothing_less",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Edward Mote",
+          "sourceUrl": "https://hymnary.org/text/my_hope_is_built_on_nothing_less",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William B. Bradbury (曲調：Solid Rock)",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-solid-rock/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1834",
+          "sourceUrl": "https://hymnary.org/text/my_hope_is_built_on_nothing_less",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "基督根基、救主公義、堅定信靠"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由英國浸信會牧師及聖詩作家 Edward Mote 於1834年創作。Mote 自幼成長於非基督徒家庭，成年後才信主，並長期於英國 Horsham 牧會。他深信人的得救與盼望並非建基於行為、感覺或環境，而是完全建立在耶穌基督的救贖之上。這份堅定信念促使他寫下這首原名為 “The Immutable Basis of a Sinner’s Hope” 的聖詩，後來由著名福音音樂家 William B. Bradbury 於1863年譜上廣為流傳的旋律《Solid Rock》。詩歌以《馬太福音》7:24-27 耶穌論及磐石與沙土根基的教導為基礎，宣告信徒唯一可靠的盼望是基督的寶血與公義。強調世上一切都可能改變，唯有基督永不動搖。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-solid-rock/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "馬太福音 7:24-27"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/my_hope_is_built_on_nothing_less",
+        "https://www.hymnallibrary.org/hymns/the-solid-rock/"
+      ]
+    },
+    {
+      "id": "hymn_a_300",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "300",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "A Shelter in the Time of Storm",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/a-shelter-in-the-time-of-storm/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Vernon J. Charlesworth",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/a-shelter-in-the-time-of-storm/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1880",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/a-shelter-in-the-time-of-storm/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "磐石避難、風暴保護、主內平安"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由英國牧師、教師及聖詩作家 Vernon J. Charlesworth 於約1880年創作。Charlesworth 長期從事教育與牧養工作，其作品深受聖經信息影響，特別著重基督作為信徒保障與避難所的主題。後來，著名佈道家 Dwight L. Moody 的同工、福音歌手 Ira D. Sankey 為這首詩歌譜曲，使其迅速在奮興聚會和教會中廣泛傳唱，成為激勵信徒面對困難的重要聖詩。詩歌以聖經中「磐石」與「避難所」的意象為核心，描繪基督在試煉、危難、懼怕和人生風暴中的保護與看顧。副歌強調耶穌是疲乏之人的磐石與避風港。歌詞承認人生難免面對苦難與挑戰，但同時堅定宣告基督足以成為信徒隨時的幫助與依靠。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/a-shelter-in-the-time-of-storm/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/a-shelter-in-the-time-of-storm/"
       ]
     }
   ]
