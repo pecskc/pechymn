@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 94,
+  "totalSongs": 115,
   "items": [
     {
       "id": "hymn_a_1",
@@ -663,6 +663,51 @@
       "allSources": [
         "https://en.wikipedia.org/wiki/Praise_to_the_Lord,_the_Almighty",
         "https://www.hymnwiki.org/Praise_to_the_Lord,_the_Almighty"
+      ]
+    },
+    {
+      "id": "hymn_a_20",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "020",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Satisfied（首句：All My Life I Had a Longing）",
+          "sourceUrl": "https://hymnary.org/text/all_my_life_i_had_a_longing",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Clara T. Williams",
+          "sourceUrl": "https://hymnary.org/text/all_my_life_i_had_a_longing",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Ralph E. Hudson（曲調：SATISFIED）",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/writers/r-e-hudson/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1875",
+          "sourceUrl": "https://hymnary.org/text/all_my_life_i_had_a_longing",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "基督滿足、救恩確據、寶血救贖"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/all_my_life_i_had_a_longing",
+        "https://www.hymnallibrary.org/hymns/writers/r-e-hudson/"
       ]
     },
     {
@@ -1535,6 +1580,96 @@
       ]
     },
     {
+      "id": "hymn_a_59",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "059",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Why Do I Sing About Jesus?",
+          "sourceUrl": "https://hymnary.org/text/why_do_i_sing_about_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Albert Allen Ketchum",
+          "sourceUrl": "https://hymnary.org/text/why_do_i_sing_about_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1923",
+          "sourceUrl": "https://hymnary.org/text/why_do_i_sing_about_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "救恩喜樂、基督寶貴、頌讚見證"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Albert Allen Ketchum 於1923年創作。詩歌以信徒蒙主救贖後的喜樂見證為主題，開首宣告耶穌已將人從罪中拯救出來，並帶來內外生命的潔淨與更新，因此滿心感恩讚美這位救主。歌詞進一步指出，只要稍微經歷基督的恩典與美善，便足以使人心得著釋放與自由，彰顯主改變生命的大能。最後一節以「百合花」與「玫瑰花」等美麗意象形容耶穌的榮美與慈愛，並描繪祂豐盛的憐憫如江河湧流。全詩充滿喜樂、感恩與敬拜的氣氛，引導信徒思想基督的救恩與無盡恩典，並以讚美回應祂奇妙的愛。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/why-do-i-sing-about-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/why_do_i_sing_about_jesus",
+        "https://www.hymnallibrary.org/hymns/why-do-i-sing-about-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_66",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "066",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "The Head That Once Was Crowned with Thorns",
+          "sourceUrl": "https://hymnary.org/text/the_head_that_once_was_crowned_with_thor",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Thomas Kelly",
+          "sourceUrl": "https://hymnary.org/text/the_head_that_once_was_crowned_with_thor",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1820",
+          "sourceUrl": "https://hymnary.org/text/the_head_that_once_was_crowned_with_thor",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "基督得勝、復活升天、與主同受苦難"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由愛爾蘭牧師及聖詩作家 Thomas Kelly 於1820年創作。Kelly 是19世紀著名福音派講員，一生創作超過700首聖詩，其作品以高舉基督的救贖、復活與榮耀著稱。詩歌以《腓立比書》2:8-11、《希伯來書》2:9 及《啟示錄》19:12 等經文為基礎，對比耶穌昔日在地上戴著荊棘冠冕、受苦受死，與如今在天上戴著榮耀冠冕、永遠作王的景象。歌詞不僅頌讚基督藉十字架和復活所取得的完全勝利，也提醒信徒苦難並非終局，榮耀終必來臨。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-head-that-once-was-crowned-with-thorns/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/the_head_that_once_was_crowned_with_thor",
+        "https://www.hymnallibrary.org/hymns/the-head-that-once-was-crowned-with-thorns/"
+      ]
+    },
+    {
       "id": "hymn_a_72",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -1876,6 +2011,88 @@
       ]
     },
     {
+      "id": "hymn_a_83",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "083",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Wounded for Me",
+          "sourceUrl": "https://hymnary.org/text/wounded_for_me_wounded_for_me",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "W. G. Ovens；Gladys Westcott Roberts (第2-5節)",
+          "sourceUrl": "https://hymnary.org/text/wounded_for_me_wounded_for_me",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1936",
+          "sourceUrl": "https://hymnary.org/text/wounded_for_me_wounded_for_me",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "十架代贖、復活得勝、基督代求、再來盼望"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由愛爾蘭佈道家及聖詩作家 William G. Ovens 創作，後來由 Gladys Westcott Roberts 增補部分歌詞，使詩歌內容更完整地描繪基督的救贖工作。詩歌以《以賽亞書》53章「祂為我們的過犯受害」為基礎，圍繞「Wounded for me（為我受傷）」這一核心信息展開。歌詞依次默想基督的受苦、被釘十字架、復活、天上的代求，以及將來再來的榮耀，呈現完整的救恩圖畫。全詩特別強調基督的犧牲不僅是歷史事實，更是與每位信徒息息相關的個人救恩經歷。反覆出現的「for me」突顯主的救贖是為每一個人而成就，使人更深體會神的愛與恩典。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/wounded-for-me/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/wounded_for_me_wounded_for_me",
+        "https://www.hymnallibrary.org/hymns/wounded-for-me/"
+      ]
+    },
+    {
+      "id": "hymn_a_88",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "088",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "These Are They Which Follow the Lamb",
+          "sourceUrl": "https://hymnary.org/text/cong_boliheng_women_dongshen",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Margaret E. Barber",
+          "sourceUrl": "https://hymnary.org/text/cong_boliheng_women_dongshen",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Charles C. Converse (曲調同《平安詩集401》)",
+          "sourceUrl": "https://hymnary.org/text/cong_boliheng_women_dongshen",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "跟隨基督、受苦忠誠、捨己奉獻、屬靈爭戰"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/cong_boliheng_women_dongshen"
+      ]
+    },
+    {
       "id": "hymn_a_90",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -2065,6 +2282,76 @@
       "allSources": [
         "https://hymnary.org/text/one_day_when_heaven_was_filled_with_his",
         "https://www.hymnallibrary.org/hymns/one-day-when-heaven-was-filled-with-his-praises/"
+      ]
+    },
+    {
+      "id": "hymn_a_97",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "097",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "First the Blood, Then Anointing Oil",
+          "sourceUrl": "https://hymnary.org/text/hou_shi_gao_you_xianshi_xue",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Albert B. Simpson",
+          "sourceUrl": "https://hymnary.org/tune/first_the_blood_then_anointing_simpson",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "十架潔淨、聖靈充滿、捨己奉獻、順服受苦"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/hou_shi_gao_you_xianshi_xue",
+        "https://hymnary.org/tune/first_the_blood_then_anointing_simpson"
+      ]
+    },
+    {
+      "id": "hymn_a_98",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "098",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Never Thirst Again",
+          "sourceUrl": "https://hymnary.org/text/wo_zhu_yesu_shi_shengming_yuan",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "佚名",
+          "sourceUrl": "https://hymnary.org/tune/my_jesus_is_the_living_bread_anonymous",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "May Agnew Stephens",
+          "sourceUrl": "https://www.hymnal.net/en/hymn/ch/698",
+          "sourceLabel": "hymnal.net"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "基督生命、活水供應、救恩白白賜下、永不乾渴"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/wo_zhu_yesu_shi_shengming_yuan",
+        "https://hymnary.org/tune/my_jesus_is_the_living_bread_anonymous",
+        "https://www.hymnal.net/en/hymn/ch/698"
       ]
     },
     {
@@ -2532,6 +2819,51 @@
       "allSources": [
         "https://en.wikipedia.org/wiki/Glory_To_His_Name",
         "https://www.hymnallibrary.org/hymns/glory-to-his-name/"
+      ]
+    },
+    {
+      "id": "hymn_a_119",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "119",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Happy Day（首句：O Happy Day That Fixed My Choice）",
+          "sourceUrl": "https://hymnary.org/text/o_happy_day_that_fixed_my_choice",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Philip Doddridge",
+          "sourceUrl": "https://hymnary.org/text/o_happy_day_that_fixed_my_choice",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1750（詞）；1854（副歌）",
+          "sourceUrl": "https://hymnary.org/text/o_happy_day_that_fixed_my_choice",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "得救確據、洗罪喜樂、受洗委身、傳揚福音、再來盼望"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由英國非國教派牧師、教育家及聖詩作家 Philip Doddridge 創作，並於1755年逝世後發表。Doddridge 一生致力於牧養、神學教育及聖詩創作，雖長期受肺病困擾，仍忠心事奉教會。這首詩歌原名為 “Rejoicing in our Covenant Engagement to God”，原本是為信徒公開見證信仰、受浸或重新奉獻生命而寫的詩歌。詩歌以「O Happy Day」為核心主題，表達信徒因接受基督、蒙恩得救而湧出的喜樂與感恩。歌詞頌讚主耶穌赦罪的大恩，並見證信徒立志將一生奉獻給神的決心，強調真正的喜樂來自與神建立生命的關係。全詩充滿得救確據與委身的信息，既有歡樂的讚美，也有對主忠心跟隨的承諾。後來 Edward F. Rimbault 於1854年為其譜上廣為流傳的旋律，使這首詩歌成為受浸聚會、培靈會及復興聚會中極具代表性的經典聖詩，持續激勵信徒以喜樂的心回應神的救恩。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/o-happy-day-that-fixed-my-choice/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/o_happy_day_that_fixed_my_choice",
+        "https://www.hymnallibrary.org/hymns/o-happy-day-that-fixed-my-choice/"
       ]
     },
     {
@@ -4655,6 +4987,602 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/a-shelter-in-the-time-of-storm/"
+      ]
+    },
+    {
+      "id": "hymn_a_303",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "303",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Under His Wings",
+          "sourceUrl": "https://hymnary.org/text/under_his_wings_i_am_safely_abiding",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "William Orcutt Cushing",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/under-his-wings/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Ira D. Sankey",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/under-his-wings/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1896",
+          "sourceUrl": "https://hymnary.org/text/under_his_wings_i_am_safely_abiding",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主翅膀下、平安保守、患難遮蔽"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國聖詩作家及公理會牧師 William Orcutt Cushing 創作，並由著名福音歌手、作曲家及佈道同工 Ira D. Sankey 譜曲。Cushing 因健康惡化而提早離開牧職，但在晚年仍持續透過寫作事奉，創作了多首廣受喜愛的聖詩。《Under His Wings》正是他晚年信仰經歷的真實流露，反映出在軟弱與困難中仍能安穩倚靠神的信心。詩歌以《詩篇》91:4「祂必用自己的翎毛遮蔽你；你要投靠在祂的翅膀底下」為核心意象，將神比喻為保護幼鳥的母鳥，描繪信徒在神翅膀蔭下得著保護、安息與安慰。歌詞強調即使面對人生風暴、黑夜與恐懼，信徒仍能因神同在而享有平安與穩妥。副歌反覆宣告「Under His wings」，見證沒有任何事物能使信徒與基督的愛隔絕。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/under-his-wings/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "詩篇 91:4"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/under_his_wings_i_am_safely_abiding",
+        "https://www.hymnallibrary.org/hymns/under-his-wings/"
+      ]
+    },
+    {
+      "id": "hymn_a_308",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "308",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "There Is a Balm in Gilead",
+          "sourceUrl": "https://hymnary.org/text/sometimes_i_feel_discouraged_spiritual",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "佚名",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/there-is-a-balm-in-gilead/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "醫治安慰、福音盼望、靈魂復原"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "作者已不可考，源自19世紀非裔美國基督徒在奴隸制度下所傳唱的屬靈詩歌。這首詩歌以《耶利米書》8:22「基列豈沒有乳香呢？」為創作背景，將「基列的乳香」象徵為神所賜的醫治與安慰。詩歌以真誠樸實的語言表達信徒面對灰心、挫折和軟弱時的掙扎，同時堅定宣告耶穌是靈魂的大醫生，能帶來赦免、醫治與永恆盼望。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/there-is-a-balm-in-gilead/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/sometimes_i_feel_discouraged_spiritual",
+        "https://www.hymnallibrary.org/hymns/there-is-a-balm-in-gilead/"
+      ]
+    },
+    {
+      "id": "hymn_a_340",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "340",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "In the Garden",
+          "sourceUrl": "https://hymnary.org/text/i_come_to_the_garden_alone",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "C. Austin Miles",
+          "sourceUrl": "https://hymnary.org/text/i_come_to_the_garden_alone",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1912",
+          "sourceUrl": "https://hymnary.org/text/i_come_to_the_garden_alone",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "園中相遇、復活主同在、親密交通"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國福音聖詩作家、作曲家及音樂編輯 C. Austin Miles 於1912年創作。Miles 原本是一名藥劑師，後來投身福音音樂事工。當時出版商 Dr. Adam Geibel 希望他創作一首充滿溫柔、安慰與盼望的信息詩歌，以鼓勵灰心、疲乏及面對死亡的人。詩歌的靈感來自《約翰福音》20章記載復活主向 Mary Magdalene 顯現的經過。Miles 曾回憶，1912年3月某日靈修時，當他閱讀這段經文，彷彿親身置身於復活清晨的花園之中，看見 Mary 憂傷地來到空墳墓前，並親耳聽見她呼喊「Rabboni」。這幅鮮明而深刻的屬靈畫面深深觸動了他，使他當天寫下歌詞，並於當晚完成旋律。詩歌以信徒與基督親密同行為核心主題，描繪主在寧靜花園中與信徒相遇、同行及交談的溫馨情景。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/in-the-garden/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_come_to_the_garden_alone",
+        "https://www.hymnallibrary.org/hymns/in-the-garden/"
+      ]
+    },
+    {
+      "id": "hymn_a_341",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "341",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Just a Closer Walk With Thee",
+          "sourceUrl": "https://hymnary.org/text/i_am_weak_but_thou_art_strong",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "佚名",
+          "sourceUrl": "https://hymnary.org/text/i_am_weak_but_thou_art_strong",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "貼近主行、日常成聖、軟弱倚靠"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "創作年代及作者已不可考，一般認為起源於19世紀非裔美國教會，甚至可能源自奴隸時期所傳唱的靈歌。這首詩歌深受《哥林多後書》5:7「憑信心行事」及《雅各書》4:8「親近神，神就必親近你們」等經文影響，表達信徒渴望與主建立更親密同行關係的心聲。現今廣為流傳的版本，則由福音音樂家 Kenneth Morris 於1940年整理、記譜及出版，使其廣泛流傳於教會和福音音樂界。詩歌以「與主更親近地同行」為核心主題，表達信徒在軟弱、試煉及人生旅途中，盼望時刻依靠主的帶領與恩典。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/just-a-closer-walk-with-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_am_weak_but_thou_art_strong",
+        "https://www.hymnallibrary.org/hymns/just-a-closer-walk-with-thee/"
+      ]
+    },
+    {
+      "id": "hymn_a_351",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "351",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I Need Thee Every Hour",
+          "sourceUrl": "https://hymnary.org/text/i_need_thee_every_hour_most_gracious_lor",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Annie S. Hawks",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-need-thee-every-hour/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Robert Lowry",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-need-thee-every-hour/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1872",
+          "sourceUrl": "https://hymnary.org/text/i_need_thee_every_hour_most_gracious_lor",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "時刻倚靠、柔聲安慰、懇切祈求"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國聖詩作家 Annie Sherwood Hawks 於1872年創作歌詞， Robert Lowry 譜曲。據 Hawks 所說，當時並非身處特別的困境，而是在平凡生活中深深感受到人對神時刻倚靠的需要，因此寫下這首詩歌。詩歌表達信徒承認自己的軟弱與有限，並時刻倚靠主的幫助、恩典與保守。歌詞將每日生活中的挑戰、試探和憂慮化為禱告，懇求主常與自己同在，因為離開主便無法得著真正的平安與力量。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-need-thee-every-hour/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_need_thee_every_hour_most_gracious_lor",
+        "https://www.hymnallibrary.org/hymns/i-need-thee-every-hour/"
+      ]
+    },
+    {
+      "id": "hymn_a_352",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "352",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "More Love to Thee, O Christ",
+          "sourceUrl": "https://hymnary.org/text/more_love_to_thee_o_christ",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Elizabeth Prentiss",
+          "sourceUrl": "https://hymnary.org/text/more_love_to_thee_o_christ",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1856",
+          "sourceUrl": "https://hymnary.org/text/more_love_to_thee_o_christ",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "更深愛主、全然奉獻、真心禱告"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國作家及詩人 Elizabeth Payson Prentiss 創作。Prentiss 是長老會牧師的妻子，一生經歷多次沉重打擊，尤其在短時間內痛失兩名年幼子女，使她陷入極大的悲傷。然而，這些苦難反而使她更深切渴慕基督，並於1856年寫下《More Love to Thee, O Christ》，原本只是她私人日記中的禱告與心聲，後來於1869年正式發表。詩歌以「更愛主基督」為核心主題，表達信徒最大的追求不是地上的安慰、平安或祝福，而是不斷加深對基督的愛與委身。歌詞承認人生會經歷憂傷、失落與試煉，但這些經歷能使人更親近主，正如煉淨的金子一般。全詩流露出對基督真摯而單純的愛慕，並宣告無論在順境或逆境中，都願意更深認識和愛主。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/more-love-to-thee-o-christ/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/more_love_to_thee_o_christ",
+        "https://www.hymnallibrary.org/hymns/more-love-to-thee-o-christ/"
+      ]
+    },
+    {
+      "id": "hymn_a_354",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "354",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Moment By Moment",
+          "sourceUrl": "https://hymnary.org/text/dying_with_jesus_by_death_reckoned_mine",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "D. W. Whittle",
+          "sourceUrl": "https://hymnary.org/text/dying_with_jesus_by_death_reckoned_mine",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1893",
+          "sourceUrl": "https://hymnary.org/text/dying_with_jesus_by_death_reckoned_mine",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "與主同死同活、時刻蒙恩、持續保守"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國佈道家、聖詩作家及南北戰爭退伍軍官 Daniel Webster Whittle（1840-1901）於1893年創作歌詞，並由其女兒 May Whittle Moody 譜曲。Whittle 信主後投身福音事工，創作了多首廣受歡迎的福音詩歌。據說他在默想《歌羅西書》3:4「基督是我們的生命」時，深深被這真理感動，體會到信徒的一切力量、平安與盼望都源於與基督聯合，因此寫下了《Moment by Moment》。詩歌以「每時每刻倚靠主」為核心主題，強調基督徒的生命並非單靠自己的能力維持，而是在每一刻都經歷主的保守、供應與帶領。副歌「Moment by moment I'm kept in His love」道出信徒時刻活在基督愛中的確據，無論面對試煉、軟弱或挑戰，都能因主的同在而得著力量與平安。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/moment-by-moment/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/dying_with_jesus_by_death_reckoned_mine",
+        "https://www.hymnallibrary.org/hymns/moment-by-moment/"
+      ]
+    },
+    {
+      "id": "hymn_a_357",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "357",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "More Like the Master",
+          "sourceUrl": "https://hymnary.org/text/more_like_the_master_i_would_ever_be",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Chas. H. Gabriel",
+          "sourceUrl": "https://hymnary.org/text/more_like_the_master_i_would_ever_be",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1906",
+          "sourceUrl": "https://hymnary.org/text/more_like_the_master_i_would_ever_be",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "效法基督、謙卑柔和、捨己生命"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國著名福音音樂家及聖詩作家 Charles H. Gabriel 於1906年創作。Gabriel 是19世紀末至20世紀初最具影響力的福音詩歌作家之一，一生創作及編輯數千首聖詩，作品廣泛收錄於各教會聖詩集。詩歌「更像我恩主」表達信徒渴望生命不斷被神改變，更加活出基督的性情與樣式。依次提到效法主的溫柔、謙卑、慈愛與憐憫，學習背負他人的重擔，並以基督的愛服事身邊的人。最後一節更進一步獻上完全奉獻的禱告，求主得著自己的心思、意志與生命，使自己全然屬於基督。全詩強調成聖不是靠人的努力，而是在順服聖靈帶領下，逐步被塑造成主的樣式。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/more-like-the-master/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/more_like_the_master_i_would_ever_be",
+        "https://www.hymnallibrary.org/hymns/more-like-the-master/"
+      ]
+    },
+    {
+      "id": "hymn_a_358",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "358",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Earthly Pleasures Vainly Call Me",
+          "sourceUrl": "https://hymnary.org/text/earthly_pleasures_vainly_call_me_i_would",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "James Rowe",
+          "sourceUrl": "https://hymnary.org/text/earthly_pleasures_vainly_call_me_i_would",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1911",
+          "sourceUrl": "https://hymnary.org/text/earthly_pleasures_vainly_call_me_i_would",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "不戀世榮、專一像主、心思更新"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由英國出生、美國福音聖詩作家 James Rowe 於1911年創作。Rowe 曾任鐵路職員及報社編輯，後來投身福音事工，一生創作超過一萬首福音詩歌，作品以簡潔易懂、充滿委身與門徒訓練信息見稱。詩歌《I Would Be Like Jesus》表達信徒渴望在思想、言語和行為上活出基督的樣式。歌詞強調效法主的謙卑、慈愛、順服與忍耐，並提醒信徒不要被短暫的世俗享樂吸引，而要專心追求屬天的生命。副歌「Be like Jesus, this my song」反覆表達這份心志，指出無論在家庭、工作或人群之中，都應活出基督的見證。全詩呼應《腓立比書》2:5-8 及《約翰壹書》2:15-17 的教導，強調成為像基督的人是一生持續追求的目標。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/earthly-pleasures-vainly-call-me/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/earthly_pleasures_vainly_call_me_i_would",
+        "https://www.hymnallibrary.org/hymns/earthly-pleasures-vainly-call-me/"
+      ]
+    },
+    {
+      "id": "hymn_a_359",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "359",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "More About Jesus",
+          "sourceUrl": "https://hymnary.org/text/more_about_jesus_would_i_know_more_of",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "E. E. Hewitt",
+          "sourceUrl": "https://hymnary.org/text/more_about_jesus_would_i_know_more_of",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1887",
+          "sourceUrl": "https://hymnary.org/text/more_about_jesus_would_i_know_more_of",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "更多認識主、救恩體驗、十架大愛"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國主日學教師及聖詩作家 Eliza Edmunds Hewitt 於1887年創作歌詞，並由著名福音音樂家 John R. Sweney 譜曲。Hewitt 曾因嚴重脊椎受傷而長期臥床，在康復期間更深體會神的恩典與同在，並開始創作大量鼓勵信徒靈命成長的聖詩。《More About Jesus》以「更深認識耶穌」為核心主題，表達信徒不滿足於初信時的經歷，而是渴望更深經歷基督的恩典、慈愛、能力與真理。歌詞從認識主的救恩、聆聽主的話語、經歷主的得勝，到盼望祂國度完全降臨，層層遞進地描繪信徒靈命成長的歷程。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/more-about-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/more_about_jesus_would_i_know_more_of",
+        "https://www.hymnallibrary.org/hymns/more-about-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_363",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "363",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "O to Be Like Thee",
+          "sourceUrl": "https://hymnary.org/text/o_to_be_like_thee_blessed_redeemer_this",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Thomas O. Chisholm",
+          "sourceUrl": "https://hymnary.org/text/o_to_be_like_thee_blessed_redeemer_this",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1897",
+          "sourceUrl": "https://hymnary.org/text/o_to_be_like_thee_blessed_redeemer_this",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "效法基督、分別為聖、生命更新"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國衛理公會牧師及聖詩作家 Thomas O. Chisholm 於1897年創作。他一生飽受健康問題困擾，亦曾多次轉換工作與事奉崗位，因此深刻體會人無法憑自己的力量活出屬靈生命，必須完全倚靠基督的恩典與聖靈的更新。詩歌以「更像耶穌」為核心主題，表達信徒渴望在品格、思想、言語和行為上效法主的生命。歌詞提到基督的溫柔、憐憫、謙卑、慈愛與順服，並強調真正的改變不是靠人的努力，而是透過聖靈在生命中的工作，以及對神旨意的全然降服。這首詩歌提醒信徒，基督徒生命的目標不僅是得蒙赦免，更是被塑造成主的樣式。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/o-to-be-like-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/o_to_be_like_thee_blessed_redeemer_this",
+        "https://www.hymnallibrary.org/hymns/o-to-be-like-thee/"
+      ]
+    },
+    {
+      "id": "hymn_a_364",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "364",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "This World Is Not My Home",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/this-world-is-not-my-home/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "佚名",
+          "sourceUrl": "https://hymnary.org/text/this_world_is_not_my_home_im_just_a",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1919",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/this-world-is-not-my-home/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "天路客旅、盼望天家、超越今世"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "詩歌以「這世界非我家」為核心主題，表達信徒深知地上的生活只是短暫寄居，真正的家鄉乃是在天上。歌詞指出世上的苦難、試煉與憂傷終必過去，而神已為屬祂的人預備永恆榮耀的家鄉。首句「This world is not my home, I'm just a passing through」成為全詩最具代表性的信息，提醒信徒不要將盼望建立在今世的財富、成就或環境之上，而要定睛於永恆的國度。這首詩歌鼓勵信徒以天國子民的身份生活，在人生旅途中懷著喜樂與確據，盼望最終與主同在的榮耀家鄉。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/this-world-is-not-my-home/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/this_world_is_not_my_home_im_just_a",
+        "https://www.hymnallibrary.org/hymns/this-world-is-not-my-home/"
+      ]
+    },
+    {
+      "id": "hymn_a_369",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "369",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "My Jesus, I Love Thee",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/my-jesus-i-love-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "William Ralph Featherston",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/my-jesus-i-love-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Adoniram J. Gordon",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/my-jesus-i-love-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1864",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/my-jesus-i-love-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "愛主委身、救恩回應、永遠屬主"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由加拿大年輕基督徒及聖詩作家 William Ralph Featherston 於1864年創作。據說 Featherston 在年僅16歲時寫下這首詩歌，雖然有關他的生平記載不多，但作品中流露出對基督真摯而深刻的愛慕。後來由美國牧師及音樂家 Adoniram J. Gordon 譜曲，廣泛傳唱於教會之中。詩歌表達信徒因基督的救贖大愛而向主獻上全心的愛與委身。歌詞提到基督在十字架上的犧牲，以及祂為罪人付上的贖價，並指出信徒之所以愛主，是因為主先愛了我們。全詩從回顧救恩恩典開始，進而宣告無論在今生或臨終之時，都願忠心愛主、跟隨主；最後更將目光放在永恆，盼望將來在榮耀天家中永遠敬拜基督。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/my-jesus-i-love-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/my-jesus-i-love-thee/"
       ]
     }
   ]
