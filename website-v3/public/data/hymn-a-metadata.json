@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 115,
+  "totalSongs": 122,
   "items": [
     {
       "id": "hymn_a_1",
@@ -3028,6 +3028,43 @@
       ]
     },
     {
+      "id": "hymn_a_128",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "128",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Glorious Freedom",
+          "sourceUrl": "https://hymnary.org/text/once_i_was_bound_by_sins_galling_fetters",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Haldor Lillenas",
+          "sourceUrl": "https://hymnary.org/text/once_i_was_bound_by_sins_galling_fetters",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1917",
+          "sourceUrl": "https://hymnary.org/text/once_i_was_bound_by_sins_galling_fetters",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "脫離罪惡、基督釋放、成聖更新、永恆自由"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/once_i_was_bound_by_sins_galling_fetters"
+      ]
+    },
+    {
       "id": "hymn_a_129",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -3131,6 +3168,63 @@
       ]
     },
     {
+      "id": "hymn_a_132",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "132",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Jesus Paid It All",
+          "sourceUrl": "https://hymnary.org/text/i_hear_the_savior_say_thy_strength_indee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Elvina M. Hall",
+          "sourceUrl": "https://hymnary.org/text/i_hear_the_savior_say_thy_strength_indee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "John Grape（All To Christ I Owe）",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Jesus_Paid_It_All",
+          "sourceLabel": "en.wikipedia.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1865",
+          "sourceUrl": "https://hymnary.org/text/i_hear_the_savior_say_thy_strength_indee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "罪債償清、寶血潔淨、救恩確據、救主讚美"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "美國經典福音聖詩，又稱《Fullness in Christ》及《I Hear the Saviour Say》，主題強調基督藉十字架上的犧牲完全償還世人的罪債，成就救贖。詩歌內容呼應《羅馬書 5章》與《以賽亞書 1:18》，宣告唯有耶穌的寶血能洗淨罪污，使信徒得著新生命與赦免。歌詞由 Elvina M. Hall 於1865年所寫。據記載，她在巴爾的摩一間衛理公會教會聚會期間，因默想救恩而在詩歌集空白頁上寫下詩詞。自出版以來廣受美國教會喜愛，成為傳揚基督代贖救恩最具代表性的聖詩之一，常用於崇拜、佈道會及聖餐聚會中。"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "羅馬書 5 章、以賽亞書 1:18",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Jesus_Paid_It_All",
+          "sourceLabel": "en.wikipedia.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_hear_the_savior_say_thy_strength_indee",
+        "https://en.wikipedia.org/wiki/Jesus_Paid_It_All"
+      ]
+    },
+    {
       "id": "hymn_a_135",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -3179,6 +3273,139 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/let-jesus-come-into-your-heart/"
+      ]
+    },
+    {
+      "id": "hymn_a_136",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "136",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Have You Any Room for Jesus?",
+          "sourceUrl": "https://hymnary.org/text/ni_xin_you_kong_chu_wei_zhu_me",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "D. W. Whittle",
+          "sourceUrl": "https://hymnary.org/text/ni_xin_you_kong_chu_wei_zhu_me",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1878",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/have-you-any-room-for-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "心門敞開、福音邀請、回應救主、把握救恩機會"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由十九世紀福音派領袖及聖詩作家 Daniel W. Whittle 創作，是一首帶有強烈呼召意味的福音詩歌。詩歌靈感來自《路加福音 2:7》耶穌降生時客店無處容身的記載，藉此向聽眾提出發人深省的問題：人的心中是否為基督預留位置。歌詞以直接懇切的口吻，彷彿基督親自在門外叩門，等待人以信心迎接祂進入生命。詩歌亦呼應《啟示錄 3:20》「看哪，我站在門外叩門」的信息，提醒人不要因追求世俗事務、自我中心或忽略屬靈生命，而將主拒於心門之外，強調接受主的機會並非永遠存在，促使人及早回應神的呼召。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/have-you-any-room-for-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "路加福音 2:7"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/ni_xin_you_kong_chu_wei_zhu_me",
+        "https://www.hymnallibrary.org/hymns/have-you-any-room-for-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_138",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "138",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Dwelling in Beulah Land",
+          "sourceUrl": "https://hymnary.org/text/quan_zai_aijii_wei_zui_nupu_buzhi_he",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "C. Austin Miles",
+          "sourceUrl": "https://hymnary.org/text/quan_zai_aijii_wei_zui_nupu_buzhi_he",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1911",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/dwelling-in-beulah-land/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "脫離罪惡、因信進入豐盛、屬靈得勝、安息喜樂"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國福音詩歌作家 C. Austin Miles 於1911年創作，靈感源自《以賽亞書 62:4》中「Beulah」之地的意象，象徵神對祂子民的眷愛、復興與祝福。詩歌將此圖畫應用於信徒的屬靈經歷，描繪信徒雖然身處充滿試煉、紛擾與屬靈爭戰的世界，卻因住在基督裡而享有的平安、穩妥與與神親密相交的福分。歌詞對比外在的風暴與內心的平安，宣告當人安居於基督裡時，任何仇敵或困難都無法奪去神所賜的安穩。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/dwelling-in-beulah-land/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/quan_zai_aijii_wei_zui_nupu_buzhi_he",
+        "https://www.hymnallibrary.org/hymns/dwelling-in-beulah-land/"
+      ]
+    },
+    {
+      "id": "hymn_a_141",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "141",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Wilt Thou Be Made Whole",
+          "sourceUrl": "https://hymnary.org/text/qing_ting_jiu_zhu_jiao_bu_sheng",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "William J. Kirkpatrick",
+          "sourceUrl": "https://hymnary.org/text/qing_ting_jiu_zhu_jiao_bu_sheng",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1912",
+          "sourceUrl": "https://www.scribd.com/document/876693235/Wilt-Thou-Be-Made-Whole",
+          "sourceLabel": "scribd.com"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "基督醫治、罪得釋放、信心回應、救恩喜樂"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/qing_ting_jiu_zhu_jiao_bu_sheng",
+        "https://www.scribd.com/document/876693235/Wilt-Thou-Be-Made-Whole"
       ]
     },
     {
@@ -3359,6 +3586,44 @@
       ]
     },
     {
+      "id": "hymn_a_154",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "154",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "思念主 (英譯：Thought the Lord)",
+          "sourceUrl": "https://hymnary.org/text/shishang_na_youyi_renxiang_ni",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "蘇佐揚",
+          "sourceUrl": "https://hymnary.org/text/shishang_na_youyi_renxiang_ni",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "著名華人牧師、聖樂家蘇佐揚於 1940 年在山東創作的聖詩。蘇牧師是二十世紀中文聖詩的重要編寫者，他自少喜愛音樂和文學，十二歲開始學風琴，能彈熟二百多首福音聖詩。創作了《天人短歌》600餘首及《天人聖歌》200餘首，許多歌曲已被譯成多國文字，為人所喜愛誦唱。《思念主》是他所寫的第一首詩歌，收錄於《天人聖歌》第 1 首。",
+          "sourceUrl": "https://www.wellsofgrace.com/messages/su-zy-index.htm",
+          "sourceLabel": "wellsofgrace.com"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "基督至寶、主愛永恆、跟隨主旨、再來盼望"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/shishang_na_youyi_renxiang_ni",
+        "https://www.wellsofgrace.com/messages/su-zy-index.htm"
+      ]
+    },
+    {
       "id": "hymn_a_155",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -3445,6 +3710,43 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/is-your-all-on-the-altar/"
+      ]
+    },
+    {
+      "id": "hymn_a_159",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "159",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Fully Surrendered, Lord, I would be",
+          "sourceUrl": "https://hymnary.org/tune/fully_surrendered_lord_i_would_stebbins",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "George C. Stebbins",
+          "sourceUrl": "https://hymnary.org/tune/fully_surrendered_lord_i_would_stebbins",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1936",
+          "sourceUrl": "https://hymnary.org/tune/fully_surrendered_lord_i_would_stebbins",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "完全奉獻、活祭、順服跟隨、生命交託"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/tune/fully_surrendered_lord_i_would_stebbins"
       ]
     },
     {
