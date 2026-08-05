@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 122,
+  "totalSongs": 138,
   "items": [
     {
       "id": "hymn_a_1",
@@ -5885,6 +5885,799 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/my-jesus-i-love-thee/"
+      ]
+    },
+    {
+      "id": "hymn_a_371",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "371",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Deeper and Deeper",
+          "sourceUrl": "https://hymnary.org/text/deeper_deeper_in_the_love_of_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Charles Price Jones",
+          "sourceUrl": "https://hymnary.org/text/deeper_deeper_in_the_love_of_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1900",
+          "sourceUrl": "https://hymnary.org/text/deeper_deeper_in_the_love_of_jesus",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "進深追求、靈命長進、愛中扎根"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由加拿大著名福音派領袖、宣教家及聖詩作家 Oswald J. Smith 創作。此詩的旋律源於1911年，當時年僅二十一歲的 Smith 在 Ontario 的 Woodstock 講道前，行走街頭時忽然湧現「Into the heart of Jesus, deeper and deeper I go」的靈感，並於聚會後立即記下曲譜；歌詞則歷經三年，至1914年在 South Chicago 牧會期間完成。詩歌以信徒不斷進深認識基督為主題，循序描繪心靈、意志、十字架、喜樂與愛的屬靈歷程，最終引向與主完全聯合的高峰經驗。其創作背景亦與 Smith 長達半個世紀堅持「morning watch」的靈修生活密切相關。他每天清晨獨自禱告親近神，並從中汲取屬靈力量。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/deeper-and-deeper/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/deeper_deeper_in_the_love_of_jesus",
+        "https://www.hymnallibrary.org/hymns/deeper-and-deeper/"
+      ]
+    },
+    {
+      "id": "hymn_a_372",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "372",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Higher Ground",
+          "sourceUrl": "https://hymnary.org/text/im_pressing_on_the_upward_way",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Johnson Oatman, Jr.",
+          "sourceUrl": "https://hymnary.org/text/im_pressing_on_the_upward_way",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1898",
+          "sourceUrl": "https://hymnary.org/text/im_pressing_on_the_upward_way",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "屬天高原、信心前行、向上攀登"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國聖詩作家 Johnson Oatman Jr. 於1898年作詞，Charles H. Gabriel 譜曲，是福音派教會中廣為傳唱的聖詩之一。Johnson 一生創作超過4,000首聖詩，而 Charles 則是當時極具影響力的福音歌曲作曲家。詩歌以信徒渴望在屬靈生命中不斷向上成長、更加親近基督為主題，表達離開過往失敗與屬世纏累，追求更高、更豐盛屬靈境界的心志。歌詞以禱告口吻懇求神賜下力量與恩典，使人在信心中勝過試探與困難，穩步邁向聖潔生活。副歌「Lord, lift me up and let me stand」尤其突顯信徒對神扶持與提升的倚靠。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/higher-ground/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/im_pressing_on_the_upward_way",
+        "https://www.hymnallibrary.org/hymns/higher-ground/"
+      ]
+    },
+    {
+      "id": "hymn_a_375",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "375",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I Need Jesus",
+          "sourceUrl": "https://hymnary.org/text/i_need_jesus_my_need_i_now_confess",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "George O. Webster",
+          "sourceUrl": "https://hymnary.org/text/i_need_jesus_my_need_i_now_confess",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "C. Harold Lowden",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-need-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1924",
+          "sourceUrl": "https://hymnary.org/text/i_need_jesus_my_need_i_now_confess",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "每日倚靠、深愁安慰、惟主所需"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 George O. Webster 於二十世紀初作詞，C. Harold Lowden 譜曲。詩歌以信徒對基督完全倚靠為主題，強調人不僅在得救時需要耶穌，在日常生活中同樣需要祂的引導、安慰與力量。詩歌內容呼應《約翰福音 15:5》「離了我，你們就不能做甚麼」的教導，以禱告和認信的口吻描繪信徒在試探、憂傷與人生挑戰中對主的需要。提醒信徒真正的力量、平安與喜樂皆源於基督的恩典與同在，惟有持續倚靠主，才能活出得勝的基督徒生命。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-need-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_need_jesus_my_need_i_now_confess",
+        "https://www.hymnallibrary.org/hymns/i-need-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_381",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "381",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Loved With Everlasting Love",
+          "sourceUrl": "https://hymnary.org/text/loved_with_everlasting_love",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "G. Wade Robinson",
+          "sourceUrl": "https://hymnary.org/text/loved_with_everlasting_love",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1876",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/loved-with-everlasting-love/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "永恆之愛、聖靈開啟、平安確據"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由愛爾蘭牧師兼聖詩作家 George Wade Robinson 所作，於1876年收錄於《Songs of the Inner Life》。詩歌靈感源自《耶利米書 31:3》，以默想神永恆不變的愛為主題，強調救恩完全出於神的恩典，是神主動愛人、吸引罪人歸向祂的結果。歌詞融合豐富的聖經意象，描繪屬靈眼光被開啟後生命的改變，並指出神永恆的愛不僅是一項教義，更是信徒真實可經歷的屬靈實際。詩中流露對基督親密相交的渴慕，以及對救恩確據的深刻體會。此詩通常配以 James Mountain 所譜的曲調〈Everlasting Love〉，旋律平和優美，鼓勵人在神永不改變的應許與慈愛中安然信靠。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/loved-with-everlasting-love/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "耶利米書 31:3"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/loved_with_everlasting_love",
+        "https://www.hymnallibrary.org/hymns/loved-with-everlasting-love/"
+      ]
+    },
+    {
+      "id": "hymn_a_385",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "385",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Jesus, the Very Thought of Thee",
+          "sourceUrl": "https://hymnary.org/text/jesus_the_very_thought_of_thee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Bernard of Clairvaux (英譯：Edward Caswall)",
+          "sourceUrl": "https://hymnary.org/text/jesus_the_very_thought_of_thee",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "John B. Dykes",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-the-very-thought-of-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1849",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-the-very-thought-of-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "想念主名、心靈愉悅、同在盼望"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "此詩一般認為源自十二世紀修道院領袖 Bernard of Clairvaux 的拉丁詩作《Dulcis Jesu Memoria》，後由 Edward Caswall 英譯，並配上 John B. Dykes 所譜曲調〈St. Agnes〉。詩歌靈感呼應《詩篇 42:1-2》對神深切渴慕的呼求，以默想耶穌聖名的甘甜與同在為核心，表達信徒對基督的愛慕、依靠與親近之情。Bernard of Clairvaux 是中世紀最具影響力的屬靈領袖之一，其著作強調聖潔生活、順服神及對基督的熱愛。原詩是一首篇幅甚長的默想詩，反覆頌揚耶穌帶來的安慰、力量與喜樂。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/jesus-the-very-thought-of-thee/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "詩篇 42:1-2"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/jesus_the_very_thought_of_thee",
+        "https://www.hymnallibrary.org/hymns/jesus-the-very-thought-of-thee/"
+      ]
+    },
+    {
+      "id": "hymn_a_389",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "389",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I am Thine, O Lord (Draw Me Nearer)",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-am-thine-o-lord-draw-me-nearer/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Fanny Crosby",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-am-thine-o-lord-draw-me-nearer/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William H. Doane",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-am-thine-o-lord-draw-me-nearer/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1875",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-am-thine-o-lord-draw-me-nearer/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "親近十架、信心前來、完全奉獻"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由著名聖詩作家 Fanny J. Crosby 於1875年創作，曲譜則由其長期合作伙伴 William H. Doane 所寫，是一首深受喜愛的奉獻與靈修詩歌。雖然 Fanny J. Crosby 自幼失明，但她憑著對基督堅定的信心與屬靈洞察力，一生創作超過8,000首聖詩，對普世教會影響深遠。據說此詩源於 Crosby 與 Doane 一次關於神同在及親近主之喜樂的談話，其內容呼應《雅各書 4:8》「你們親近神，神就必親近你們」。歌詞以禱告的口吻表達信徒對主完全降服的心志，以及渴望藉著禱告、順服和事奉與基督建立更親密關係的願望。副歌「Draw me nearer, nearer, blessed Lord」尤其成為全詩核心，真摯地流露信徒渴求更靠近主的心聲。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-am-thine-o-lord-draw-me-nearer/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/i-am-thine-o-lord-draw-me-nearer/"
+      ]
+    },
+    {
+      "id": "hymn_a_392",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "392",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Tell It to Jesus",
+          "sourceUrl": "https://hymnary.org/text/are_you_weary_are_you_heavyhearted",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Jeremiah Eames Rankin",
+          "sourceUrl": "https://hymnary.org/text/are_you_weary_are_you_heavyhearted",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Edmund S. Lorenz",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/tell-it-to-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1876",
+          "sourceUrl": "https://hymnary.org/text/are_you_weary_are_you_heavyhearted",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "向主傾訴、憂慮交託、慈愛安慰"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國公理宗牧師兼聖詩作家 Jeremiah Eames Rankin 作詞，於1880年出版，配以 Edmund S. Lorenz 所譜的旋律。這首詩歌以溫柔真摯的語氣，邀請所有疲憊、憂傷、受試探或心靈沉重的人，把一切重擔向耶穌傾訴。詩歌內容呼應《希伯來書 4:15-16》的教導，強調耶穌了解人一切的軟弱，並樂意垂聽信徒的禱告。副歌反覆唱出「Tell it to Jesus alone」，提醒人在憂慮、悲傷、罪疚或面對未來恐懼時，都可以坦然來到主面前。第三節更提及失去摯愛、內心孤單及人生重擔等處境，凸顯基督作為忠實朋友的安慰與同在。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/tell-it-to-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/are_you_weary_are_you_heavyhearted",
+        "https://www.hymnallibrary.org/hymns/tell-it-to-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_397",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "397",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Did You Think to Pray?",
+          "sourceUrl": "https://hymnary.org/text/ere_you_left_your_room_this_morning",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "M. A. Kidder",
+          "sourceUrl": "https://hymnary.org/text/ere_you_left_your_room_this_morning",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1876",
+          "sourceUrl": "https://hymnary.org/text/ere_you_left_your_room_this_morning",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "每日禱告、主前交託、晨更操練"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由聖詩作家 Mary Ann Pepper Kidder 作詞，是一首勉勵信徒建立禱告生活的靈修詩歌。詩歌以親切而發人深省的提問開始：「今天早晨離開房間前，你有否想到禱告？」並在各節中進一步詢問信徒在面對試探、憤怒或憂傷時，是否懂得先來到神面前尋求幫助。全詩提醒人，禱告不應只是例行習慣，而應成為每天生活與屬靈爭戰中的首要依靠。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/did-you-think-to-pray/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/ere_you_left_your_room_this_morning",
+        "https://www.hymnallibrary.org/hymns/did-you-think-to-pray/"
+      ]
+    },
+    {
+      "id": "hymn_a_398",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "398",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "At Even, Ere the Sun Was Set",
+          "sourceUrl": "https://hymnary.org/text/at_even_ere_the_sun_was_set",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Henry Twells",
+          "sourceUrl": "https://hymnary.org/text/at_even_ere_the_sun_was_set",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1868",
+          "sourceUrl": "https://hymnary.org/text/at_even_ere_the_sun_was_set",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "黃昏默想、主醫治憐憫、帶難處就主"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "此詩由英國聖公會牧師兼聖詩作家 Henry Twells 創作，以傍晚默想為背景，靈感取自《馬可福音 1章》中迦百農居民在日落後把病人和受苦者帶到耶穌面前求醫治的情景。引導信徒在一天結束時思想基督的憐憫與慈愛，並將自己的重擔、憂傷與過犯帶到主面前。提醒我們那位曾在加利利醫治病患、安慰受苦者的救主，今天仍然同樣垂聽人的呼求。全詩真誠描繪人生的軟弱與困難，同時強調基督無盡的恩慈、忍耐與憐憫。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/at-even-ere-the-sun-was-set/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "馬可福音 1:32-34"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/at_even_ere_the_sun_was_set",
+        "https://www.hymnallibrary.org/hymns/at-even-ere-the-sun-was-set/"
+      ]
+    },
+    {
+      "id": "hymn_a_401",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "401",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "What a Friend We Have in Jesus",
+          "sourceUrl": "https://hymnary.org/text/what_a_friend_we_have_in_jesus_all_our_s",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Joseph Medlicott Scriven",
+          "sourceUrl": "https://hymnary.org/text/what_a_friend_we_have_in_jesus_all_our_s",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1855",
+          "sourceUrl": "https://hymnary.org/text/what_a_friend_we_have_in_jesus_all_our_s",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "禱告交託、患難扶持、主內安慰"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由愛爾蘭裔基督徒 Joseph Scriven 於1857年創作。Scriven 出身都柏林富裕家庭，畢業於 Trinity College，但因信仰立場與家庭產生隔閡，加上未婚妻在婚禮前夕意外溺斃，使他飽受傷痛。移居加拿大後，他選擇過簡樸而奉獻的生活，熱心幫助貧困者、病人和寡婦，因此深受敬重。這首詩原本並非為公開發表而寫，而是 Scriven 寄給患病母親的安慰信，藉此勉勵她把一切憂慮和重擔帶到主面前。歌詞以平實而深刻的語言描繪耶穌作為信徒最親密朋友的形象，強調藉著禱告來到主前，便能得著安慰、力量與平安。後來詩詞被友人發現並出版，配上 Charles C. Converse 所作的旋律後廣為流傳。1875年，Ira D. Sankey 將其收錄於《Gospel Hymns Number One》，使其風行世界各地。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/what-a-friend-we-have-in-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "箴 18:24"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/what_a_friend_we_have_in_jesus_all_our_s",
+        "https://www.hymnallibrary.org/hymns/what-a-friend-we-have-in-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_402",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "402",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Pass Me Not, O Gentle Savior",
+          "sourceUrl": "https://hymnary.org/text/pass_me_not_o_gentle_savior_hear_my",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Fanny Crosby",
+          "sourceUrl": "https://hymnary.org/text/pass_me_not_o_gentle_savior_hear_my",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William H. Doane",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/pass-me-not-o-gentle-savior/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1868",
+          "sourceUrl": "https://hymnary.org/text/pass_me_not_o_gentle_savior_hear_my",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "懇求垂聽、恩召回應、憐憫臨到"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由著名聖詩作家 Fanny J. Crosby 於1868年創作，並由 William H. Doane 譜曲。詩歌靈感來自《馬可福音》記載瞎子 Bartimaeus 呼求耶穌憐憫的故事。當眾人試圖制止他時，他卻更加迫切地呼喊主的幫助，這份信心與渴慕正是全詩的核心精神。歌詞以「Do not pass me by」為反覆呼求，表達信徒深知自己的軟弱與需要，懇求救主垂聽禱告，不要忽略自己。各節內容依次描寫人對神憐憫的渴望、對罪的悔改、對屬靈潔淨的追求，以及與基督建立更親密關係的心願。強調耶穌是恩典與醫治的泉源，也是唯一真正的安慰與拯救。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/pass-me-not-o-gentle-savior/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/pass_me_not_o_gentle_savior_hear_my",
+        "https://www.hymnallibrary.org/hymns/pass-me-not-o-gentle-savior/"
+      ]
+    },
+    {
+      "id": "hymn_a_403",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "403",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Abide with Me",
+          "sourceUrl": "https://hymnary.org/text/abide_with_me_fast_falls_the_eventide",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Henry F. Lyte",
+          "sourceUrl": "https://hymnary.org/text/abide_with_me_fast_falls_the_eventide",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William H. Monk",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/abide-with-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1847",
+          "sourceUrl": "https://hymnary.org/text/abide_with_me_fast_falls_the_eventide",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "求主同住、黑夜盼望、終身倚靠"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由蘇格蘭裔英國聖公會牧師兼詩人 Henry Francis Lyte 於1847年臨終前創作。長期受哮喘與肺結核困擾的 Lyte，一生忠心牧養信徒，並在病情急劇惡化之際，他講完最後一篇講章後寫下此詩，不久便在法國 Nice 安息主懷。詩歌靈感來自《路加福音 24:29》門徒向復活主懇求「請你同我們住下」的經文，以黃昏漸深作為人生暮年的象徵，表達人在孤單、軟弱、憂傷與死亡面前，迫切需要基督同在的信心與盼望。詩中不斷呼求主「與我同住」，彰顯神永不離棄的慈愛與扶持。後來 William Henry Monk 為其譜寫著名曲調〈Eventide〉，使其廣為流傳。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/abide-with-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "路加福音 24:29"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/abide_with_me_fast_falls_the_eventide",
+        "https://www.hymnallibrary.org/hymns/abide-with-me/"
+      ]
+    },
+    {
+      "id": "hymn_a_404",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "404",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Lead, Kindly Light",
+          "sourceUrl": "https://hymnary.org/text/lead_kindly_light_amid_the_encircling_gl",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "John Henry Newman",
+          "sourceUrl": "https://hymnary.org/text/lead_kindly_light_amid_the_encircling_gl",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "John Bacchus Dykes",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/lead-kindly-light/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1833",
+          "sourceUrl": "https://hymnary.org/text/lead_kindly_light_amid_the_encircling_gl",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "慈光引路、黑夜前行、一步信靠"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "《Lead, Kindly Light》原為《The Pillar of the Cloud》，由十九世紀英國著名神學家 John Henry Newman 於1833年創作。當時 Newman 因身心疲憊前往意大利休養，返英途中感染疾病，船隻又因濃霧與無風天氣滯留海上。在身體虛弱、靈命低谷與前路未明的處境中，他從《出埃及記 13:21-22》神以雲柱火柱引導以色列人的記載得到啟發，寫下這首表達信靠神引領的詩歌。歌詞描繪人在黑暗、迷惘和無助中，懇求主一步一步帶領前行，而非預先看見整條道路。Newman 亦坦誠反省自己過去倚靠己意、喜歡掌控人生方向，如今則學習謙卑順服神的帶領。這首詩後來成為牛津運動的重要屬靈作品之一。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/lead-kindly-light/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/lead_kindly_light_amid_the_encircling_gl",
+        "https://www.hymnallibrary.org/hymns/lead-kindly-light/"
+      ]
+    },
+    {
+      "id": "hymn_a_406",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "406",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Sweet Hour of Prayer",
+          "sourceUrl": "https://hymnary.org/text/sweet_hour_of_prayer_sweet_hour_of_pray",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "W. W. Walford",
+          "sourceUrl": "https://hymnary.org/text/sweet_hour_of_prayer_sweet_hour_of_pray",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1845",
+          "sourceUrl": "https://hymnary.org/text/sweet_hour_of_prayer_sweet_hour_of_pray",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "禱告良辰、卸下重擔、施恩座前"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 William W. Walford 於1845年創作。詩歌以真摯溫暖的筆觸描繪信徒與神親密交通的經歷，將禱告形容為使心靈得安息、信心得堅固的甘甜時刻。歌詞強調信徒可以隨時將自己的需要、憂慮和感謝帶到神面前，並深信祂樂意垂聽兒女的呼求。詩人將禱告視為遠離人生重擔與憂患的屬靈避難所，使人在困境中重新得著力量與方向。歌詞反覆頌揚「Sweet Hour of Prayer」，表達對與神相交時光的珍惜與喜樂。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/sweet-hour-of-prayer/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/sweet_hour_of_prayer_sweet_hour_of_pray",
+        "https://www.hymnallibrary.org/hymns/sweet-hour-of-prayer/"
+      ]
+    },
+    {
+      "id": "hymn_a_407",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "407",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Open My Eyes, That I May See",
+          "sourceUrl": "https://hymnary.org/text/open_my_eyes_that_i_may_see",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Clara H. Scott",
+          "sourceUrl": "https://hymnary.org/text/open_my_eyes_that_i_may_see",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1895",
+          "sourceUrl": "https://hymnary.org/text/open_my_eyes_that_i_may_see",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "屬靈看見、真理光照、聆聽順服"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國聖詩作家及作曲家 Clara H. Scott 於1895年創作，靈感源自《詩篇 119:18》「求你開我的眼睛，使我看出你律法中的奇妙」。這首詩是向神發出的懇切禱告，表達信徒渴望得著屬靈洞察力，更深明白神的真理與旨意。Clara H. Scott 不僅親自填詞作曲，更是美國首位出版合唱聖歌集的女性作曲家之一；此詩亦成為她生前最後且最具代表性的作品之一。全詩分為三個層次的祈求：首先求神開啟眼睛，看見聖經中的奇妙真理；其次求神開啟耳朵，能聆聽祂藉著聖經和聖靈所發出的聲音，分辨真理與虛謊；最後求神開啟心靈與口舌，使人在明白真道後，願意順服並勇敢傳揚福音。每節結尾「Silently now I wait for Thee」都流露謙卑等候神引導的態度。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/open-my-eyes-that-i-may-see/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/open_my_eyes_that_i_may_see",
+        "https://www.hymnallibrary.org/hymns/open-my-eyes-that-i-may-see/"
+      ]
+    },
+    {
+      "id": "hymn_a_410",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "410",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I Must Tell Jesus",
+          "sourceUrl": "https://hymnary.org/text/i_must_tell_jesus_all_of_my_trials",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "E. A. Hoffman",
+          "sourceUrl": "https://hymnary.org/text/i_must_tell_jesus_all_of_my_trials",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1894",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-must-tell-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "重擔告主、患難體恤、主前傾吐"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國長老會牧師兼聖詩作家 Elisha A. Hoffman 於1894年創作，並親自譜寫曲調〈ORWIGSBURG〉。Hoffman 一生創作超過2,000首聖詩，其作品以信息清晰、情感真摯著稱。《I Must Tell Jesus》以信徒面對人生重擔時的真實處境為背景，傳達一個簡單而深刻的信息：無論遭遇何種困難、憂傷或試探，都可以帶到耶穌面前，因祂不但願意垂聽，更能幫助並扶持祂的兒女。這信息呼應《希伯來書 2:18》所強調基督體恤人軟弱的真理。歌詞鼓勵人將憂慮、痛苦與掙扎向主傾訴，在祂裡面尋得安慰與力量。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-must-tell-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_must_tell_jesus_all_of_my_trials",
+        "https://www.hymnallibrary.org/hymns/i-must-tell-jesus/"
       ]
     }
   ]
