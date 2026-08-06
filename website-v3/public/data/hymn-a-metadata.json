@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 138,
+  "totalSongs": 151,
   "items": [
     {
       "id": "hymn_a_1",
@@ -6678,6 +6678,637 @@
       "allSources": [
         "https://hymnary.org/text/i_must_tell_jesus_all_of_my_trials",
         "https://www.hymnallibrary.org/hymns/i-must-tell-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_418",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "418",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Break Thou the Bread of Life",
+          "sourceUrl": "https://hymnary.org/text/break_thou_the_bread_of_life",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Mary A. Lathbury",
+          "sourceUrl": "https://hymnary.org/text/break_thou_the_bread_of_life",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1877",
+          "sourceUrl": "https://hymnary.org/text/break_thou_the_bread_of_life",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "聖言餵養、生命之糧、靈裡飽足"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國衛理公會作家、詩人及教育工作者 Mary Artemisia Lathbury 於1877年創作，最初為紐約 Chautauqua 聖經研習聚會而寫，後由 William F. Sherwin 譜曲。詩歌以基督為「生命之糧」為主題，表達信徒對神話語的渴慕，以及對屬靈餵養和更深認識主的追求。歌詞引用耶穌分餅餵飽五千人的意象，並呼應《詩篇 119:18》「求你開我的眼睛，使我看出你律法中的奇妙」，祈求主親自開啟人的心靈，使人明白聖經真理。雖然本詩常用於聖餐聚會，但其焦點並非物質餅或聖餐本身，而是基督藉著神的話語滿足人靈裡最深的饑渴，表達信徒盼望在與主相交中得著啟迪、更新與力量。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/break-thou-the-bread-of-life/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/break_thou_the_bread_of_life",
+        "https://www.hymnallibrary.org/hymns/break-thou-the-bread-of-life/"
+      ]
+    },
+    {
+      "id": "hymn_a_419",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "419",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Come and Dine",
+          "sourceUrl": "https://hymnary.org/text/jesus_has_a_table_spread",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "C. B. Widmeyer",
+          "sourceUrl": "https://hymnary.org/text/jesus_has_a_table_spread",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1907",
+          "sourceUrl": "https://hymnary.org/text/jesus_has_a_table_spread",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主筵邀請、復活供應、屬靈飽足"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由福音詩歌作家 Charles B. Widmeyer 於二十世紀初創作，靈感來自《約翰福音 21:12》中復活的耶穌在提比哩亞海邊向門徒發出的邀請：「Come and dine」。當時門徒經歷挫折與灰心，但主親自為他們預備食物，顯明祂的關懷與供應。詩歌以此場景為基礎，將耶穌描繪為餵飽群眾、供應人需要的救主，並繼續向所有飢渴的心靈發出邀請。全詩強調基督不單供應人肉身所需，更賜下屬靈的糧食與永恆的滿足。副歌「Come and dine, the Master calleth, Come and dine」充滿喜樂與確據，宣告信徒能隨時來到主面前，享受與祂親密團契的福分。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/come-and-dine/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/jesus_has_a_table_spread",
+        "https://www.hymnallibrary.org/hymns/come-and-dine/"
+      ]
+    },
+    {
+      "id": "hymn_a_424",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "424",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "In the Sweet By and By",
+          "sourceUrl": "https://hymnary.org/text/theres_a_land_that_is_fairer_than_day_an",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Sanford Fillmore Bennett",
+          "sourceUrl": "https://hymnary.org/text/theres_a_land_that_is_fairer_than_day_an",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Joseph Philbrick Webster",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/in-the-sweet-by-and-by/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1868",
+          "sourceUrl": "https://hymnary.org/text/theres_a_land_that_is_fairer_than_day_an",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "天家盼望、美地相聚、信心仰望"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Sanford Bennett 作詞、Joseph Webster 作曲，創作靈感來自兩位好友的一次談話。據說經常受憂鬱困擾的 Webster 某天神情低落地來到 Bennett 的辦公室，當被問及近況時，他回答：「It will be all right by and by（將來一切都會好的）」。這句話激發了創作靈感，兩人在短短約三十分鐘內完成了這首後來廣為流傳的福音聖詩。詩歌以基督徒對天家永恆盼望的信念為核心，描繪信徒將來在天上「美麗彼岸」與主相見、與已離世親友重聚的喜樂景象。歌詞強調即使今生充滿憂傷、離別和困難，信徒仍可因神的應許而懷抱盼望，期待永恆榮耀的來臨。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/in-the-sweet-by-and-by/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/theres_a_land_that_is_fairer_than_day_an",
+        "https://www.hymnallibrary.org/hymns/in-the-sweet-by-and-by/"
+      ]
+    },
+    {
+      "id": "hymn_a_427",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "427",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "The Church’s One Foundation",
+          "sourceUrl": "https://hymnary.org/text/the_churchs_one_foundation",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "S. J. Stone",
+          "sourceUrl": "https://hymnary.org/text/the_churchs_one_foundation",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Samuel Sebastian Wesley",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-churchs-one-foundation/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1866",
+          "sourceUrl": "https://hymnary.org/text/the_churchs_one_foundation",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "教會根基、基督新婦、真道合一"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由英國聖公會牧師 Samuel John Stone 於1866年創作，收錄於《Lyra Fidelium》，原為闡釋《使徒信經》中「聖而公之教會，聖徒相通」而作。當時英國教會正因自由派神學及聖經高等批判學的興起而面臨爭議，Stone 因此寫下此詩，強調教會真正的根基並非人的思想、權威或傳統，而是主耶穌基督。詩歌宣告無論教會面對分裂、逼迫或錯誤教導，基督仍親自引導、保守並建立祂的教會，使其終必得勝。Stone 畢業於 牛津大學，一生熱心牧養貧苦大眾，被譽為「窮人的牧師」。其作品充分反映他對聖經權威及基督信仰傳統的堅持。《The Church’s One Foundation》很快廣泛流傳，並於1868年被選為 Lambeth Conference 的進場詩歌。今日常用的曲調〈Aurelia〉由 Samuel Sebastian Wesley 譜寫，其莊嚴雄偉的旋律與歌詞相得益彰。整首詩歌不僅頌揚教會在基督裡合而為一，也提醒信徒教會的生命與盼望全然建立在主永不動搖的根基之上。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-churchs-one-foundation/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "以弗所書 5:23"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/the_churchs_one_foundation",
+        "https://www.hymnallibrary.org/hymns/the-churchs-one-foundation/"
+      ]
+    },
+    {
+      "id": "hymn_a_431",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "431",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Stand Up for Jesus",
+          "sourceUrl": "https://hymnary.org/text/stand_up_stand_up_for_jesus_duffield",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "George Duffield",
+          "sourceUrl": "https://hymnary.org/text/stand_up_stand_up_for_jesus_duffield",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1858",
+          "sourceUrl": "https://hymnary.org/text/stand_up_stand_up_for_jesus_duffield",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "十架精兵、忠勇爭戰、主內得勝"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國長老會牧師 George Duffield 於1858年創作，其背景與費城大復興運動及年輕牧師 Dudley Tyng 的事蹟密切相關。Tyng 以忠於聖經真理、勇於反對奴隸制度而聞名，在一次 YMCA 聚會中向數千名男士講道，帶領逾千人決志信主。不久後，他因意外捲入農具機械而重傷離世，臨終前留下「Let us all stand up for Jesus」的著名遺言。為紀念摯友，George Duffield 在追思講道中根據《以弗所書 6:14》寫下《Stand Up, Stand Up for Jesus》，勉勵信徒在屬靈爭戰中堅守信仰、忠心事奉主。詩歌強調基督徒應剛強站立，倚靠主的大能抵擋罪惡與試探，並勇敢為真理作見證。後來配上 George J. Webb 所作曲調〈Webb〉後迅速廣泛流傳，成為最受歡迎的奮興聖詩之一。這首詩不僅紀念 Dudley Tyng 忠心至死的生命，更持續激勵歷代信徒忠於基督，在信仰道路上堅定不移。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/stand-up-for-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "以弗所書 6:14"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/stand_up_stand_up_for_jesus_duffield",
+        "https://www.hymnallibrary.org/hymns/stand-up-for-jesus/"
+      ]
+    },
+    {
+      "id": "hymn_a_433",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "433",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "The Son of God Goes Forth to War",
+          "sourceUrl": "https://hymnary.org/text/the_son_of_god_goes_forth_to_war",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Reginald Heber",
+          "sourceUrl": "https://hymnary.org/text/the_son_of_god_goes_forth_to_war",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1812",
+          "sourceUrl": "https://hymnary.org/text/the_son_of_god_goes_forth_to_war",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "跟隨基督、苦杯同飲、忠貞爭戰"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由英國聖公會主教兼聖詩作家 Reginald Heber 創作，以基督率領屬靈爭戰的圖畫作為開端，描繪耶穌不僅是救主，更是帶領信徒得勝的元帥。全詩運用豐富的聖經意象，呼應《以弗所書 6:10-18》及《哥林多後書 10:3-4》有關屬靈爭戰的教導，將教會描繪為忠心信徒組成的屬靈軍隊。歌詞強調順服、堅忍與勇氣的重要，並指出真正的得勝並非依靠人的能力，而是倚靠神所賜的屬靈軍裝和力量。最後幾節將焦點轉向基督最終的勝利，宣告十字架與復活已確保神救贖計劃的成全，鼓勵信徒在患難中仍持守忠心，面對罪惡、試探及屬靈黑暗勢力的挑戰。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/the-son-of-god-goes-forth-to-war/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/the_son_of_god_goes_forth_to_war",
+        "https://www.hymnallibrary.org/hymns/the-son-of-god-goes-forth-to-war/"
+      ]
+    },
+    {
+      "id": "hymn_a_434",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "434",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Sound the Battle Cry",
+          "sourceUrl": "https://hymnary.org/text/sound_the_battle_cry_see_the_foe_is",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "William F. Sherwin",
+          "sourceUrl": "https://hymnary.org/text/sound_the_battle_cry_see_the_foe_is",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1869",
+          "sourceUrl": "https://hymnary.org/text/sound_the_battle_cry_see_the_foe_is",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "戰爭號聲、披戴軍裝、聖言凱旋"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國聖詩作曲家及音樂教育家 William F. Sherwin 於1869年創作，是一首充滿奮勇精神的福音聖詩。詩歌以《以弗所書 6章》屬靈爭戰的教導為背景，將基督徒描繪為基督的精兵，呼召信徒警醒預備、穿戴屬靈軍裝，勇敢面對罪惡與撒但的攻擊。歌詞以響亮的號角聲作開端，「Sound the battle cry! See, the foe is nigh」象徵屬靈爭戰已經展開，勉勵信徒同心合意、恆切禱告並持守聖潔生活。全詩強調真正的得勝不是依靠人的力量，而是倚靠基督這位元帥的帶領與保守。副歌充滿信心與決心，鼓勵信徒堅守崗位，直到最終勝利來臨。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/sound-the-battle-cry/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/sound_the_battle_cry_see_the_foe_is",
+        "https://www.hymnallibrary.org/hymns/sound-the-battle-cry/"
+      ]
+    },
+    {
+      "id": "hymn_a_435",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "435",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Onward Christian Soldiers",
+          "sourceUrl": "https://hymnary.org/text/onward_christian_soldiers_marching_as",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "S. Baring-Gould",
+          "sourceUrl": "https://hymnary.org/text/onward_christian_soldiers_marching_as",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1865",
+          "sourceUrl": "https://hymnary.org/text/onward_christian_soldiers_marching_as",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "基督精兵、跟隨元帥、同赴戰場"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由英國聖公會牧師、學者及作家 Sabine Baring-Gould 於1865年創作，原本是為英格蘭鄉村一次兒童遊行而匆促寫成的詩歌，卻意外成為基督教最著名的行進聖詩之一。詩歌以屬靈爭戰為主題，將信徒比作基督的精兵，在主的帶領下勇往直前，面對罪惡、試探與各樣挑戰，堅定持守信仰。歌詞強調教會合一、忠於真道及基督最終得勝的信息，內容呼應《馬太福音 16:18 及 28:18-20》，宣告基督的教會建立在主的應許之上，縱然世上的國度興衰更替，神的教會仍必存留。1871年，著名作曲家 Arthur Sullivan 為此詩譜寫曲調〈St. Gertrude〉，雄壯有力的進行曲風格與歌詞完美結合，使其廣泛流傳於全球教會。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/onward-christian-soldiers/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "提摩太後書 2:3"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/onward_christian_soldiers_marching_as",
+        "https://www.hymnallibrary.org/hymns/onward-christian-soldiers/"
+      ]
+    },
+    {
+      "id": "hymn_a_439",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "439",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "A Mighty Fortress Is Our God",
+          "sourceUrl": "https://hymnary.org/text/a_mighty_fortress_is_our_god_a_bulwark",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Martin Luther",
+          "sourceUrl": "https://hymnary.org/text/a_mighty_fortress_is_our_god_a_bulwark",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1529",
+          "sourceUrl": "https://hymnary.org/text/a_mighty_fortress_is_our_god_a_bulwark",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "堅固保障、仇敵攻擊、主裡得生"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由歐洲宗教改革之父 Martin Luther 所創作，常被譽為「宗教改革的戰歌」，是基督信仰中最具力量且歷久不衰的聖詩之一。這首詩歌主要改編自《詩篇》第46篇，表達在患難中對上帝主權保護與勝過邪惡力量的堅定信心。Martin Luther 大約在1527至1529年間創作此曲，當時他正面臨黑死病肆虐、女兒 Elisabeth 離世，以及因堅持「因信稱義」神學立場而遭受羅馬天主教會與神聖羅馬帝國逼迫與生命威脅的極大困境。在嚴峻的個人與政治衝突中，這首聖詩展現了堅不可摧的信仰力量。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/a-mighty-fortress-is-our-god/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "詩篇 46"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/a_mighty_fortress_is_our_god_a_bulwark",
+        "https://www.hymnallibrary.org/hymns/a-mighty-fortress-is-our-god/"
+      ]
+    },
+    {
+      "id": "hymn_a_440",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "440",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Yield Not to Temptation",
+          "sourceUrl": "https://hymnary.org/text/yield_not_to_temptation_for_yielding",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "H. R. Palmer",
+          "sourceUrl": "https://hymnary.org/text/yield_not_to_temptation_for_yielding",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1868",
+          "sourceUrl": "https://hymnary.org/text/yield_not_to_temptation_for_yielding",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "抵擋試探、奮勇前行、離罪成聖"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "是由 Horatio R. Palmer 於 1868 年創作，激勵信徒保持道德決心與靈性警醒。身為美國音樂教育家的 Palmer 在處理其他事務時獲得靈感，同時寫下了歌詞與旋律。這首詩歌強調對抗罪惡與誘惑的必要性，並提醒信徒透過耶穌基督的能力與陪伴，人能戰勝試探。其中經典的句語「Ask the Savior to help you」傳遞了求告即得幫助的應許。其音樂風格親切直白，廣受主日學與佈道會歡迎，特別能為年輕信徒提供實用的信仰指引。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/yield-not-to-temptation/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/yield_not_to_temptation_for_yielding",
+        "https://www.hymnallibrary.org/hymns/yield-not-to-temptation/"
+      ]
+    },
+    {
+      "id": "hymn_a_447",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "447",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Lead on, O King Eternal",
+          "sourceUrl": "https://hymnary.org/text/lead_on_o_king_eternal_the_day_of_march",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Ernest W. Shurtleff",
+          "sourceUrl": "https://hymnary.org/text/lead_on_o_king_eternal_the_day_of_march",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1887",
+          "sourceUrl": "https://hymnary.org/text/lead_on_o_king_eternal_the_day_of_march",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "天國行進、跟隨君王、聖戰與和平"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Ernest Warburton Shurtleff 於 1887 年創作，最初是他送給 Andover Theological Seminary 畢業班的告別禮物。詩歌中的「the day of march has come」象徵學生結束漫長的準備期，正式邁入世界展開事工。歌詞將基督徒的生活描繪為在勝利領袖帶領下的勇敢征程。詩歌反轉了傳統的軍事意象，宣告上帝的國度並非靠刀劍或戰鼓推進，而是透過「愛與憐憫的行動」來實踐，並以和平、聖潔與勝過罪惡為屬靈勝利的標誌。最終段落轉為堅定的盼望，強調高舉十字架能照亮前路，激勵信徒充滿喜樂與信心跟隨那位至高的王。當這首詩搭配上 Henry Thomas Smart 雄偉激昂的旋律後，便從畢業歌曲轉變為全球教會廣為傳唱的進堂聖詩。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/lead-on-o-king-eternal/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "以弗所書 6:10-17；啟示錄 19:11-16；路加福音 17:20-21"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/lead_on_o_king_eternal_the_day_of_march",
+        "https://www.hymnallibrary.org/hymns/lead-on-o-king-eternal/"
+      ]
+    },
+    {
+      "id": "hymn_a_448",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "448",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Shall We Gather At The River",
+          "sourceUrl": "https://hymnary.org/text/shall_we_gather_at_the_river",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Robert Lowry",
+          "sourceUrl": "https://hymnary.org/text/shall_we_gather_at_the_river",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1864",
+          "sourceUrl": "https://hymnary.org/text/shall_we_gather_at_the_river",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "生命河邊、聖徒相聚、天家盼望"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國浸信會牧師兼聖詩創作者 Robert Lowry 於 1864 年美國內戰時期創作。面對戰爭帶來的巨大傷痛與死亡，Lowry 從《啟示錄》第22章第1節中上帝寶座流出的生命水河獲得靈感，創作出這首指向天國盼望與永恆安息的詩歌。歌詞以「Shall we gather at the river?」與堅定的「Yes, we’ll gather at the river」相互呼應，將天堂描繪為充滿喜樂重聚與敬拜的場所。Lowry 特別為其配上活潑明快的旋律，與當時沉重的時代背景形成對比，傳遞出天國的喜樂與慰藉。這首詩歌後來成為跨宗派廣為傳唱的福音聖詩，常見於奮興會、營會及葬禮中，被翻譯成多國語言並收錄於全球無數聖詩本中，為世代信徒帶來永恆家鄉的指引與盼望。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/shall-we-gather-at-the-river/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/shall_we_gather_at_the_river",
+        "https://www.hymnallibrary.org/hymns/shall-we-gather-at-the-river/"
+      ]
+    },
+    {
+      "id": "hymn_a_450",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "450",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Face to Face with Christ My Savior",
+          "sourceUrl": "https://hymnary.org/text/face_to_face_with_christ_my_savior_breck",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Carrie Ellis Breck",
+          "sourceUrl": "https://hymnary.org/text/face_to_face_with_christ_my_savior_breck",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William J. Kirkpatrick",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/face-to-face-with-christ-my-savior/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1898",
+          "sourceUrl": "https://hymnary.org/text/face_to_face_with_christ_my_savior_breck",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "與主相見、再臨盼望、榮耀相會"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國聖詩詩人 Carrie E. Breck 於 1898 年創作。靈感源自《哥林多前書 13:12》，深刻刻劃出今生有限的認知與未來能面對面領會主愛之間的對比，充滿對永生應許的堅定盼望。這首詩歌通常搭配 William J. Kirkpatrick 所譜寫的曲調《Benediction》，其柔和且高雅的旋律進一步提升了勝過死亡的慰藉感。此曲常被用於安息禮拜、追思會及個人靜修時刻，在信徒面對人生試煉時，帶來與主永恆同在的盼望與力量。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/face-to-face-with-christ-my-savior/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/face_to_face_with_christ_my_savior_breck",
+        "https://www.hymnallibrary.org/hymns/face-to-face-with-christ-my-savior/"
       ]
     }
   ]
