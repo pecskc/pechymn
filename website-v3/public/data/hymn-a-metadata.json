@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 151,
+  "totalSongs": 165,
   "items": [
     {
       "id": "hymn_a_1",
@@ -3961,6 +3961,96 @@
       ]
     },
     {
+      "id": "hymn_a_181",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "181",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "[The mercy of God is an ocean divine] (Carter)",
+          "sourceUrl": "https://hymnary.org/text/the_mercy_of_god_is_an_ocean_divine",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "A. B. Simpson",
+          "sourceUrl": "https://hymnary.org/text/the_mercy_of_god_is_an_ocean_divine",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Russell Kelso Carter",
+          "sourceUrl": "https://hymnary.org/tune/the_mercy_of_god_is_an_ocean_carter",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1891",
+          "sourceUrl": "https://hymnary.org/text/the_mercy_of_god_is_an_ocean_divine",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "進深主恩、信心冒險、豐盛救恩、主愛海洋"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/the_mercy_of_god_is_an_ocean_divine",
+        "https://hymnary.org/tune/the_mercy_of_god_is_an_ocean_carter"
+      ]
+    },
+    {
+      "id": "hymn_a_182",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "182",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Now I belong to Jesus",
+          "sourceUrl": "https://hymnary.org/text/yesu_wo_jiu_zhu_ai_wo_wu_zhixi",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Norman J. Clayton",
+          "sourceUrl": "https://hymnary.org/text/yesu_wo_jiu_zhu_ai_wo_wu_zhixi",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1943",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/now-i-belong-to-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "屬主身分、救贖恩典、永恆聯合、主愛不變"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由音樂家 Norman J. Clayton 於 1943 年創作，是一首強調救恩確據與永恆屬屬感的福音聖詩。歌詞建立在《羅馬書》第8章第38至39節及《以弗所書》第1章第13至14節的聖經應許之上，透過對比信主前後的生命，表達從黑暗走向光明與平安的過程。副歌以「Now I belong to Jesus, Jesus belongs to me」堅定宣告：信徒在基督裏的救恩與身份並非基於情感或行為，而是建立在主已經完成的救贖上，且這份關係超越時間直至永恆。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/now-i-belong-to-jesus/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/yesu_wo_jiu_zhu_ai_wo_wu_zhixi",
+        "https://www.hymnallibrary.org/hymns/now-i-belong-to-jesus/"
+      ]
+    },
+    {
       "id": "hymn_a_184",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -4160,6 +4250,44 @@
       ]
     },
     {
+      "id": "hymn_a_192",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "192",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Who Is on the Lord's Side?",
+          "sourceUrl": "https://hymnary.org/text/who_is_on_the_lords_side_who_will_serve",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Frances Ridley Havergal",
+          "sourceUrl": "https://www.hymnal.net/en/hymn/h/469",
+          "sourceLabel": "hymnal.net"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1877",
+          "sourceUrl": "https://hymnary.org/text/who_is_on_the_lords_side_who_will_serve",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "跟隨基督、委身事奉、福音使命、屬主爭戰"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/who_is_on_the_lords_side_who_will_serve",
+        "https://www.hymnal.net/en/hymn/h/469"
+      ]
+    },
+    {
       "id": "hymn_a_193",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -4202,6 +4330,87 @@
       "allSources": [
         "https://hymnary.org/text/id_rather_have_jesus_than_silver_or_gold",
         "https://www.hymnallibrary.org/hymns/id-rather-have-jesus-than-silver-or-gold/"
+      ]
+    },
+    {
+      "id": "hymn_a_197",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "197",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Trusting in the Saviour",
+          "sourceUrl": "https://hymnary.org/text/trusting_in_the_savior_o_tis_wondrous_sw",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Lida Shivers Leech",
+          "sourceUrl": "https://hymnary.org/text/trusting_in_the_savior_o_tis_wondrous_sw",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1912",
+          "sourceUrl": "https://hymnary.org/text/trusting_in_the_savior_o_tis_wondrous_sw",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "信靠救主、主同在、勝過黑暗、患難安慰"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/trusting_in_the_savior_o_tis_wondrous_sw"
+      ]
+    },
+    {
+      "id": "hymn_a_198",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "198",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Peace! Be Still!",
+          "sourceUrl": "https://hymnary.org/text/master_the_tempest_is_raging",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Mary Ann Baker",
+          "sourceUrl": "https://hymnary.org/text/master_the_tempest_is_raging",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Horatio R. Palmer",
+          "sourceUrl": "https://hymnary.org/text/master_the_tempest_is_raging",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1874",
+          "sourceUrl": "https://hymnary.org/text/master_the_tempest_is_raging",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "風浪中的信靠、基督權柄、心靈平安、救主拯救"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/master_the_tempest_is_raging"
       ]
     },
     {
@@ -4301,6 +4510,81 @@
       ]
     },
     {
+      "id": "hymn_a_205",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "205",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Blessed Is He That Is Trusting the Lord",
+          "sourceUrl": "https://hymnary.org/text/blessed_is_he_that_is_trusting_the_lord",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Ida L. Reed",
+          "sourceUrl": "https://hymnary.org/text/blessed_is_he_that_is_trusting_the_lord",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "George Coles Stebbins",
+          "sourceUrl": "https://www.hymnal.net/en/hymn/h/8518",
+          "sourceLabel": "hymnal.net"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "專心倚靠主、順服主道、信心前行、主的引導"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/blessed_is_he_that_is_trusting_the_lord",
+        "https://www.hymnal.net/en/hymn/h/8518"
+      ]
+    },
+    {
+      "id": "hymn_a_209",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "209",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I Know Who Holds the Future",
+          "sourceUrl": "https://hymnary.org/text/i_know_who_holds_the_future_and_i_know",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Alfred B. Smith",
+          "sourceUrl": "https://hymnary.org/text/i_know_who_holds_the_future_and_i_know",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1947",
+          "sourceUrl": "https://hymnary.org/text/i_know_who_holds_the_future_and_i_know",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "信靠神掌管、人生前途、交託主手、神的計畫"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_know_who_holds_the_future_and_i_know"
+      ]
+    },
+    {
       "id": "hymn_a_210",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -4342,6 +4626,43 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/i-know-who-holds-tomorrow/"
+      ]
+    },
+    {
+      "id": "hymn_a_211",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "211",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "The Everlasting Arms",
+          "sourceUrl": "https://hymnary.org/text/art_thou_sunk_in_depths_of_sorrow",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Albert B. Simpson",
+          "sourceUrl": "https://hymnary.org/text/art_thou_sunk_in_depths_of_sorrow",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1891",
+          "sourceUrl": "https://hymnary.org/text/art_thou_sunk_in_depths_of_sorrow",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "神永遠膀臂、困境扶持、主恩安慰、信靠避難"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/art_thou_sunk_in_depths_of_sorrow"
       ]
     },
     {
@@ -4447,6 +4768,50 @@
       ]
     },
     {
+      "id": "hymn_a_214",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "214",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Keep on Believing",
+          "sourceUrl": "https://hymnary.org/text/when_you_feel_weakest_dangers_surround",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Mildred Duff",
+          "sourceUrl": "https://hymnary.org/text/when_you_feel_weakest_dangers_surround",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Lucy M. Booth",
+          "sourceUrl": "https://hymnary.org/text/when_you_feel_weakest_dangers_surround",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1889",
+          "sourceUrl": "https://hymnary.org/text/when_you_feel_weakest_dangers_surround",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "持續信靠、試煉中的信心、主同在、勝過憂懼"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/when_you_feel_weakest_dangers_surround"
+      ]
+    },
+    {
       "id": "hymn_a_216",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -4542,6 +4907,73 @@
       ]
     },
     {
+      "id": "hymn_a_220",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "220",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "God's Way",
+          "sourceUrl": "https://hymnary.org/text/gods_way_is_the_best_way_though_i_may_n",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Lida Shivers Leech",
+          "sourceUrl": "https://hymnary.org/text/gods_way_is_the_best_way_though_i_may_n",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1911",
+          "sourceUrl": "https://hymnary.org/text/gods_way_is_the_best_way_though_i_may_n",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "神的引導、順服信靠、試煉熬煉、安穩倚靠"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/gods_way_is_the_best_way_though_i_may_n"
+      ]
+    },
+    {
+      "id": "hymn_a_221",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "221",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I Know the Lord Will Make a Way",
+          "sourceUrl": "https://hymnary.org/text/i_know_the_lord_will_make_a_way_for_me",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Thoro Harris",
+          "sourceUrl": "https://hymnary.org/text/i_know_the_lord_will_make_a_way_for_me",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主開道路、祈禱倚靠、黑夜中的盼望、信心前行"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_know_the_lord_will_make_a_way_for_me"
+      ]
+    },
+    {
       "id": "hymn_a_223",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -4597,6 +5029,43 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/guide-me-o-thou-great-jehovah/"
+      ]
+    },
+    {
+      "id": "hymn_a_224",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "224",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "My Lord Knows the Way",
+          "sourceUrl": "https://hymnary.org/text/my_lord_knows_the_way_thru_the_wildernes",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Sidney E. Cox",
+          "sourceUrl": "https://hymnary.org/text/my_lord_knows_the_way_thru_the_wildernes",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1951",
+          "sourceUrl": "https://hymnary.org/text/my_lord_knows_the_way_thru_the_wildernes",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主的引導、曠野道路、每日供應、跟隨主腳步"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/my_lord_knows_the_way_thru_the_wildernes"
       ]
     },
     {
@@ -4753,6 +5222,63 @@
       ]
     },
     {
+      "id": "hymn_a_235",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "235",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "The Lord's My Shepherd",
+          "sourceUrl": "https://hymnary.org/text/the_lords_my_shepherd_ill_not_want_rous",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Francis Rous",
+          "sourceUrl": "https://en.wikipedia.org/wiki/The_Lord%27s_My_Shepherd",
+          "sourceLabel": "en.wikipedia.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "Jessie Seymour Irvine (1872)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/The_Lord%27s_My_Shepherd",
+          "sourceLabel": "en.wikipedia.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1650",
+          "sourceUrl": "https://en.wikipedia.org/wiki/The_Lord%27s_My_Shepherd",
+          "sourceLabel": "en.wikipedia.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主為牧者、安歇供應、幽谷同行、永居主殿"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "《The Lord's My Shepherd》是一首改編自《詩篇》第23篇的韻律詩篇聖詩，於 1650 年首次發表於《Scots Metrical Psalter》。雖然其文字傳統上歸功於英國清教徒 Francis Rous，但現行版本經過了廣泛的修訂，僅保留了 Rous 原稿約 10% 的內容。這首詩歌最著名的曲調為《Crimond》，通常歸功於 Jessie Seymour Irvine 於 1871 年創作。《The Lord's My Shepherd》在英國與蘇格蘭教會歷史中佔有重要地位，亦曾於 1947 年 Princess Elizabeth 與 Philip Mountbatten 的婚禮及 2022 年 Queen Elizabeth II 的國葬中演唱，是跨世代極具代表性的經典聖詩。",
+          "sourceUrl": "https://en.wikipedia.org/wiki/The_Lord%27s_My_Shepherd",
+          "sourceLabel": "en.wikipedia.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "詩篇 23篇"
+        }
+      ],
+      "allSources": [
+        "https://en.wikipedia.org/wiki/The_Lord%27s_My_Shepherd",
+        "https://hymnary.org/text/the_lords_my_shepherd_ill_not_want_rous"
+      ]
+    },
+    {
       "id": "hymn_a_236",
       "collection": "hymn_a",
       "hymnAbbr": "平",
@@ -4845,6 +5371,58 @@
       ],
       "allSources": [
         "https://www.hymnallibrary.org/hymns/the-way-of-the-cross-leads-home/"
+      ]
+    },
+    {
+      "id": "hymn_a_243",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "243",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I Am Coming to the Cross",
+          "sourceUrl": "https://hymnary.org/text/i_am_coming_to_the_cross_i_am_poor_and",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "William McDonald",
+          "sourceUrl": "https://hymnary.org/text/i_am_coming_to_the_cross_i_am_poor_and",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "William G. Fischer",
+          "sourceUrl": "https://hymnary.org/text/i_am_coming_to_the_cross_i_am_poor_and",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1870",
+          "sourceUrl": "https://hymnary.org/text/i_am_coming_to_the_cross_i_am_poor_and",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "遵行神旨、順服信靠、苦樂奉獻、忠心事奉"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 William McDonald 於 1864 年創作，是一首表達悔改、順服與尋求救恩的福音聖詩。這首詩歌深刻描繪了罪人帶著罪惡與無助來到基督十字架前、尋求赦免與潔淨的心路歷程，深具 19 世紀福音復興運動的色彩，常被用於個人靜修與佈道會呼召時刻。歌詞靈感回應了《約翰福音》第6章第37節中耶穌「到我這裡來的，我必不丟棄他」的應許，強調救恩非靠人的努力，而是單單透過對神恩典的信心。整首詩歌從承認罪惡與無助開始，最終走向罪得赦免與生命重生的勝利與喜樂。它不僅是一呼求，更是救贖的見證，提醒信徒凡來到基督面前的必不被拒絕，十字架永遠是上帝與罪人相遇之處。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/i-am-coming-to-the-cross/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_am_coming_to_the_cross_i_am_poor_and",
+        "https://www.hymnallibrary.org/hymns/i-am-coming-to-the-cross/"
       ]
     },
     {
