@@ -1663,11 +1663,15 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 							if (!field || typeof field !== 'object') return null;
 							const label = String(field.label || '').trim();
 							const key = String(field.key || '').trim();
+							const compactLabel = label.replace(/\s+/g, '');
 							const value = String(field.value || '').trim();
 							const sourceUrl = normalizeSourceUrl(field.sourceUrl);
 							const isThemeField = key === 'themes' || label === '主題標籤';
+							const isScriptureField =
+								key === 'scripture' || compactLabel === '相關經文' || compactLabel === '相关经文';
+							const allowsMissingSource = isThemeField || isScriptureField;
 							if (!label || !value) return null;
-							if (!isThemeField && !isValidSourceUrl(sourceUrl)) return null;
+							if (!allowsMissingSource && !isValidSourceUrl(sourceUrl)) return null;
 							return {
 								key,
 								label,
