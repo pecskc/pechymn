@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 165,
+  "totalSongs": 177,
   "items": [
     {
       "id": "hymn_a_1",
@@ -7887,6 +7887,572 @@
       "allSources": [
         "https://hymnary.org/text/face_to_face_with_christ_my_savior_breck",
         "https://www.hymnallibrary.org/hymns/face-to-face-with-christ-my-savior/"
+      ]
+    },
+    {
+      "id": "hymn_a_452",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "452",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "O Think of the Home Over There",
+          "sourceUrl": "https://hymnary.org/text/o_think_of_the_home_over_there_by_the_si",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "DeWitt Clinton Huntington",
+          "sourceUrl": "https://hymnary.org/text/o_think_of_the_home_over_there_by_the_si",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1868",
+          "sourceUrl": "https://hymnary.org/text/o_think_of_the_home_over_there_by_the_si",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "天家思念、生命河畔、聖徒相聚"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國衛理公會牧師、教育家及作家 DeWitt Clinton Huntington 所創作。以信徒對天家盼望的仰望為主題，強調基督應許為屬祂的人預備永恆居所，呼應《約翰福音 14:2-3》的寶貴應許。詩歌提醒信徒，凡信靠主的人都擁有穩妥而榮耀的將來，因此能在勞苦、憂傷和人生挑戰中得到安慰與力量。歌詞把目光從短暫的地上境遇轉向神所預備的永恆家鄉，那裡充滿平安與團契，不再有悲傷、痛苦和離別。全詩流露出對與基督同住的深切渴慕，並鼓勵信徒在世忠心跟隨主，因最終歸宿並非建立在人自己的努力上，而是建立在救主親自賜下的確定應許之上。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/o-think-of-the-home-over-there/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/o_think_of_the_home_over_there_by_the_si",
+        "https://www.hymnallibrary.org/hymns/o-think-of-the-home-over-there/"
+      ]
+    },
+    {
+      "id": "hymn_a_455",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "455",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Will Jesus Find Us Watching",
+          "sourceUrl": "https://hymnary.org/text/when_jesus_comes_to_reward_his_servants",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Fanny Crosby",
+          "sourceUrl": "https://hymnary.org/text/when_jesus_comes_to_reward_his_servants",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1876",
+          "sourceUrl": "https://hymnary.org/text/when_jesus_comes_to_reward_his_servants",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "儆醒等候、忠心託付、主來審察"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "是美國著名聖詩作家 Fanny J. Crosby 於1876年發表的福音詩歌，以基督再來與信徒儆醒等候為主題，內容呼應福音書中主耶穌勸勉門徒時刻警醒的教導，特別是《路加福音 12:40》「你們也要預備」的信息。歌詞勉勵信徒在主再來之前忠心事奉、持守信心，並積極完成神所託付的工作。副歌反覆提出「當主再來時，祂是否看見我們仍舊儆醒等候？」這一發人深省的問題，激勵信徒反省自己的屬靈光景。此詩曾廣泛流傳於培靈聚會及佈道會中，既帶來鼓勵，也提醒基督徒常存警醒和順服的心，預備迎見主的再來。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/will-jesus-find-us-watching/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "路加福音 12:35-40"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/when_jesus_comes_to_reward_his_servants",
+        "https://www.hymnallibrary.org/hymns/will-jesus-find-us-watching/"
+      ]
+    },
+    {
+      "id": "hymn_a_457",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "457",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "When the Roll Is Called Up Yonder",
+          "sourceUrl": "https://hymnary.org/text/when_the_trumpet_of_the_lord_shall_black",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "James M. Black",
+          "sourceUrl": "https://hymnary.org/text/when_the_trumpet_of_the_lord_shall_black",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1893",
+          "sourceUrl": "https://hymnary.org/text/when_the_trumpet_of_the_lord_shall_black",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "末日點名、復活盼望、忠心事奉"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "是美國福音詩歌作家 James M. Black 於1893年創作的著名聖詩。據傳創作靈感來自主日學點名時，一位學生缺席，使 Black 聯想到將來基督再來時天上的「點名冊」，並由此寫成此詩。歌詞以信徒名字記錄在生命冊上為確據，描繪末日復活、眾聖徒與主相聚的榮耀盼望，內容呼應《啟示錄 20:12》及《帖撒羅尼迦前書 4:16-17》。全詩洋溢得勝與喜樂的氣氛，表達信徒深信自己將在天家聚集中有分。配合進行曲風格的旋律，此詩多年來廣泛傳唱於復興聚會、佈道會及教會崇拜中，激勵信徒忠心事主，常存盼望，預備迎接主的再來。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/when-the-roll-is-called-up-yonder/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "啟示錄 20:12；帖撒羅尼迦前書 4:16-17"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/when_the_trumpet_of_the_lord_shall_black",
+        "https://www.hymnallibrary.org/hymns/when-the-roll-is-called-up-yonder/"
+      ]
+    },
+    {
+      "id": "hymn_a_460",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "460",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "I've Got the Joy, Joy, Joy, Joy (Down in My Heart)",
+          "sourceUrl": "https://hymnary.org/text/i_have_the_joy_joy_joy_joy_down_in_my_h",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "George W. Cooke",
+          "sourceUrl": "https://hymnary.org/text/i_have_the_joy_joy_joy_joy_down_in_my_h",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1925",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/ive-got-the-joy-joy-joy-joy-down-in-my-heart/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "心中喜樂、救恩歡唱、榮耀歸主"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "是加拿大衛理公會佈道家及聖詩作家 George William Cooke 於1925年創作的兒童福音詩歌，旨在表達因認識基督而得著的喜樂生命，內容呼應《腓立比書 4:4》「你們要靠主常常喜樂」的教導。詩歌以簡單重複、活潑歡樂的副歌聞名，容易傳唱與記憶，因此廣受主日學、暑期聖經學校及佈道聚會歡迎。各節歌詞逐步加入「出人意外的平安」、「耶穌的愛」等屬靈祝福，並強調這些恩典皆因基督住在信徒心中而湧流出來。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/ive-got-the-joy-joy-joy-joy-down-in-my-heart/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/i_have_the_joy_joy_joy_joy_down_in_my_h",
+        "https://www.hymnallibrary.org/hymns/ive-got-the-joy-joy-joy-joy-down-in-my-heart/"
+      ]
+    },
+    {
+      "id": "hymn_a_461",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "461",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "O That Will Be Glory for Me",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/o-that-will-be-glory-for-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Chas. H. Gabriel",
+          "sourceUrl": "https://hymnary.org/text/when_all_my_labors_and_trials_are_oer",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1900",
+          "sourceUrl": "https://hymnary.org/text/when_all_my_labors_and_trials_are_oer",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "天家榮耀、得見主面、永恆盼望"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "Charles H. Gabriel（1856-1932）是美國二十世紀初最具影響力的福音詩歌作家之一，自幼展現音樂天賦，雖未受正規音樂訓練，十七歲已開始教授音樂及創作詩歌，一生編輯和創作大量聖樂作品。《O That Will Be Glory》於1900年首次出版，靈感來自 Gabriel 的好友 Ed Card。Card 熱愛基督、常以「Glory!」讚美神，並經常以「那將是我的榮耀」作禱告結語，因此被稱為「Old Glory Face」。受其信心與喜樂感染，Gabriel 創作此詩，表達信徒將來與主同在、得見主面的榮耀盼望。據說 Ed Card 在離世前曾親自唱頌此詩。此後，《O That Will Be Glory》被譯成多種語言，發行量逾億冊，成為歷久不衰的經典聖詩，也彰顯 Gabriel 以優美旋律傳遞福音真理的深遠影響。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/o-that-will-be-glory-for-me/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "啟示錄 21:4"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/o-that-will-be-glory-for-me/",
+        "https://hymnary.org/text/when_all_my_labors_and_trials_are_oer"
+      ]
+    },
+    {
+      "id": "hymn_a_466",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "466",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Rejoice! our King is coming!",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/rejoice-our-king-is-coming/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Ira David Sankey",
+          "sourceUrl": "https://hymnary.org/text/rejoice_rejoice_our_king_is_coming",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1888",
+          "sourceUrl": "https://hymnary.org/tune/rejoice_rejoice_our_king_is_com_sankey",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "歡迎君王、燈火儆醒、盼主再臨"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "Ira David Sankey（1840-1908）是十九世紀美國著名福音歌唱家、聖樂推廣者及作曲家，以在佈道聚會中領唱福音詩歌聞名，對福音詩歌的普及貢獻深遠。此詩以基督再來的榮耀盼望為主題，洋溢喜樂與期待的氣氛。歌詞描繪主再來如榮耀晨光普照，勸勉信徒儆醒預備，如同預備妥當、燈火長明的童女，歡然迎接君王降臨。詩中展望信徒將在空中與主相遇，並領受主所應許的冠冕，內容呼應《馬太福音 25:1-13》及《帖撒羅尼迦前書 4:16-17》有關警醒等候與主再來的教導。曲調由 Sankey 於1888年譜寫，旋律明朗振奮，充分襯托歌詞對未來榮耀的盼望。此詩後來廣泛收錄於福音派聖詩集，常見於培靈會、佈道會及強調末世盼望的崇拜聚會中，激勵信徒以喜樂和信心等候主的再臨。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/rejoice-our-king-is-coming/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://www.hymnallibrary.org/hymns/rejoice-our-king-is-coming/",
+        "https://hymnary.org/text/rejoice_rejoice_our_king_is_coming",
+        "https://hymnary.org/tune/rejoice_rejoice_our_king_is_com_sankey"
+      ]
+    },
+    {
+      "id": "hymn_a_471",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "471",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Saved By Grace (Some Day the Silver Cord Will Break)",
+          "sourceUrl": "https://hymnary.org/text/some_day_the_silver_cord_will_break_cros",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Fanny Crosby",
+          "sourceUrl": "https://hymnary.org/text/some_day_the_silver_cord_will_break_cros",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1894",
+          "sourceUrl": "https://hymnary.org/text/some_day_the_silver_cord_will_break_cros",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "得救恩典、與主面對面、儆醒等候"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "是美國著名盲眼聖詩作家 Fanny J. Crosby 於1894年創作的福音詩歌，靈感來自《傳道書 12:6》中「銀鍊折斷」的意象，以此比喻人生的短暫與死亡的來臨。然而詩歌並非表達對死亡的恐懼，而是充滿對天家的盼望與對基督的渴慕。各節歌詞描繪信徒願意放下地上的勞苦與重擔，帶著確據進入永恆榮耀，副歌更反覆宣告將要「面對面」見主的喜樂盼望。曲調由福音詩歌作曲家 George C. Stebbins 譜寫，旋律溫柔平靜，與歌詞默想、安慰的氣氛相得益彰。自1894年出版以來，此詩常用於追思禮拜及安慰信息中，提醒信徒死亡並非終點，而是進入與主永遠同在之生命的開始。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/saved-by-grace-some-day-the-silver-cord-will-break/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/some_day_the_silver_cord_will_break_cros",
+        "https://www.hymnallibrary.org/hymns/saved-by-grace-some-day-the-silver-cord-will-break/"
+      ]
+    },
+    {
+      "id": "hymn_a_478",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "478",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "There Were Ninety and Nine",
+          "sourceUrl": "https://hymnary.org/text/there_were_ninety_and_nine_that_safely",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Elizabeth Cecilia Clephane",
+          "sourceUrl": "https://hymnary.org/text/there_were_ninety_and_nine_that_safely",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1868",
+          "sourceUrl": "https://hymnary.org/text/there_were_ninety_and_nine_that_safely",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "迷羊尋回、牧者慈愛、主動拯救"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "Elizabeth Cecilia Clephane 是蘇格蘭詩人，長年體弱卻熱心關懷他人，她一生發表作品不多，許多詩作於去世後才出版，其中《The Ninety and Nine》原為寫給兒童閱讀的詩歌，取材自《路加福音 15章》迷羊的比喻，講述基督如好牧人尋找失喪靈魂的慈愛。1874年，佈道家搭檔 Dwight L. Moody 與 Ira D. Sankey 在英國佈道期間，Sankey 偶然在報紙上讀到這首詩。當日聚會中，Moody 講道後臨時請他獻唱，Sankey 受到感動，即席為詩詞譜曲並公開演唱，在場許多人深受觸動，甚至決志信主。後來 Moody 與 Sankey 到訪 Clephane 家鄉時，她的姊妹亦親耳聽見這首詩歌被廣泛傳唱，其後成為最著名的福音聖詩之一，生動展現基督尋找罪人的救恩之愛。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/there-were-the-ninety-and-nine-that-safely-lay/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "路加福音 15:3-7"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/there_were_ninety_and_nine_that_safely",
+        "https://www.hymnallibrary.org/hymns/there-were-the-ninety-and-nine-that-safely-lay/"
+      ]
+    },
+    {
+      "id": "hymn_a_480",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "480",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Make Me a Blessing",
+          "sourceUrl": "https://hymnary.org/text/out_in_the_highways_and_byways_of_life",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Ira B. Wilson",
+          "sourceUrl": "https://hymnary.org/text/out_in_the_highways_and_byways_of_life",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1909",
+          "sourceUrl": "https://hymnary.org/text/out_in_the_highways_and_byways_of_life",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "成為祝福、見證基督、傳遞恩典"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由 Ira B. Wilson 於1909年創作，是一首強調實踐信仰與服事他人的聖詩。詩歌信息呼應《加拉太書 6:10》及《馬太福音 5:16》，勉勵信徒不僅領受神的恩典，也要成為別人的祝福。副歌「Make me a blessing」表達一個甘心奉獻的禱告，求主使用平凡生命，使基督的光藉著自己照耀他人。歌詞描繪基督徒應以愛心關懷孤單、憂傷及有需要的人，效法主耶穌服事人的榜樣，透過實際行動見證福音。全詩強調真正的信心不只是口裡承認，更應化為關懷與分享。配合溫柔真誠的旋律，詩歌既適合個人默想，也適合會眾敬拜，激勵信徒將敬拜化為服事、將禱告化為行動，讓神的愛透過生命流露，吸引更多人認識基督的救恩。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/make-me-a-blessing/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/out_in_the_highways_and_byways_of_life",
+        "https://www.hymnallibrary.org/hymns/make-me-a-blessing/"
+      ]
+    },
+    {
+      "id": "hymn_a_492",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "492",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Must I Go, and Empty-Handed?",
+          "sourceUrl": "https://hymnary.org/text/must_i_go_and_empty_handed",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Charles C. Luther",
+          "sourceUrl": "https://hymnary.org/text/must_i_go_and_empty_handed",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1877",
+          "sourceUrl": "https://hymnary.org/text/must_i_go_and_empty_handed",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "殷勤救人、忠心結果、見主交帳"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由曾任記者及牧師的 Charles C. Luther 於1877年創作。靈感來自一位剛信主不久便離世的年輕人。他臨終時深感遺憾，因自己尚未有機會事奉基督、領人歸主。 Charles 因此寫下這首感人詩歌，反思信徒若空手見主、沒有為主結出屬靈果子時的惋惜與自省。其後由著名福音詩歌作曲家 George C. Stebbins 譜寫旋律，使信息更具感染力。詩歌以嚴肅而懇切的語氣，提醒信徒珍惜在世服事主的機會，積極見證福音，引領人歸向基督。全詩並非強調靠行為得救，而是鼓勵已蒙恩的信徒以愛心回應主的救恩，在有限的人生中忠心事奉。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/must-i-go-and-empty-handed/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/must_i_go_and_empty_handed",
+        "https://www.hymnallibrary.org/hymns/must-i-go-and-empty-handed/"
+      ]
+    },
+    {
+      "id": "hymn_a_494",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "494",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Rescue the Perishing",
+          "sourceUrl": "https://hymnary.org/text/rescue_the_perishing_care_for_the_dying",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Fanny Crosby",
+          "sourceUrl": "https://hymnary.org/text/rescue_the_perishing_care_for_the_dying",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1869",
+          "sourceUrl": "https://hymnary.org/text/rescue_the_perishing_care_for_the_dying",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "勸回罪人、憐憫失喪、傳揚救恩"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "由美國著名盲眼聖詩作家 Fanny J. Crosby 於1869年創作。創作緣於她在紐約一場福音聚會中呼召迷失者回轉，一名十八歲青年回應信息，坦承自己曾答應臨終母親要在天家與她重聚，卻一直遠離信仰。經過禱告後，他接受基督並重獲喜樂。這次經歷深深感動 Crosby，使她當晚寫下此詩。歌詞以「拯救將亡的人，關懷垂死的人」為核心，呼應《路加福音 14:23》的福音使命，勉勵信徒主動尋找、挽回失喪的靈魂。此詩出版後廣受歡迎，常用於佈道會和復興聚會。Ira D. Sankey 與 Dwight L. Moody 的佈道事工亦經常使用此詩，並見證許多人因此認識基督。其中一則著名故事記載，一名潦倒醉酒者因聽見《Rescue the Perishing》而走進福音站，最終悔改信主。這首詩藉著充滿憐憫與救贖的信息，持續激勵信徒關懷失喪者，見證基督改變生命的大能。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/rescue-the-perishing/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/rescue_the_perishing_care_for_the_dying",
+        "https://www.hymnallibrary.org/hymns/rescue-the-perishing/"
+      ]
+    },
+    {
+      "id": "hymn_a_497",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "497",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Work, for the Night Is Coming",
+          "sourceUrl": "https://hymnary.org/text/work_for_the_night_is_coming_work_throug",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Mrs. Harry Coghill",
+          "sourceUrl": "https://hymnary.org/text/work_for_the_night_is_coming_work_throug",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1854",
+          "sourceUrl": "https://hymnary.org/text/work_for_the_night_is_coming_work_throug",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "把握白晝、勤勞事主、趁早作工"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "《Work, for the Night Is Coming》是 Anna Louisa Walker Coghill 十八歲時創作的聖詩，後由 Lowell Mason 於1864年譜曲。詩歌以《約翰福音 9:4》主耶穌「趁著白日必須做那差我來者的工」為核心思想，勉勵信徒把握仍有機會的時候忠心事奉神。歌詞以一天的歷程象徵人生不同階段：晨光代表年輕時期，正午象徵生命與事奉的高峰，黃昏則預表晚年及人生終結。透過這生動比喻，詩歌提醒人生命短暫，當善用神所賜的時間、才能與力量，在福音事工、愛心服事及日常生活中榮耀主。反覆出現的「Work, for the Night Is Coming」營造出迫切而堅定的呼召，激勵信徒不要虛度光陰。全詩亦呼應《以弗所書 5:16》及《哥林多前書 15:58》的教導，鼓勵基督徒殷勤作主工，深信惟有為主而做的工作才具有永恆價值。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/work-for-the-night-is-coming/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "scripture",
+          "label": "相關經文",
+          "value": "約翰福音 9:4；以弗所書 5:16；哥林多前書 15:58"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/work_for_the_night_is_coming_work_throug",
+        "https://www.hymnallibrary.org/hymns/work-for-the-night-is-coming/"
       ]
     }
   ]
