@@ -14,28 +14,28 @@
           "key": "titleOriginal",
           "label": "原文歌名",
           "value": "Glory to God in the highest",
-          "sourceUrl": "https://hymnary.org/text/rongyao_gui_yu_zhigao_shen",
+          "sourceUrl": "https://hymnary.org/text/glory_to_god_in_the_highest_whence",
           "sourceLabel": "hymnary.org"
         },
         {
           "key": "lyricist",
           "label": "作詞",
-          "value": "B. E. Warren",
-          "sourceUrl": "https://hymnary.org/person/Warren_Barney",
+          "value": "Fanny Crosby",
+          "sourceUrl": "https://hymnary.org/text/glory_to_god_in_the_highest_whence",
           "sourceLabel": "hymnary.org"
         },
         {
           "key": "composer",
           "label": "作曲",
           "value": "William B. Bradbury（曲調：Glory to God in the highest）",
-          "sourceUrl": "https://hymnary.org/tune/glory_to_god_in_the_highest_bradbury",
+          "sourceUrl": "https://hymnary.org/text/glory_to_god_in_the_highest_whence",
           "sourceLabel": "hymnary.org"
         },
         {
           "key": "year",
           "label": "原作年份",
-          "value": "1934（可核實到的最早收錄：晨星短歌 Morning Star Choruses）",
-          "sourceUrl": "https://hymnary.org/hymn/MSC1934/page/5",
+          "value": "1864",
+          "sourceUrl": "https://hymnary.org/text/glory_to_god_in_the_highest_whence",
           "sourceLabel": "hymnary.org"
         },
         {
@@ -45,11 +45,7 @@
         }
       ],
       "allSources": [
-        "https://hymnary.org/text/rongyao_gui_yu_zhigao_shen",
-        "https://hymnary.org/person/Warren_Barney",
-        "https://hymnary.org/tune/glory_to_god_in_the_highest_bradbury",
-        "https://hymnary.org/hymn/MSC1934/page/5",
-        "https://hymnary.org/hymn/PH1977/1"
+        "https://hymnary.org/text/glory_to_god_in_the_highest_whence"
       ]
     },
     {
@@ -76,8 +72,8 @@
           "key": "composer",
           "label": "作曲",
           "value": "Oliver Holden（曲調：CORONATION）",
-          "sourceUrl": "https://www.cpdl.org/wiki/index.php/Coronation_(Oliver_Holden)",
-          "sourceLabel": "cpdl.org"
+          "sourceUrl": "https://hymnary.org/text/all_hail_the_power_of_jesus_name",
+          "sourceLabel": "hymnary.org"
         },
         {
           "key": "year",
@@ -100,12 +96,7 @@
         }
       ],
       "allSources": [
-        "https://hymnary.org/hymn/PH1977/2",
-        "https://hymnary.org/text/dazai_shengzai_yesu_zhi_ming_tianshi_dou",
         "https://hymnary.org/text/all_hail_the_power_of_jesus_name",
-        "https://www.hymnallibrary.org/hymns/all-hail-the-power-of-jesus-name/",
-        "https://www.cpdl.org/wiki/index.php/All_hail_the_power_of_Jesus%27_name",
-        "https://www.cpdl.org/wiki/index.php/Coronation_(Oliver_Holden)",
         "https://en.wikipedia.org/wiki/All_Hail_the_Power_of_Jesus'_Name"
       ]
     },
@@ -164,8 +155,6 @@
         }
       ],
       "allSources": [
-        "https://hymnary.org/hymn/PH1977/3",
-        "https://hymnary.org/text/sheng_zai_sheng_zai_sheng_zai_quanquan",
         "https://hymnary.org/text/holy_holy_holy_lord_god_almighty",
         "https://hymnary.org/tune/nicaea_dykes",
         "https://en.wikipedia.org/wiki/Holy,_Holy,_Holy!_Lord_God_Almighty"
@@ -201,9 +190,9 @@
         {
           "key": "year",
           "label": "原作年份",
-          "value": "1875（首次出版）",
-          "sourceUrl": "https://en.wikipedia.org/wiki/To_God_Be_the_Glory",
-          "sourceLabel": "en.wikipedia.org"
+          "value": "1875",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/to-god-be-the-glory/",
+          "sourceLabel": "hymnallibrary.org"
         },
         {
           "key": "themes",
@@ -226,7 +215,6 @@
         }
       ],
       "allSources": [
-        "https://hymnary.org/hymn/PH1977/7",
         "https://hymnary.org/text/rongyao_guizhen_shen_ta_chengjiu_dashi",
         "https://www.hymnallibrary.org/hymns/to-god-be-the-glory/",
         "https://en.wikipedia.org/wiki/To_God_Be_the_Glory"
