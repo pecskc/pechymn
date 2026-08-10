@@ -370,7 +370,10 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			hymn_d: toVersionedDataPath('data/hymn-d-full.json'),
 			hymn_e: toVersionedDataPath('data/hymn-e-full.json'),
 		};
-		const HYMN_METADATA_PATH = toVersionedDataPath('data/hymn-a-metadata.json');
+		const HYMN_METADATA_PATHS = {
+			hymn_a: toVersionedDataPath('data/hymn-a-metadata.json'),
+			hymn_b: toVersionedDataPath('data/hymn-b-metadata.json'),
+		};
 
 		let indexItems = [];
 		let currentResults = [];
@@ -392,7 +395,8 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 		let lastExecutedSearchAt = 0;
 		const lyricCacheRaw = new Map();
 		const hymnMetadataById = new Map();
-		let hymnMetadataLoadPromise = null;
+		const hymnMetadataLoadPromises = new Map();
+		const hymnMetadataLoadedCollections = new Set();
 		const lyricCollectionLoadPromises = new Map();
 		let activeAudio = null;
 		let activeAudioPath = '';
@@ -1710,15 +1714,17 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			};
 		}
 
-		async function ensureHymnMetadataLoaded() {
-			if (hymnMetadataById.size > 0) return;
-			if (hymnMetadataLoadPromise) {
-				await hymnMetadataLoadPromise;
+		async function ensureHymnMetadataLoaded(collection) {
+			const metadataPath = HYMN_METADATA_PATHS[collection];
+			if (!metadataPath) return;
+			if (hymnMetadataLoadedCollections.has(collection)) return;
+			if (hymnMetadataLoadPromises.has(collection)) {
+				await hymnMetadataLoadPromises.get(collection);
 				return;
 			}
 
-			hymnMetadataLoadPromise = (async () => {
-				const resp = await fetch(HYMN_METADATA_PATH, { cache: 'no-store' });
+			const loadPromise = (async () => {
+				const resp = await fetch(metadataPath, { cache: 'no-store' });
 				if (!resp.ok) {
 					throw new Error('無法載入詩歌資料來源索引');
 				}
@@ -1728,12 +1734,14 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 					const entry = sanitizeMetadataEntry(rawEntry);
 					if (entry) hymnMetadataById.set(entry.id, entry);
 				}
+				hymnMetadataLoadedCollections.add(collection);
 			})();
+			hymnMetadataLoadPromises.set(collection, loadPromise);
 
 			try {
-				await hymnMetadataLoadPromise;
+				await loadPromise;
 			} finally {
-				hymnMetadataLoadPromise = null;
+				hymnMetadataLoadPromises.delete(collection);
 			}
 		}
 
@@ -2319,7 +2327,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 				renderLyric(payload, navInfoBeforeLoad, { prevPayload, nextPayload });
 				const hadSongInfoButton = shouldShowSongInfoButton(payload);
 				if (!hadSongInfoButton) {
-					ensureHymnMetadataLoaded()
+					ensureHymnMetadataLoaded(payload.collection)
 						.then(() => {
 							if (currentLyricId !== payload.id) return;
 							if (!shouldShowSongInfoButton(payload)) return;
@@ -2557,7 +2565,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 				}
 
 				try {
-					await ensureHymnMetadataLoaded();
+					await ensureHymnMetadataLoaded(payload.collection);
 				} catch {
 					return;
 				}
