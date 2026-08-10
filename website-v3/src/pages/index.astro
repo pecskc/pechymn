@@ -977,6 +977,11 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			return getCollectionLabel(collection);
 		}
 
+		function getReportHref(collection, subject, body) {
+			const cc = collection === 'hymn_d' ? '&cc=jackso@shtpec.org' : '';
+			return `mailto:hkpec.hymn@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}${cc}`;
+		}
+
 		function getActiveCongregation() {
 			return normalizeCongregation(state.settings?.congregation);
 		}
@@ -1570,7 +1575,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			const reportSongNumber = `${convertByLang(getCollectionShortLabel(payload.collection), state.languageMode)}${String(payload.number || '').trim()}`;
 			const reportSubject = '平安詩集 - 錯誤回報';
 			const reportBody = `${reportSongNumber} - 錯誤詳情: (請填寫)`;
-			const reportHref = `mailto:hkpec.hymn@gmail.com?subject=${encodeURIComponent(reportSubject)}&body=${encodeURIComponent(reportBody)}`;
+			const reportHref = getReportHref(payload.collection, reportSubject, reportBody);
 			const bookmarked = isBookmarked(payload.id);
 			const bookmarkLabel = bookmarked ? '取消書籤' : '加入書籤';
 			const sideAudioControls = payload.audioPath
@@ -1795,7 +1800,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			const reportSongNumber = `${hymnAbbr}${number}`;
 			const reportSubject = '平安詩集 - 錯誤回報';
 			const reportBody = `${reportSongNumber} - 資料錯誤詳情: `;
-			const reportHref = `mailto:hkpec.hymn@gmail.com?subject=${encodeURIComponent(reportSubject)}&body=${encodeURIComponent(reportBody)}`;
+			const reportHref = getReportHref(payload.collection, reportSubject, reportBody);
 
 			const fieldsHtml = (metadata.fields || [])
 				.map((field) => {
@@ -1859,7 +1864,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			const reportSongNumber = `${convertByLang(getCollectionShortLabel(payload.collection), state.languageMode)}${String(payload.number || '').trim()}`;
 			const reportSubject = '平安詩集 - 錯誤回報';
 			const reportBody = `${reportSongNumber} - 錯誤詳情: (請填寫)`;
-			const reportHref = `mailto:hkpec.hymn@gmail.com?subject=${encodeURIComponent(reportSubject)}&body=${encodeURIComponent(reportBody)}`;
+			const reportHref = getReportHref(payload.collection, reportSubject, reportBody);
 			const audioControls = payload.audioPath
 				? `
 					<button type="button" class="search-btn audio-icon-btn" id="audio-play" data-audio-path="${escapeHtml(payload.audioPath)}" aria-label="播放 MP3" title="播放 MP3">${AUDIO_ICON_PLAY}</button>
