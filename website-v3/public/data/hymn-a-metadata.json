@@ -2,7 +2,7 @@
   "generatedAt": "2026-07-09T04:07:12.998Z",
   "sourceFile": "平安詩集_詩歌資料核實結果.txt",
   "collection": "hymn_a",
-  "totalSongs": 177,
+  "totalSongs": 178,
   "items": [
     {
       "id": "hymn_a_1",
@@ -5598,6 +5598,58 @@
       "allSources": [
         "https://hymnary.org/text/take_the_name_of_jesus_with_you_child_of",
         "https://www.hymnallibrary.org/hymns/take-the-name-of-jesus-with-you/"
+      ]
+    },
+    {
+      "id": "hymn_a_279",
+      "collection": "hymn_a",
+      "hymnAbbr": "平",
+      "number": "279",
+      "fields": [
+        {
+          "key": "titleOriginal",
+          "label": "原文歌名",
+          "value": "Does Jesus Care?",
+          "sourceUrl": "https://hymnary.org/text/does_jesus_care_when_my_heart_is_pained",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "lyricist",
+          "label": "作詞",
+          "value": "Frank E. Graeff",
+          "sourceUrl": "https://hymnary.org/text/does_jesus_care_when_my_heart_is_pained",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "composer",
+          "label": "作曲",
+          "value": "J. Lincoln Hall",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/does-jesus-care/",
+          "sourceLabel": "hymnallibrary.org"
+        },
+        {
+          "key": "year",
+          "label": "原作年份",
+          "value": "1901",
+          "sourceUrl": "https://hymnary.org/text/does_jesus_care_when_my_heart_is_pained",
+          "sourceLabel": "hymnary.org"
+        },
+        {
+          "key": "themes",
+          "label": "主題標籤",
+          "value": "主的看顧、患難安慰、試探中的信靠、離別哀傷"
+        },
+        {
+          "key": "background",
+          "label": "背景故事摘要",
+          "value": "Frank E. Graeff 是美國循道會牧師與聖詩作者，因擅長講故事而有「sunshine minister」之稱，創作約二百首聖詩。〈Does Jesus Care?〉由 J. Lincoln Hall 作曲，並於 1905 年收錄在 Hall-Mack Company 的《New Songs of Gospel》第二卷出版。",
+          "sourceUrl": "https://www.hymnallibrary.org/hymns/does-jesus-care/",
+          "sourceLabel": "hymnallibrary.org"
+        }
+      ],
+      "allSources": [
+        "https://hymnary.org/text/does_jesus_care_when_my_heart_is_pained",
+        "https://www.hymnallibrary.org/hymns/does-jesus-care/"
       ]
     },
     {
