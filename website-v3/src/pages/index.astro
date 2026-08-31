@@ -394,6 +394,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 		let lastExecutedSearchKey = '';
 		let lastExecutedSearchAt = 0;
 		const lyricCacheRaw = new Map();
+		const loadedIndexCollections = new Set();
 		const hymnMetadataById = new Map();
 		const hymnMetadataLoadPromises = new Map();
 		const hymnMetadataLoadedCollections = new Set();
@@ -1577,10 +1578,15 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			}
 		}
 
-		async function loadSearchDataFromCollections() {
-			lyricCacheRaw.clear();
+		async function loadIndexDataForCollections(collections) {
+			const targets = [...new Set(collections)].filter(
+				(collection) => COLLECTION_FULL_PATHS[collection] && !loadedIndexCollections.has(collection),
+			);
+			if (targets.length === 0) return;
+
 			const loadedCollections = await Promise.all(
-				Object.entries(COLLECTION_FULL_PATHS).map(async ([collection, fullPath]) => {
+				targets.map(async (collection) => {
+					const fullPath = COLLECTION_FULL_PATHS[collection];
 					const resp = await fetch(fullPath, { cache: 'no-store' });
 					if (!resp.ok) {
 						throw new Error(`Cannot load ${fullPath}`);
@@ -1598,35 +1604,39 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 				}),
 			);
 
-			indexItems = loadedCollections
-				.flatMap(({ collection, items }) =>
-					items.map((item) => {
-						const normalizedNumber = normalize(String(item?.number || ''));
-						const normalizedTitle = normalize(String(item?.title || ''));
-						const normalizedLyrics = normalize(stripLyricsHtmlForSearch(item?.lyricsHtml || ''));
-						return {
-							id: String(item?.id || ''),
-							collection,
-							number: String(item?.number || ''),
-							title: String(item?.title || ''),
-							categoryRange: String(item?.categoryRange || ''),
-							audioPath: String(item?.audioPath || ''),
-							normalizedNumberFolded: foldVariantsForSearch(normalizedNumber),
-							normalizedTitleFolded: foldVariantsForSearch(normalizedTitle),
-							normalizedLyricsFolded: foldVariantsForSearch(normalizedLyrics),
-							searchTargetFolded: foldVariantsForSearch(`${normalizedNumber} ${normalizedTitle} ${normalizedLyrics}`),
-						};
-					}),
-				)
-				.sort((a, b) => {
-					if (a.collection !== b.collection) {
-						return a.collection.localeCompare(b.collection);
-					}
-					if (a.number !== b.number) {
-						return a.number.localeCompare(b.number, undefined, { numeric: true });
-					}
-					return a.id.localeCompare(b.id);
-				});
+			for (const { collection } of loadedCollections) {
+				loadedIndexCollections.add(collection);
+			}
+
+			const newEntries = loadedCollections.flatMap(({ collection, items }) =>
+				items.map((item) => {
+					const normalizedNumber = normalize(String(item?.number || ''));
+					const normalizedTitle = normalize(String(item?.title || ''));
+					const normalizedLyrics = normalize(stripLyricsHtmlForSearch(item?.lyricsHtml || ''));
+					return {
+						id: String(item?.id || ''),
+						collection,
+						number: String(item?.number || ''),
+						title: String(item?.title || ''),
+						categoryRange: String(item?.categoryRange || ''),
+						audioPath: String(item?.audioPath || ''),
+						normalizedNumberFolded: foldVariantsForSearch(normalizedNumber),
+						normalizedTitleFolded: foldVariantsForSearch(normalizedTitle),
+						normalizedLyricsFolded: foldVariantsForSearch(normalizedLyrics),
+						searchTargetFolded: foldVariantsForSearch(`${normalizedNumber} ${normalizedTitle} ${normalizedLyrics}`),
+					};
+				}),
+			);
+
+			indexItems = indexItems.concat(newEntries).sort((a, b) => {
+				if (a.collection !== b.collection) {
+					return a.collection.localeCompare(b.collection);
+				}
+				if (a.number !== b.number) {
+					return a.number.localeCompare(b.number, undefined, { numeric: true });
+				}
+				return a.id.localeCompare(b.id);
+			});
 		}
 
 		async function loadLyricPayloadByItem(item) {
@@ -2863,7 +2873,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			saveState();
 		});
 
-		function applyCongregationChange(nextCongregation) {
+		async function applyCongregationChange(nextCongregation) {
 			const normalized = normalizeCongregation(nextCongregation);
 			state.settings.congregation = normalized;
 			syncHashByCongregation(normalized);
@@ -2879,6 +2889,16 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			renderQuickbar();
 			renderGroupList();
 			renderShelves();
+
+			try {
+				await loadIndexDataForCollections(getAllowedCollections());
+			} catch (error) {
+				resultList.innerHTML = '<div class="empty-state">請先執行 npm run generate:data 產生詩歌資料。</div>';
+				return;
+			}
+
+			syncShelfEntriesFromIndex();
+			renderShelves();
 			doSearch(false, false);
 			updateResultViewportLayout();
 			saveState();
@@ -2887,13 +2907,14 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 		for (const option of congregationRadioOptions) {
 			option.addEventListener('change', () => {
 				if (!option.checked) return;
-				applyCongregationChange(option.value);
+				void applyCongregationChange(option.value);
 			});
 		}
 
 		// Initialize congregation prompt shown to first-time visitors.
-		function initCongregationPrompt() {
+		function initCongregationPrompt(skip) {
 			const PROMPT_KEY = 'hymn_congregation_prompt_shown_v1';
+			if (skip) return;
 			if (typeof localStorage === 'undefined') return;
 			if (localStorage.getItem(PROMPT_KEY)) return;
 			const promptEl = document.getElementById('congregation-prompt');
@@ -2912,7 +2933,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 					clearTimeout(autoTimer);
 					autoTimer = null;
 				}
-				if (selectDefault) applyCongregationChange(CONGREGATION_OTHER);
+				if (selectDefault) void applyCongregationChange(CONGREGATION_OTHER);
 				setTimeout(() => {
 					if (promptEl.matches('.is-visible')) return;
 					promptEl.classList.add('hidden');
@@ -2923,7 +2944,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			for (const btn of buttons) {
 				btn.addEventListener('click', () => {
 					const val = btn.getAttribute('data-congreg') || CONGREGATION_OTHER;
-					applyCongregationChange(val);
+					void applyCongregationChange(val);
 					closePrompt(false);
 				});
 			}
@@ -2948,8 +2969,8 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			}
 			document.body.classList.add('has-quickbar');
 			applyStateToUI();
-			// Show congregation prompt for first-time visitors
-			initCongregationPrompt();
+			// Show congregation prompt for first-time visitors, unless a congregation tag was already provided via URL hash
+			initCongregationPrompt(Boolean(congregationFromHash));
 			updateResultViewportLayout();
 			renderShelves();
 			renderQuickbar();
@@ -2957,7 +2978,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			resultList.innerHTML = '<div class="empty-state">正在載入詩歌資料...</div>';
 
 			try {
-				await loadSearchDataFromCollections();
+				await loadIndexDataForCollections(getAllowedCollections());
 				syncShelfEntriesFromIndex();
 				renderShelves();
 				renderGroupList();
