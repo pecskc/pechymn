@@ -12,7 +12,6 @@ const sourceFile = path.join(workspaceRoot, 'website', 'hymn_script.js');
 
 const outputRoot = path.join(projectRoot, 'public', 'data');
 const lyricsRoot = path.join(outputRoot, 'lyrics');
-const searchIndexLiteFile = path.join(outputRoot, 'search-index-lite.json');
 const legacySearchIndexFile = path.join(outputRoot, 'search-index-fulltext.json');
 const summaryFile = path.join(outputRoot, 'collections-summary.json');
 const reportFile = path.join(outputRoot, 'data-validation-report.json');
@@ -52,38 +51,6 @@ function loadCollections(sourceCode) {
     out[def.collection] = { ...def, data };
   }
   return out;
-}
-
-function decodeHtmlEntities(input) {
-  return input
-    .replace(/&nbsp;/gi, ' ')
-    .replace(/&amp;/gi, '&')
-    .replace(/&lt;/gi, '<')
-    .replace(/&gt;/gi, '>')
-    .replace(/&quot;/gi, '"')
-    .replace(/&#39;/gi, "'");
-}
-
-function stripHtmlToText(html) {
-  return decodeHtmlEntities(html)
-    .replace(/<br\s*\/?>/gi, '\n')
-    .replace(/<\/p>/gi, '\n')
-    .replace(/<[^>]*>/g, ' ')
-    .replace(/\r\n/g, '\n')
-    .replace(/\r/g, '\n')
-    .replace(/\n{3,}/g, '\n\n')
-    .replace(/[ \t]+/g, ' ')
-    .trim();
-}
-
-function normalizeForSearch(text) {
-  return text
-    .normalize('NFKC')
-    .toLowerCase()
-    .replace(/[\u3000\s]+/g, ' ')
-    .replace(/[\p{P}\p{S}]+/gu, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
 }
 
 function numericValueFromId(id) {
@@ -334,8 +301,8 @@ function main() {
   ensureDir(outputRoot);
   fs.rmSync(lyricsRoot, { recursive: true, force: true });
   fs.rmSync(legacySearchIndexFile, { force: true });
+  fs.rmSync(path.join(outputRoot, 'search-index-lite.json'), { force: true });
 
-  const searchIndexLite = [];
   const collectionFullItems = Object.fromEntries(
     [
       ...Object.keys(collections),
@@ -377,10 +344,6 @@ function main() {
       const title = String(row[0] ?? '').trim();
       const number = String(row[1] ?? '').trim();
       const lyricsHtml = String(row[2] ?? '');
-      const lyricsText = stripHtmlToText(lyricsHtml);
-      const normalizedTitle = normalizeForSearch(title);
-      const normalizedLyrics = normalizeForSearch(lyricsText);
-      const normalizedNumber = normalizeForSearch(number);
       const audioPath = buildAudioPath(meta.midiPrefix, number);
 
       if ((lyricsHtml.match(/</g) || []).length !== (lyricsHtml.match(/>/g) || []).length) {
@@ -410,18 +373,6 @@ function main() {
       };
 
       collectionFullItems[collection].push(lyricPayload);
-
-      searchIndexLite.push({
-        id,
-        collection,
-        number,
-        title,
-        normalizedTitle,
-        normalizedLyrics,
-        normalizedNumber,
-        categoryRange: range,
-        audioPath,
-      });
 
       collectionCount += 1;
     }
@@ -464,10 +415,6 @@ function main() {
       const title = String(rawItem.title ?? '').trim();
       const number = String(rawItem.number ?? '').trim();
       const lyricsHtml = String(rawItem.lyricsHtml ?? '');
-      const lyricsText = stripHtmlToText(lyricsHtml);
-      const normalizedTitle = normalizeForSearch(title);
-      const normalizedLyrics = normalizeForSearch(lyricsText);
-      const normalizedNumber = normalizeForSearch(number);
       const audioPath = String(rawItem.audioPath ?? '').trim();
 
       if ((lyricsHtml.match(/</g) || []).length !== (lyricsHtml.match(/>/g) || []).length) {
@@ -498,18 +445,6 @@ function main() {
 
       collectionFullItems[collection].push(lyricPayload);
 
-      searchIndexLite.push({
-        id,
-        collection,
-        number,
-        title,
-        normalizedTitle,
-        normalizedLyrics,
-        normalizedNumber,
-        categoryRange: String(rawItem.categoryRange || range),
-        audioPath,
-      });
-
       collectionCount += 1;
     }
 
@@ -527,22 +462,6 @@ function main() {
 
     report.totalSongs += collectionCount;
   }
-
-  searchIndexLite.sort((a, b) => {
-    if (a.collection !== b.collection) {
-      return a.collection.localeCompare(b.collection);
-    }
-    if (a.number !== b.number) {
-      return a.number.localeCompare(b.number, undefined, { numeric: true });
-    }
-    return a.id.localeCompare(b.id);
-  });
-
-  writeJson(searchIndexLiteFile, {
-    generatedAt: new Date().toISOString(),
-    totalSongs: searchIndexLite.length,
-    items: searchIndexLite,
-  });
 
   for (const [collection, items] of Object.entries(collectionFullItems)) {
     items.sort((a, b) => {
@@ -567,8 +486,7 @@ function main() {
 
   writeJson(reportFile, report);
 
-  console.log(`Generated ${searchIndexLite.length} songs.`);
-  console.log(`Search index: ${path.relative(projectRoot, searchIndexLiteFile)}`);
+  console.log(`Generated ${report.totalSongs} songs.`);
   console.log(`Collection full files: ${Object.keys(collectionFullItems).map(getCollectionFullFileName).join(', ')}`);
   console.log(`Validation report: ${path.relative(projectRoot, reportFile)}`);
   console.log(`Audio missing entries: ${report.audioMissing.length}`);

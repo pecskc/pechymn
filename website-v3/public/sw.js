@@ -31,7 +31,11 @@ const SHELL_ASSETS = [
   toAppPath('favicon.ico'),
   toAppPath('favicon.svg'),
   toAppPath('manifest.webmanifest'),
-  toAppPath('data/search-index-lite.json'),
+  toAppPath('data/hymn-a-full.json'),
+  toAppPath('data/hymn-b-full.json'),
+  toAppPath('data/hymn-c-full.json'),
+  toAppPath('data/hymn-d-full.json'),
+  toAppPath('data/hymn-e-full.json'),
   toAppPath('data/asset-audit-report.json'),
   toAppPath('data/lighthouse-mobile-baseline.json'),
 ];
