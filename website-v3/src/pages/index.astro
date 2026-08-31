@@ -196,6 +196,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 		const CONGREGATION_HASH_SHT = 'sht';
 		const CONGREGATION_HASH_HP_DEFAULT = 'rig';
 		const CONGREGATION_HASH_HP_ALT = 'rg';
+		const HYMN_ID_HASH_PATTERN = /^hymn_[a-e]_\d+$/;
 
 		function interpolateResponsiveFontSize(width, anchors) {
 			if (!Array.isArray(anchors) || anchors.length < 2) return 23;
@@ -1009,32 +1010,53 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			return normalizeCongregation(state.settings?.congregation);
 		}
 
-		function getCongregationFromHash() {
-			const rawHash = String(window.location.hash || '').replace(/^#/, '').trim().toLowerCase();
+		// Hash format: #<id> or #<congregation>/<id>, e.g. #hymn_a_1 or #sht/hymn_d_9
+		function getRawHash() {
+			return String(window.location.hash || '').replace(/^#/, '').trim().toLowerCase();
+		}
+
+		function parseCongregationHashSegment(segment) {
 			if (
-				rawHash === CONGREGATION_HASH_KP_YP ||
-				rawHash === CONGREGATION_HASH_KP ||
-				rawHash === CONGREGATION_HASH_SKC
+				segment === CONGREGATION_HASH_KP_YP ||
+				segment === CONGREGATION_HASH_KP ||
+				segment === CONGREGATION_HASH_SKC
 			) {
 				return CONGREGATION_KP_YP;
 			}
-			if (rawHash === CONGREGATION_HASH_SHT) {
+			if (segment === CONGREGATION_HASH_SHT) {
 				return CONGREGATION_SHT;
 			}
-			if (rawHash === CONGREGATION_HASH_HP_DEFAULT || rawHash === CONGREGATION_HASH_HP_ALT) {
+			if (segment === CONGREGATION_HASH_HP_DEFAULT || segment === CONGREGATION_HASH_HP_ALT) {
 				return CONGREGATION_HP;
 			}
 			return '';
 		}
 
-		function syncHashByCongregation(congregation) {
+		function getCongregationHashSegment(congregation) {
+			if (congregation === CONGREGATION_KP_YP) return CONGREGATION_HASH_KP_YP;
+			if (congregation === CONGREGATION_SHT) return CONGREGATION_HASH_SHT;
+			if (congregation === CONGREGATION_HP) return CONGREGATION_HASH_HP_DEFAULT;
+			return '';
+		}
+
+		function getCongregationFromHash() {
+			const [firstSegment] = getRawHash().split('/');
+			return parseCongregationHashSegment(firstSegment || '');
+		}
+
+		function getHymnIdFromHash() {
+			const segments = getRawHash().split('/');
+			const idSegment = segments.length > 1 ? segments[1] : segments[0];
+			return HYMN_ID_HASH_PATTERN.test(idSegment) ? idSegment : '';
+		}
+
+		function syncHashForCurrentState(hymnId = '') {
+			const congregationSegment = getCongregationHashSegment(getActiveCongregation());
 			let nextHash = '';
-			if (congregation === CONGREGATION_KP_YP) {
-				nextHash = `#${CONGREGATION_HASH_KP_YP}`;
-			} else if (congregation === CONGREGATION_SHT) {
-				nextHash = `#${CONGREGATION_HASH_SHT}`;
-			} else if (congregation === CONGREGATION_HP) {
-				nextHash = `#${CONGREGATION_HASH_HP_DEFAULT}`;
+			if (hymnId) {
+				nextHash = congregationSegment ? `#${congregationSegment}/${hymnId}` : `#${hymnId}`;
+			} else if (congregationSegment) {
+				nextHash = `#${congregationSegment}`;
 			}
 			if (window.location.hash === nextHash) return;
 
@@ -1372,6 +1394,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			hideOverlay(lyricOverlay, options);
 			lyricSwipeAnimating = false;
 			resetLyricSwipePosition();
+			syncHashForCurrentState();
 		}
 
 		function setActiveCollection(collection) {
@@ -2405,6 +2428,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 
 				currentLyricId = payload.id;
 				state.lastViewed = payload.id;
+				syncHashForCurrentState(payload.id);
 				saveState();
 
 				renderLyric(payload, navInfoBeforeLoad, { prevPayload, nextPayload });
@@ -2429,6 +2453,18 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 				lyricViewer.innerHTML = `<div class="empty-state">${escapeHtml(String(error))}</div>`;
 				resetLyricOverlayScroll();
 			}
+		}
+
+		async function openHymnFromHash(id) {
+			const collection = id.replace(/^(hymn_[a-e])_\d+$/, '$1');
+			try {
+				await loadIndexDataForCollections([collection]);
+			} catch (error) {
+				return;
+			}
+			const item = findItemById(id);
+			if (!item) return;
+			await openLyric(item, { source: 'search' });
 		}
 
 		function syncCollectionForSearchResult(item) {
@@ -2876,7 +2912,7 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 		async function applyCongregationChange(nextCongregation) {
 			const normalized = normalizeCongregation(nextCongregation);
 			state.settings.congregation = normalized;
-			syncHashByCongregation(normalized);
+			syncHashForCurrentState();
 			state.filters.collection = 'hymn_a';
 			state.filters.groupKey = getDefaultGroupKey('hymn_a');
 			input.value = '';
@@ -2958,10 +2994,11 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 		(async function bootstrap() {
 			loadState();
 			const congregationFromHash = getCongregationFromHash();
+			const hymnIdFromHash = getHymnIdFromHash();
 			if (congregationFromHash) {
 				state.settings.congregation = congregationFromHash;
-			} else {
-				syncHashByCongregation(normalizeCongregation(state.settings.congregation));
+			} else if (!hymnIdFromHash) {
+				syncHashForCurrentState();
 			}
 			sanitizeFiltersForCongregation();
 			if (!getActiveGroup()) {
@@ -2969,8 +3006,8 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 			}
 			document.body.classList.add('has-quickbar');
 			applyStateToUI();
-			// Show congregation prompt for first-time visitors, unless a congregation tag was already provided via URL hash
-			initCongregationPrompt(Boolean(congregationFromHash));
+			// Show congregation prompt for first-time visitors, unless a congregation or song tag was already provided via URL hash
+			initCongregationPrompt(Boolean(congregationFromHash || hymnIdFromHash));
 			updateResultViewportLayout();
 			renderShelves();
 			renderQuickbar();
@@ -2984,6 +3021,9 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 				renderGroupList();
 				doSearch();
 				updateResultViewportLayout();
+				if (hymnIdFromHash) {
+					await openHymnFromHash(hymnIdFromHash);
+				}
 
 				saveState();
 			} catch (error) {
@@ -2992,3 +3032,4 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 		})();
 	</script>
 </BaseLayout>
+
