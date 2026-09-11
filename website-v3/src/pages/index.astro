@@ -146,10 +146,11 @@ const toBase = (path = '') => `${baseUrl}${String(path).replace(/^\/+/, '')}`;
 		const STORAGE_KEY = 'hymn_app_state_v2';
 		const STATE_VERSION = 2;
 		const APP_BASE_URL = String(baseUrl || '/');
+		const DATA_BASE_URL = 'https://pechymn.z7.web.core.windows.net/';
 		const DATA_BUILD_VERSION = String(buildVersion || 'dev');
 		const toBasePath = (path = '') => `${APP_BASE_URL}${String(path).replace(/^\/+/, '')}`;
 		const toVersionedDataPath = (path = '') => {
-			const basePath = toBasePath(path);
+			const basePath = `${DATA_BASE_URL}${String(path).replace(/^\/+/, '')}`;
 			const separator = basePath.includes('?') ? '&' : '?';
 			return `${basePath}${separator}v=${encodeURIComponent(DATA_BUILD_VERSION)}`;
 		};
