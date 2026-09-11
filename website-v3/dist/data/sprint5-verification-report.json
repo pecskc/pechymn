@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2026-06-12T10:10:00.000Z",
+  "phase": "Sprint 5",
+  "summary": {
+    "overall": "in-progress",
+    "automatedChecks": "passed",
+    "manualDeviceChecks": "pending"
+  },
+  "automatedChecks": [
+    {
+      "id": "build",
+      "status": "passed",
+      "evidence": "npm run build => astro check/build passed with 0 errors"
+    },
+    {
+      "id": "lighthouse-mobile",
+      "status": "passed",
+      "evidence": "public/data/lighthouse-mobile-baseline.json status=ok; perf=75, accessibility=100, bestPractices=100, seo=100"
+    },
+    {
+      "id": "html-network-first",
+      "status": "passed",
+      "evidence": "public/sw.js networkFirstHtml() registered for navigation/html"
+    },
+    {
+      "id": "json-swr",
+      "status": "passed",
+      "evidence": "public/sw.js staleWhileRevalidateJson() used for .json and JSON accept headers"
+    },
+    {
+      "id": "audio-cache-first-lru",
+      "status": "passed",
+      "evidence": "public/sw.js cacheFirstAudioWithLru() + pruneAudioCache() with max entries/bytes"
+    },
+    {
+      "id": "offline-fallback",
+      "status": "passed",
+      "evidence": "public/sw.js precaches /offline/ and networkFirstHtml() fallback routes to /offline/"
+    },
+    {
+      "id": "audio-no-preload",
+      "status": "passed",
+      "evidence": "src/pages/index.astro sets activeAudio.preload='none' before playback"
+    },
+    {
+      "id": "lyrics-lazy-load",
+      "status": "passed",
+      "evidence": "src/pages/index.astro openLyric() fetches lyricsPath on-demand only"
+    }
+  ],
+  "manualChecksPending": [
+    "iPhone Safari: first load -> search -> open lyric -> play/stop midi",
+    "Android Chrome: offline mode navigation and cached lyric readability",
+    "iPad/tablet layout: split mode and toolbar position persistence",
+    "Audio cache eviction: verify older midi files removed after cache threshold"
+  ],
+  "acceptanceGateSnapshot": {
+    "fulltextSearchBeforeLyricLoad": "passed",
+    "noLyricShardOnInitialLoad": "pending-manual-network-inspection",
+    "zeroAudioRequestBeforePlay": "pending-manual-network-inspection",
+    "mobileInteractivityImprovement": "pending-device-comparison",
+    "staticHostingNoBackendDependency": "passed"
+  }
+}

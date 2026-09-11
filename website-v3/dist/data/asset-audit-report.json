@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-06-12T09:53:52.908Z",
+  "thresholds": {
+    "largeAssetBytes": 204800,
+    "largeAssetLabel": "200.0 KB"
+  },
+  "summary": {
+    "totalInspected": 919,
+    "largeAssets": 1,
+    "largeImages": 0,
+    "byType": {
+      "image": {
+        "count": 2,
+        "bytes": 1404
+      },
+      "json": {
+        "count": 916,
+        "bytes": 2591337
+      },
+      "script": {
+        "count": 1,
+        "bytes": 24074
+      },
+      "other": {
+        "count": 0,
+        "bytes": 0
+      }
+    }
+  },
+  "top20BySize": [
+    {
+      "path": "public/data/search-index-fulltext.json",
+      "type": "json",
+      "sizeBytes": 1680718,
+      "sizeLabel": "1.60 MB"
+    },
+    {
+      "path": "public/langConvert.js",
+      "type": "script",
+      "sizeBytes": 24074,
+      "sizeLabel": "23.5 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_130.json",
+      "type": "json",
+      "sizeBytes": 3498,
+      "sizeLabel": "3.4 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_a/hymn_a_168.json",
+      "type": "json",
+      "sizeBytes": 3432,
+      "sizeLabel": "3.4 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_75.json",
+      "type": "json",
+      "sizeBytes": 3357,
+      "sizeLabel": "3.3 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_59.json",
+      "type": "json",
+      "sizeBytes": 3254,
+      "sizeLabel": "3.2 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_a/hymn_a_463.json",
+      "type": "json",
+      "sizeBytes": 3250,
+      "sizeLabel": "3.2 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_39.json",
+      "type": "json",
+      "sizeBytes": 3122,
+      "sizeLabel": "3.0 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_68.json",
+      "type": "json",
+      "sizeBytes": 3094,
+      "sizeLabel": "3.0 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_167.json",
+      "type": "json",
+      "sizeBytes": 3034,
+      "sizeLabel": "3.0 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_163.json",
+      "type": "json",
+      "sizeBytes": 2954,
+      "sizeLabel": "2.9 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_93.json",
+      "type": "json",
+      "sizeBytes": 2945,
+      "sizeLabel": "2.9 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_a/hymn_a_323.json",
+      "type": "json",
+      "sizeBytes": 2811,
+      "sizeLabel": "2.7 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_a/hymn_a_206.json",
+      "type": "json",
+      "sizeBytes": 2809,
+      "sizeLabel": "2.7 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_65.json",
+      "type": "json",
+      "sizeBytes": 2738,
+      "sizeLabel": "2.7 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_155.json",
+      "type": "json",
+      "sizeBytes": 2559,
+      "sizeLabel": "2.5 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_103.json",
+      "type": "json",
+      "sizeBytes": 2557,
+      "sizeLabel": "2.5 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_a/hymn_a_307.json",
+      "type": "json",
+      "sizeBytes": 2544,
+      "sizeLabel": "2.5 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_a/hymn_a_451.json",
+      "type": "json",
+      "sizeBytes": 2529,
+      "sizeLabel": "2.5 KB"
+    },
+    {
+      "path": "public/data/lyrics/hymn_b/hymn_b_207.json",
+      "type": "json",
+      "sizeBytes": 2511,
+      "sizeLabel": "2.5 KB"
+    }
+  ],
+  "largeAssets": [
+    {
+      "path": "public/data/search-index-fulltext.json",
+      "type": "json",
+      "sizeBytes": 1680718,
+      "sizeLabel": "1.60 MB"
+    }
+  ],
+  "recommendations": [
+    "No large image assets detected in public/. Keep new graphics in SVG/WebP when adding assets.",
+    "Keep lyrics JSON lazy-loaded as implemented; avoid prefetching per-song files on initial page load.",
+    "Set long cache TTL for static immutable assets and short TTL for JSON index files at deployment."
+  ]
+}

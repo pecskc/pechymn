@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-07-10T08:11:54.885Z",
+  "sourceFile": "/Users/kening.li/Desktop/Repo/pechymn/website/hymn_script.js",
+  "totalSongs": 1252,
+  "collections": {
+    "hymn_a": {
+      "count": 500,
+      "range": "001-500",
+      "missingAudioCount": 0
+    },
+    "hymn_b": {
+      "count": 250,
+      "range": "001-250",
+      "missingAudioCount": 0
+    },
+    "hymn_c": {
+      "count": 163,
+      "range": "001-156",
+      "missingAudioCount": 0
+    },
+    "hymn_d": {
+      "count": 251,
+      "range": "001-251",
+      "missingAudioCount": 0
+    },
+    "hymn_e": {
+      "count": 88,
+      "range": "001-144",
+      "missingAudioCount": 0
+    }
+  },
+  "duplicateIds": [],
+  "malformedRows": [],
+  "malformedHtml": [],
+  "audioMissing": [],
+  "invalidEncoding": []
+}
