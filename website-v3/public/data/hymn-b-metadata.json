@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T00:00:00.000Z",
+  "generatedAt": "2026-09-30T00:00:00.000Z",
   "sourceFile": "敬拜頌歌_詩歌資料核實結果.txt",
   "collection": "hymn_b",
-  "totalSongs": 20,
+  "totalSongs": 21,
   "items": [
     {
       "id": "hymn_b_1",
@@ -61,6 +61,21 @@
         { "key": "themes", "label": "主題標籤", "value": "神的愛、創造、救贖、十字架" }
       ],
       "allSources": ["https://hymnary.org/text/god_is_love_the_heavens_tell_it_stars", "https://hymnary.org/tune/god_is_love_the_heavens_tell_peterson"]
+    },
+    {
+      "id": "hymn_b_8",
+      "collection": "hymn_b",
+      "hymnAbbr": "敬",
+      "number": "008",
+      "fields": [
+        { "key": "titleOriginal", "label": "原文歌名", "value": "請來聽", "sourceUrl": "https://song4kids.com/product/%E8%AB%8B%E4%BE%86%E8%81%BD/", "sourceLabel": "song4kids.com" },
+        { "key": "lyricist", "label": "作詞", "value": "蘇佐揚", "sourceUrl": "https://song4kids.com/2022/07/16/%E5%A4%A9%E4%BA%BA%E5%85%92%E6%AD%8C1/", "sourceLabel": "song4kids.com" },
+        { "key": "composer", "label": "作曲", "value": "蘇佐揚", "sourceUrl": "https://song4kids.com/2022/07/16/%E5%A4%A9%E4%BA%BA%E5%85%92%E6%AD%8C1/", "sourceLabel": "song4kids.com" },
+        { "key": "themes", "label": "主題標籤", "value": "天使報喜、基督降生、道成肉身、神的愛、救恩、榮耀、平安" },
+        { "key": "background", "label": "背景故事摘要", "value": "蘇佐揚是香港出生的華人佈道家、釋經家、作家及聖樂家，自幼熱愛音樂，14歲開始作曲，後來創作逾600首《天人短歌》及大量《天人聖歌》，又創辦《天人之聲》及基督教天人社，以文字與聖樂服事華人教會。 《請來聽》收錄於《天人兒歌1》，列為第1首，另有李雯希獨唱版本。", "sourceUrl": "https://www.bdcconline.net/zh-hant/stories/su-zuoyang", "sourceLabel": "bdcconline.net" },
+        { "key": "scripture", "label": "相關經文", "value": "路加福音2:8–14；約翰福音3:16；約翰福音1:14" }
+      ],
+      "allSources": ["https://song4kids.com/product/%E8%AB%8B%E4%BE%86%E8%81%BD/", "https://www.bdcconline.net/zh-hant/stories/su-zuoyang", "https://song4kids.com/2022/07/16/%E5%A4%A9%E4%BA%BA%E5%85%92%E6%AD%8C1/"]
     },
     {
       "id": "hymn_b_10",
@@ -181,6 +196,121 @@
         { "key": "scripture", "label": "相關經文", "value": "耶利米哀歌 3:22-23", "sourceUrl": "https://www.jubilate.co.uk/songs/new_every_morning_its_new", "sourceLabel": "jubilate.co.uk" }
       ],
       "allSources": ["https://hymnary.org/text/new_every_morning_its_new", "https://www.jubilate.co.uk/songs/new_every_morning_its_new"]
+    },
+    {
+      "id": "hymn_b_21",
+      "collection": "hymn_b",
+      "hymnAbbr": "敬",
+      "number": "021",
+      "fields": [
+        { "key": "titleOriginal", "label": "原文歌名", "value": "Danke (英文版本：Thank You for Every New Good Morning)", "sourceUrl": "https://en.wikipedia.org/wiki/Danke_(song)", "sourceLabel": "en.wikipedia.org" },
+        { "key": "lyricist", "label": "作詞", "value": "Martin Gotthard Schneider", "sourceUrl": "https://en.wikipedia.org/wiki/Danke_(song)", "sourceLabel": "en.wikipedia.org" },
+        { "key": "composer", "label": "作曲", "value": "Martin Gotthard Schneider", "sourceUrl": "https://www.mgschneider.de/infos/", "sourceLabel": "mgschneider.de" },
+        { "key": "year", "label": "原作年份", "value": "1961", "sourceUrl": "https://www.mgschneider.de/infos/", "sourceLabel": "mgschneider.de" },
+        { "key": "themes", "label": "主題標籤", "value": "感恩、日常生活、寬恕、引導、救恩" },
+        { "key": "background", "label": "背景故事摘要", "value": "《Danke》由德國牧師及音樂家 Martin Gotthard Schneider 於1961年創作。此歌原為 Evangelische Akademie Tutzing 舉辦的新聖歌比賽而作，要求採用爵士或流行音樂風格，最終獲得首獎。歌曲於1962年出版，並在1963年由 Ralf Bendix 於 Dortmund 的 Kirchentag 大型聚會中演唱，迅速廣為流傳，甚至進入流行音樂排行榜。《Danke》以簡潔現代的旋律及感恩內容，突破傳統聖詩風格，後來更被收入《Evangelisches Gesangbuch》，成為德語地區極具代表性的基督教歌曲。", "sourceUrl": "https://en.wikipedia.org/wiki/Danke_(song)", "sourceLabel": "en.wikipedia.org" }
+      ],
+      "allSources": ["https://en.wikipedia.org/wiki/Danke_(song)", "https://www.mgschneider.de/infos/"]
+    },
+    {
+      "id": "hymn_b_24",
+      "collection": "hymn_b",
+      "hymnAbbr": "敬",
+      "number": "024",
+      "fields": [
+        { "key": "titleOriginal", "label": "原文歌名", "value": "God Is So Good", "sourceUrl": "https://hymnary.org/text/god_is_so_good_god_is_so_good", "sourceLabel": "hymnary.org" },
+        { "key": "lyricist", "label": "作詞", "value": "1960 年前已在非洲流傳的傳統歌曲；Paul Makai 將詞文轉寫至其語言 (英文譯詞：Marilyn Foulkes）", "sourceUrl": "https://hymnary.org/text/god_is_so_good_god_is_so_good", "sourceLabel": "hymnary.org" },
+        { "key": "composer", "label": "作曲", "value": "Paul Makai；曲調：GOD IS SO GOOD", "sourceUrl": "https://hymnary.org/tune/god_is_so_good_traditional", "sourceLabel": "hymnary.org" },
+        { "key": "themes", "label": "主題標籤", "value": "神的良善、看顧、順服、慈愛" },
+        { "key": "background", "label": "背景故事摘要", "value": "《God Is So Good》是一首簡單而廣受喜愛的基督教聖詩。詩歌以反覆而直接的方式宣告神的良善與信實，強調神的慈愛永遠長存，一切美善恩賜皆從祂而來。歌詞雖然淺白，卻幫助信徒在敬拜中反覆思想並記住神的良善，也鼓勵人從日常供應、恩典與看顧中親自經歷祂。因此，此歌特別適合兒童事工及會眾敬拜，並在不同文化中廣泛流傳。", "sourceUrl": "https://www.hymnallibrary.org/hymns/god-is-so-good/", "sourceLabel": "hymnallibrary.org" },
+        { "key": "scripture", "label": "相關經文", "value": "詩篇100:5；136:1；雅各書1:17；詩篇34:8", "sourceUrl": "https://www.hymnallibrary.org/hymns/god-is-so-good/", "sourceLabel": "hymnallibrary.org" }
+      ],
+      "allSources": ["https://hymnary.org/text/god_is_so_good_god_is_so_good", "https://hymnary.org/tune/god_is_so_good_traditional", "https://www.hymnallibrary.org/hymns/god-is-so-good/"]
+    },
+    {
+      "id": "hymn_b_25",
+      "collection": "hymn_b",
+      "hymnAbbr": "敬",
+      "number": "025",
+      "fields": [
+        { "key": "titleOriginal", "label": "原文歌名", "value": "We've Got a Great Big Wonderful God", "sourceUrl": "https://hymnary.org/text/weve_got_a_great_big_wonderful_god", "sourceLabel": "hymnary.org" },
+        { "key": "lyricist", "label": "作詞", "value": "Tim Spencer", "sourceUrl": "https://hymnary.org/text/weve_got_a_great_big_wonderful_god", "sourceLabel": "hymnary.org" },
+        { "key": "composer", "label": "作曲", "value": "Tim Spencer", "sourceUrl": "https://hymnary.org/tune/weve_got_a_great_big_wonderful_spencer", "sourceLabel": "hymnary.org" },
+        { "key": "year", "label": "出版年份", "value": "1963", "sourceUrl": "https://hymnary.org/text/weve_got_a_great_big_wonderful_god", "sourceLabel": "hymnary.org" },
+        { "key": "themes", "label": "主題標籤", "value": "讚美、保護、得勝、復活、再來" }
+      ],
+      "allSources": ["https://hymnary.org/text/weve_got_a_great_big_wonderful_god", "https://hymnary.org/tune/weve_got_a_great_big_wonderful_spencer"]
+    },
+    {
+      "id": "hymn_b_26",
+      "collection": "hymn_b",
+      "hymnAbbr": "敬",
+      "number": "026",
+      "fields": [
+        { "key": "titleOriginal", "label": "原文歌名", "value": "I Will Praise Him", "sourceUrl": "https://hymnary.org/text/i_will_praise_him_in_the_morning_shea", "sourceLabel": "hymnary.org" },
+        { "key": "lyricist", "label": "作詞", "value": "George Beverly Shea；Elaine Shea Anderson", "sourceUrl": "https://hymnary.org/text/i_will_praise_him_in_the_morning_shea", "sourceLabel": "hymnary.org" },
+        { "key": "composer", "label": "作曲", "value": "George Beverly Shea", "sourceUrl": "https://hymnary.org/hymn/SSS1977/154", "sourceLabel": "hymnary.org" },
+        { "key": "year", "label": "出版年份", "value": "1977", "sourceUrl": "https://hymnary.org/text/i_will_praise_him_in_the_morning_shea", "sourceLabel": "hymnary.org" },
+        { "key": "themes", "label": "主題標籤", "value": "讚美、每日生活、試煉、引導、盼望" }
+      ],
+      "allSources": ["https://hymnary.org/text/i_will_praise_him_in_the_morning_shea", "https://hymnary.org/hymn/SSS1977/154"]
+    },
+    {
+      "id": "hymn_b_27",
+      "collection": "hymn_b",
+      "hymnAbbr": "敬",
+      "number": "027",
+      "fields": [
+        { "key": "titleOriginal", "label": "原文歌名", "value": "Praise Him, All Ye Little Children", "sourceUrl": "https://hymnary.org/text/praise_him_praise_him_all_ye_little_chil", "sourceLabel": "hymnary.org" },
+        { "key": "lyricist", "label": "作詞", "value": "佚名", "sourceUrl": "https://www.mobilehymns.org/english/Praise_Him_All_Ye_Little_Children.html", "sourceLabel": "mobilehymns.org" },
+        { "key": "composer", "label": "作曲", "value": "Carey Bonner；曲調：BONNER", "sourceUrl": "https://hymnary.org/text/praise_him_praise_him_all_ye_little_chil", "sourceLabel": "hymnary.org" },
+        { "key": "themes", "label": "主題標籤", "value": "兒童、讚美、愛神、神是愛" }
+      ],
+      "allSources": ["https://hymnary.org/text/praise_him_praise_him_all_ye_little_chil", "https://www.mobilehymns.org/english/Praise_Him_All_Ye_Little_Children.html"]
+    },
+    {
+      "id": "hymn_b_28",
+      "collection": "hymn_b",
+      "hymnAbbr": "敬",
+      "number": "028",
+      "fields": [
+        { "key": "titleOriginal", "label": "原文歌名", "value": "Praise the Savior Now and Ever（Nelson）", "sourceUrl": "https://hymnary.org/text/praise_the_savior_now_and_ever_nelson", "sourceLabel": "hymnary.org" },
+        { "key": "lyricist", "label": "作詞", "value": "Venantius H. C. Fortunatus (英文譯詞：Augustus Nelson）", "sourceUrl": "https://hymnary.org/text/praise_the_savior_now_and_ever_nelson", "sourceLabel": "hymnary.org" },
+        { "key": "year", "label": "原作年份", "value": "傳統定年 569", "sourceUrl": "https://hymnary.org/text/praise_the_savior_now_and_ever_nelson", "sourceLabel": "hymnary.org" },
+        { "key": "themes", "label": "主題標籤", "value": "救贖、十字架、復活、得勝、三一頌" },
+        { "key": "background", "label": "背景故事摘要", "value": "Venantius H. Fortunatus 的拉丁聖詩 Pange, lingua, gloriosi proelium 傳統定年 569，為中世紀教會聖週禮儀而作；現有英文文本由 Augustus Nelson 翻譯，經 Johan Olaf Wallin 1819 年瑞典文版本傳承。", "sourceUrl": "https://hymnary.org/text/praise_the_savior_now_and_ever_nelson", "sourceLabel": "hymnary.org" },
+        { "key": "scripture", "label": "相關經文", "value": "羅馬書 5:1–11；創世記 3:15", "sourceUrl": "https://hymnary.org/text/praise_the_savior_now_and_ever_nelson", "sourceLabel": "hymnary.org" }
+      ],
+      "allSources": ["https://hymnary.org/text/praise_the_savior_now_and_ever_nelson"]
+    },
+    {
+      "id": "hymn_b_29",
+      "collection": "hymn_b",
+      "hymnAbbr": "敬",
+      "number": "029",
+      "fields": [
+        { "key": "titleOriginal", "label": "原文歌名", "value": "Hallelu, Hallelujah", "sourceUrl": "https://www.musicnotes.com/sheetmusic/hallelu-hallelujah/34903", "sourceLabel": "musicnotes.com" },
+        { "key": "lyricist", "label": "作詞", "value": "傳統 / 佚名", "sourceUrl": "https://www.inspire4.com/songs-from-the-heart/praise-ye-the-lord-hallelujah/", "sourceLabel": "inspire4.com" },
+        { "key": "composer", "label": "作曲", "value": "傳統 / 佚名", "sourceUrl": "https://www.inspire4.com/songs-from-the-heart/praise-ye-the-lord-hallelujah/", "sourceLabel": "inspire4.com" },
+        { "key": "themes", "label": "主題標籤", "value": "哈利路亞、讚美、兒童詩歌" },
+        { "key": "background", "label": "背景故事摘要", "value": "《Praise Ye The Lord, Hallelujah》是一首作者不詳、廣受兒童及教會群體喜愛的讚美詩歌，一般認為內容取材自《詩篇 150》。經文呼籲人在神的聖所中，以號角、琴瑟、擊鼓、舞蹈及各樣樂器頌讚祂，並以「凡有氣息的都要讚美耶和華」作總結。此歌以簡單、活潑及反覆的方式表達同樣的信息，常用於兒童詩班及集體敬拜。", "sourceUrl": "https://www.inspire4.com/songs-from-the-heart/praise-ye-the-lord-hallelujah/", "sourceLabel": "inspire4.com" }
+      ],
+      "allSources": ["https://www.musicnotes.com/sheetmusic/hallelu-hallelujah/34903", "https://www.inspire4.com/songs-from-the-heart/praise-ye-the-lord-hallelujah/"]
+    },
+    {
+      "id": "hymn_b_30",
+      "collection": "hymn_b",
+      "hymnAbbr": "敬",
+      "number": "030",
+      "fields": [
+        { "key": "titleOriginal", "label": "原文歌名", "value": "Father, I Adore You", "sourceUrl": "https://hymnary.org/text/father_i_adore_you", "sourceLabel": "hymnary.org" },
+        { "key": "lyricist", "label": "作詞", "value": "Terrye Coelho Strom", "sourceUrl": "https://hymnary.org/text/father_i_adore_you", "sourceLabel": "hymnary.org" },
+        { "key": "composer", "label": "作曲", "value": "Terrye Coelho Strom；曲調：MARANATHA (Coelho)", "sourceUrl": "https://hymnary.org/tune/maranatha_coelho", "sourceLabel": "hymnary.org" },
+        { "key": "year", "label": "原作年份", "value": "1972", "sourceUrl": "https://hymnary.org/text/father_i_adore_you", "sourceLabel": "hymnary.org" },
+        { "key": "themes", "label": "主題標籤", "value": "敬拜、奉獻、愛神、三一神" },
+        { "key": "background", "label": "背景故事摘要", "value": "Terrye Coelho 於 1972 年與姊妹 Cathy 往返 Newport Beach 時唱歌並即興創作此曲；不久在 Calvary Chapel 首次演唱，同年由 Maranatha! Music 取得版權。簡短的三一頌讚文本常以三聲部輪唱。", "sourceUrl": "https://hymnary.org/text/father_i_adore_you", "sourceLabel": "hymnary.org" }
+      ],
+      "allSources": ["https://hymnary.org/text/father_i_adore_you", "https://hymnary.org/tune/maranatha_coelho"]
     }
   ]
 }
